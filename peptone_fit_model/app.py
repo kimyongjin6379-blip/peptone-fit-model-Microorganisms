@@ -45,7 +45,7 @@ def load_databases():
         peptone_db = PeptoneDatabase()
 
         base_dir = Path(__file__).resolve().parent
-        strain_file = base_dir / "data" / "★신사업1팀 균주 리스트 (2024 ver.).xlsx"
+        strain_file = base_dir / "data" / "신사업1팀 균주 리스트 (2024 ver.).xlsx"
         peptone_file = base_dir / "data" / "composition_template.xlsx"
 
         if strain_file.exists() and peptone_file.exists():
@@ -903,4 +903,5 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
 
