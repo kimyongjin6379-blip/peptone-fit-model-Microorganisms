@@ -40,23 +40,23 @@ if 'selected_strain' not in st.session_state:
 
 @st.cache_resource
 def load_databases():
-    """Load strain and peptone databases (cached)"""
     try:
         strain_db = StrainDatabase()
         peptone_db = PeptoneDatabase()
 
-        # Try to load from default locations
-        strain_file = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
-        peptone_file = Path(r"D:\folder1\composition_template.xlsx")
+        base_dir = Path(__file__).resolve().parent
+        strain_file = base_dir / "data" / "★신사업1팀 균주 리스트 (2024 ver.).xlsx"
+        peptone_file = base_dir / "data" / "composition_template.xlsx"
 
         if strain_file.exists() and peptone_file.exists():
             strain_db.load_from_excel(str(strain_file))
-            peptone_db.load_from_excel(str(peptone_file))
+            peptone_db.load_from_excel(str(str(peptone_file)))
             return strain_db, peptone_db, None
         else:
-            return None, None, "Data files not found. Please check file paths."
+            return None, None, f"Data files not found: {strain_file} / {peptone_file}"
     except Exception as e:
         return None, None, f"Error loading databases: {str(e)}"
+
 
 
 def main():
@@ -903,3 +903,4 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
