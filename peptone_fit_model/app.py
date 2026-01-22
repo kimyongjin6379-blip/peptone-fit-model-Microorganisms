@@ -440,6 +440,7 @@ def show_blend_optimization_page(strain_db, peptone_db):
                                    help="More accurate but slower")
         use_kegg_blend = st.checkbox("Use KEGG Analysis", value=True, key="blend_kegg",
                                     help="Include metabolic pathway data")
+        kegg_cache_only_blend = False
         if use_kegg_blend:
             kegg_cache_only_blend = st.checkbox("Cached data only", value=True, key="blend_kegg_cache",
                                               help="Faster, uses pre-cached data")
@@ -452,7 +453,7 @@ def show_blend_optimization_page(strain_db, peptone_db):
             recommender = EnhancedPeptoneRecommender(
                 strain_db, peptone_db,
                 use_kegg=use_kegg_blend,
-                kegg_cache_only=kegg_cache_only_blend if use_kegg_blend else False
+                kegg_cache_only=kegg_cache_only_blend
             )
 
             # Get optimized blends
@@ -927,5 +928,6 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
 
 
