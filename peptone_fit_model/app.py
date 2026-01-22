@@ -49,16 +49,25 @@ def load_databases(_strain_mtime, _peptone_mtime):
         strain_db = StrainDatabase()
         peptone_db = PeptoneDatabase()
 
-        # Try to load from default locations
-        strain_file = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
-        peptone_file = Path(r"D:\folder1\composition_template.xlsx")
+        # Try to load from CSV files (for Streamlit Cloud deployment)
+        strain_file = Path(__file__).parent.parent / "data" / "strains.csv"
+        peptone_file = Path(__file__).parent.parent / "data" / "peptones.csv"
 
         if strain_file.exists() and peptone_file.exists():
-            strain_db.load_from_excel(str(strain_file))
-            peptone_db.load_from_excel(str(peptone_file))
+            strain_db.load_from_csv(str(strain_file))
+            peptone_db.load_from_csv(str(peptone_file))
             return strain_db, peptone_db, None
         else:
-            return None, None, "Data files not found. Please check file paths."
+            # Fallback to Excel files (for local development)
+            strain_file_excel = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
+            peptone_file_excel = Path(r"D:\folder1\composition_template.xlsx")
+
+            if strain_file_excel.exists() and peptone_file_excel.exists():
+                strain_db.load_from_excel(str(strain_file_excel))
+                peptone_db.load_from_excel(str(peptone_file_excel))
+                return strain_db, peptone_db, None
+            else:
+                return None, None, "Data files not found. Please check file paths."
     except Exception as e:
         return None, None, f"Error loading databases: {str(e)}"
 
