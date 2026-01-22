@@ -291,7 +291,11 @@ class PeptoneDatabase:
                 if col in row:
                     value = row[col]
                     if pd.notna(value):
-                        cat_dict[col] = float(value)
+                        # Convert MW percentages to ratios (divide by 100)
+                        if category == 'molecular_weight' and col.startswith('mw_pct_'):
+                            cat_dict[col] = float(value) / 100.0
+                        else:
+                            cat_dict[col] = float(value)
                     else:
                         cat_dict[col] = 0.0
 
