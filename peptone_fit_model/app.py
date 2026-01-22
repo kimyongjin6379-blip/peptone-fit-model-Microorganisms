@@ -297,8 +297,7 @@ def show_single_recommendation_page(strain_db, peptone_db):
             if use_kegg:
                 recommender = EnhancedPeptoneRecommender(
                     strain_db, peptone_db,
-                    use_kegg=True,
-                    kegg_cache_only=kegg_cache_only
+                    use_kegg=True
                 )
                 recs = recommender.recommend_with_pathways(
                     strain.strain_id, top_n=top_n, sempio_only=sempio_only
@@ -452,8 +451,7 @@ def show_blend_optimization_page(strain_db, peptone_db):
             # Create enhanced recommender
             recommender = EnhancedPeptoneRecommender(
                 strain_db, peptone_db,
-                use_kegg=use_kegg_blend,
-                kegg_cache_only=kegg_cache_only_blend
+                use_kegg=use_kegg_blend
             )
 
             # Get optimized blends
@@ -928,6 +926,7 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
 
 
 
