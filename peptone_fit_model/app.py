@@ -38,25 +38,29 @@ if 'selected_strain' not in st.session_state:
     st.session_state.selected_strain = None
 
 
+def get_file_mtime(filepath):
+    """Get file modification time for cache invalidation"""
+    return filepath.stat().st_mtime if filepath.exists() else 0
+
 @st.cache_resource
-def load_databases():
+def load_databases(_strain_mtime, _peptone_mtime):
+    """Load strain and peptone databases (cached with file modification time check)"""
     try:
         strain_db = StrainDatabase()
         peptone_db = PeptoneDatabase()
 
-        base_dir = Path(__file__).resolve().parent
-        strain_file = base_dir / "data" / "신사업1팀 균주 리스트 (2024 ver.).xlsx"
-        peptone_file = base_dir / "data" / "composition_template.xlsx"
+        # Try to load from default locations
+        strain_file = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
+        peptone_file = Path(r"D:\folder1\composition_template.xlsx")
 
         if strain_file.exists() and peptone_file.exists():
             strain_db.load_from_excel(str(strain_file))
-            peptone_db.load_from_excel(str(str(peptone_file)))
+            peptone_db.load_from_excel(str(peptone_file))
             return strain_db, peptone_db, None
         else:
-            return None, None, f"Data files not found: {strain_file} / {peptone_file}"
+            return None, None, "Data files not found. Please check file paths."
     except Exception as e:
         return None, None, f"Error loading databases: {str(e)}"
-
 
 
 def main():
@@ -67,9 +71,15 @@ def main():
     st.markdown("### AI-Powered Peptone Recommendation System")
     st.markdown("---")
 
-    # Load databases
+    # Load databases (with file modification time for cache invalidation)
+    strain_file = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
+    peptone_file = Path(r"D:\folder1\composition_template.xlsx")
+
     with st.spinner("Loading databases..."):
-        strain_db, peptone_db, error = load_databases()
+        strain_db, peptone_db, error = load_databases(
+            get_file_mtime(strain_file),
+            get_file_mtime(peptone_file)
+        )
 
     if error:
         st.error(error)
@@ -249,8 +259,12 @@ def show_single_recommendation_page(strain_db, peptone_db):
 
         sempio_only = st.checkbox("Sempio Products Only", value=True)
         top_n = st.slider("Number of Recommendations", 3, 10, 5)
-        use_kegg = st.checkbox("Use KEGG Pathway Analysis", value=False,
-                              help="Slower but more accurate")
+        use_kegg = st.checkbox("Use KEGG Pathway Analysis", value=True,
+                              help="More accurate recommendations using metabolic pathway data")
+
+        if use_kegg:
+            kegg_cache_only = st.checkbox("Use cached data only (faster)", value=True,
+                                        help="Only use pre-cached KEGG data, no API calls")
 
     # Display strain info
     if strain:
@@ -281,7 +295,9 @@ def show_single_recommendation_page(strain_db, peptone_db):
             # Create recommender
             if use_kegg:
                 recommender = EnhancedPeptoneRecommender(
-                    strain_db, peptone_db, use_kegg=True
+                    strain_db, peptone_db,
+                    use_kegg=True,
+                    kegg_cache_only=kegg_cache_only
                 )
                 recs = recommender.recommend_with_pathways(
                     strain.strain_id, top_n=top_n, sempio_only=sempio_only
@@ -421,6 +437,11 @@ def show_blend_optimization_page(strain_db, peptone_db):
         sempio_only = st.checkbox("Sempio Only", value=True, key="blend_sempio")
         use_optimizer = st.checkbox("Use Scipy Optimizer", value=True,
                                    help="More accurate but slower")
+        use_kegg_blend = st.checkbox("Use KEGG Analysis", value=True, key="blend_kegg",
+                                    help="Include metabolic pathway data")
+        if use_kegg_blend:
+            kegg_cache_only_blend = st.checkbox("Cached data only", value=True, key="blend_kegg_cache",
+                                              help="Faster, uses pre-cached data")
 
     # Generate button
     if st.button("🔬 Optimize Blend", type="primary"):
@@ -428,7 +449,9 @@ def show_blend_optimization_page(strain_db, peptone_db):
 
             # Create enhanced recommender
             recommender = EnhancedPeptoneRecommender(
-                strain_db, peptone_db, use_kegg=False
+                strain_db, peptone_db,
+                use_kegg=use_kegg_blend,
+                kegg_cache_only=kegg_cache_only_blend if use_kegg_blend else False
             )
 
             # Get optimized blends
@@ -903,5 +926,3 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
-
-
