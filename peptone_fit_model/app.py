@@ -49,19 +49,19 @@ def load_databases(_strain_mtime, _peptone_mtime):
         strain_db = StrainDatabase()
         peptone_db = PeptoneDatabase()
 
-# Load from data directory
-strain_file = Path(__file__).parent / "data" / "신사업1팀 균주 리스트 (2024 ver.).xlsx"
-peptone_file = Path(__file__).parent / "data" / "composition_template.xlsx"
+        # Load from data directory
+        strain_file = Path(__file__).parent / "data" / "신사업1팀 균주 리스트 (2024 ver.).xlsx"
+        peptone_file = Path(__file__).parent / "data" / "composition_template.xlsx"
 
-if strain_file.exists() and peptone_file.exists():
-    strain_db.load_from_excel(str(strain_file))
-    peptone_db.load_from_excel(str(peptone_file))
-    return strain_db, peptone_db, None
-else:
-    return None, None, "Data files not found. Please check file paths."
-
+        if strain_file.exists() and peptone_file.exists():
+            strain_db.load_from_excel(str(strain_file))
+            peptone_db.load_from_excel(str(peptone_file))
+            return strain_db, peptone_db, None
+        else:
+            return None, None, "Data files not found. Please check file paths."
     except Exception as e:
         return None, None, f"Error loading databases: {str(e)}"
+
 
 
 def main():
@@ -927,4 +927,5 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
 
