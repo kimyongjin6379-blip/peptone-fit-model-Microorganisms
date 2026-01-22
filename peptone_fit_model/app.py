@@ -49,27 +49,19 @@ def load_databases(_strain_mtime, _peptone_mtime):
         strain_db = StrainDatabase()
         peptone_db = PeptoneDatabase()
 
-        # Try to load from CSV files (for Streamlit Cloud deployment)
-        strain_file = Path(__file__).parent.parent / "data" / "strains.csv"
-        peptone_file = Path(__file__).parent.parent / "data" / "peptones.csv"
+        # Load from data directory
+        strain_file = Path(__file__).parent / "data" / "신사업1팀 균주 리스트 (2024 ver.).xlsx"
+        peptone_file = Path(__file__).parent / "data" / "composition_template.xlsx"
 
         if strain_file.exists() and peptone_file.exists():
-            strain_db.load_from_csv(str(strain_file))
-            peptone_db.load_from_csv(str(peptone_file))
+            strain_db.load_from_excel(str(strain_file))
+            peptone_db.load_from_excel(str(peptone_file))
             return strain_db, peptone_db, None
         else:
-            # Fallback to Excel files (for local development)
-            strain_file_excel = Path(r"D:\folder1\★신사업1팀 균주 리스트 (2024 ver.).xlsx")
-            peptone_file_excel = Path(r"D:\folder1\composition_template.xlsx")
-
-            if strain_file_excel.exists() and peptone_file_excel.exists():
-                strain_db.load_from_excel(str(strain_file_excel))
-                peptone_db.load_from_excel(str(peptone_file_excel))
-                return strain_db, peptone_db, None
-            else:
-                return None, None, "Data files not found. Please check file paths."
+            return None, None, "Data files not found. Please check file paths."
     except Exception as e:
         return None, None, f"Error loading databases: {str(e)}"
+
 
 
 def main():
@@ -305,8 +297,7 @@ def show_single_recommendation_page(strain_db, peptone_db):
             if use_kegg:
                 recommender = EnhancedPeptoneRecommender(
                     strain_db, peptone_db,
-                    use_kegg=True,
-                    kegg_cache_only=kegg_cache_only
+                    use_kegg=True
                 )
                 recs = recommender.recommend_with_pathways(
                     strain.strain_id, top_n=top_n, sempio_only=sempio_only
@@ -448,6 +439,7 @@ def show_blend_optimization_page(strain_db, peptone_db):
                                    help="More accurate but slower")
         use_kegg_blend = st.checkbox("Use KEGG Analysis", value=True, key="blend_kegg",
                                     help="Include metabolic pathway data")
+        kegg_cache_only_blend = False
         if use_kegg_blend:
             kegg_cache_only_blend = st.checkbox("Cached data only", value=True, key="blend_kegg_cache",
                                               help="Faster, uses pre-cached data")
@@ -459,8 +451,7 @@ def show_blend_optimization_page(strain_db, peptone_db):
             # Create enhanced recommender
             recommender = EnhancedPeptoneRecommender(
                 strain_db, peptone_db,
-                use_kegg=use_kegg_blend,
-                kegg_cache_only=kegg_cache_only_blend if use_kegg_blend else False
+                use_kegg=use_kegg_blend
             )
 
             # Get optimized blends
@@ -935,3 +926,7 @@ def show_about_page():
 
 if __name__ == "__main__":
     main()
+
+
+
+
