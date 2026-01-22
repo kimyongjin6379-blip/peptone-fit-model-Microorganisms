@@ -1,0 +1,2048 @@
+{
+  "organism_code": "lbr",
+  "organism_name": "lbr",
+  "retrieved_at": "2026-01-21T17:00:41.676264",
+  "pathways": {
+    "lbr01100": {
+      "pathway_id": "lbr01100",
+      "name": "Metabolic pathways - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01110": {
+      "pathway_id": "lbr01110",
+      "name": "Biosynthesis of secondary metabolites - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01120": {
+      "pathway_id": "lbr01120",
+      "name": "Microbial metabolism in diverse environments - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01200": {
+      "pathway_id": "lbr01200",
+      "name": "Carbon metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01210": {
+      "pathway_id": "lbr01210",
+      "name": "2-Oxocarboxylic acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01212": {
+      "pathway_id": "lbr01212",
+      "name": "Fatty acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01230": {
+      "pathway_id": "lbr01230",
+      "name": "Biosynthesis of amino acids - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01232": {
+      "pathway_id": "lbr01232",
+      "name": "Nucleotide metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01250": {
+      "pathway_id": "lbr01250",
+      "name": "Biosynthesis of nucleotide sugars - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01240": {
+      "pathway_id": "lbr01240",
+      "name": "Biosynthesis of cofactors - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01220": {
+      "pathway_id": "lbr01220",
+      "name": "Degradation of aromatic compounds - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr00010": {
+      "pathway_id": "lbr00010",
+      "name": "Glycolysis / Gluconeogenesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0254",
+        "LVIS_0465",
+        "LVIS_0514",
+        "LVIS_0570",
+        "LVIS_0661",
+        "LVIS_0662",
+        "LVIS_0663",
+        "LVIS_0664",
+        "LVIS_0765",
+        "LVIS_0996",
+        "LVIS_1019",
+        "LVIS_1312",
+        "LVIS_1406",
+        "LVIS_1407",
+        "LVIS_1408",
+        "LVIS_1409",
+        "LVIS_1410",
+        "LVIS_1907",
+        "LVIS_1908",
+        "LVIS_2042"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00020": {
+      "pathway_id": "lbr00020",
+      "name": "Citrate cycle (TCA cycle) - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0714",
+        "LVIS_1407",
+        "LVIS_1408",
+        "LVIS_1409",
+        "LVIS_1410"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00030": {
+      "pathway_id": "lbr00030",
+      "name": "Pentose phosphate pathway - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0094",
+        "LVIS_0097",
+        "LVIS_0128",
+        "LVIS_0143",
+        "LVIS_0144",
+        "LVIS_0324",
+        "LVIS_0325",
+        "LVIS_0441",
+        "LVIS_0442",
+        "LVIS_0443",
+        "LVIS_0476",
+        "LVIS_0480",
+        "LVIS_0574",
+        "LVIS_0764",
+        "LVIS_0960",
+        "LVIS_1312",
+        "LVIS_1420",
+        "LVIS_1421",
+        "LVIS_1430",
+        "LVIS_1585",
+        "LVIS_1594",
+        "LVIS_1595",
+        "LVIS_1877",
+        "LVIS_1907",
+        "LVIS_2072"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00040": {
+      "pathway_id": "lbr00040",
+      "name": "Pentose and glucuronate interconversions - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0108",
+        "LVIS_0127",
+        "LVIS_0135",
+        "LVIS_0138",
+        "LVIS_0139",
+        "LVIS_0146",
+        "LVIS_0149",
+        "LVIS_0150",
+        "LVIS_0183",
+        "LVIS_0184",
+        "LVIS_0326",
+        "LVIS_0644",
+        "LVIS_0960",
+        "LVIS_1740",
+        "LVIS_1741"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00051": {
+      "pathway_id": "lbr00051",
+      "name": "Fructose and mannose metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0183",
+        "LVIS_0557",
+        "LVIS_0558",
+        "LVIS_0663",
+        "LVIS_1656",
+        "LVIS_2163"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00052": {
+      "pathway_id": "lbr00052",
+      "name": "Galactose metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0137",
+        "LVIS_0309",
+        "LVIS_0328",
+        "LVIS_0644",
+        "LVIS_0996",
+        "LVIS_1740",
+        "LVIS_1758",
+        "LVIS_1902",
+        "LVIS_1903",
+        "LVIS_1904",
+        "LVIS_1907",
+        "LVIS_1908",
+        "LVIS_2180",
+        "LVIS_2258",
+        "LVIS_2259"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00053": {
+      "pathway_id": "lbr00053",
+      "name": "Ascorbate and aldarate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0138",
+        "LVIS_1741"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00500": {
+      "pathway_id": "lbr00500",
+      "name": "Starch and sucrose metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0137",
+        "LVIS_0309",
+        "LVIS_0342",
+        "LVIS_0358",
+        "LVIS_0465",
+        "LVIS_0644",
+        "LVIS_0996",
+        "LVIS_1312",
+        "LVIS_1518",
+        "LVIS_1821",
+        "LVIS_1907",
+        "LVIS_1925",
+        "LVIS_1961",
+        "LVIS_2163",
+        "LVIS_2180"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00620": {
+      "pathway_id": "lbr00620",
+      "name": "Pyruvate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0129",
+        "LVIS_0196",
+        "LVIS_0254",
+        "LVIS_0313",
+        "LVIS_0514",
+        "LVIS_0674",
+        "LVIS_0714",
+        "LVIS_0765",
+        "LVIS_0926",
+        "LVIS_0927",
+        "LVIS_0928",
+        "LVIS_0930",
+        "LVIS_1014",
+        "LVIS_1019",
+        "LVIS_1190",
+        "LVIS_1352",
+        "LVIS_1406",
+        "LVIS_1407",
+        "LVIS_1408",
+        "LVIS_1409",
+        "LVIS_1410",
+        "LVIS_1601",
+        "LVIS_1849",
+        "LVIS_2160",
+        "LVIS_2203",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00630": {
+      "pathway_id": "lbr00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0324",
+        "LVIS_0413",
+        "LVIS_0906",
+        "LVIS_0990",
+        "LVIS_1287",
+        "LVIS_1407",
+        "LVIS_1951",
+        "LVIS_2087",
+        "LVIS_2218",
+        "LVIS_2240",
+        "LVIS_2295"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00640": {
+      "pathway_id": "lbr00640",
+      "name": "Propanoate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0129",
+        "LVIS_0196",
+        "LVIS_0514",
+        "LVIS_0674",
+        "LVIS_0926",
+        "LVIS_0927",
+        "LVIS_0928",
+        "LVIS_0930",
+        "LVIS_1190",
+        "LVIS_1406",
+        "LVIS_1407",
+        "LVIS_1601",
+        "LVIS_1602",
+        "LVIS_1603",
+        "LVIS_1608",
+        "LVIS_1613",
+        "LVIS_1614",
+        "LVIS_1615",
+        "LVIS_2165",
+        "LVIS_2191"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00650": {
+      "pathway_id": "lbr00650",
+      "name": "Butanoate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0079",
+        "LVIS_0119",
+        "LVIS_0187",
+        "LVIS_0246",
+        "LVIS_0323",
+        "LVIS_0491",
+        "LVIS_0492",
+        "LVIS_0594",
+        "LVIS_1363",
+        "LVIS_1802",
+        "LVIS_1847",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00660": {
+      "pathway_id": "lbr00660",
+      "name": "C5-Branched dibasic acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0491",
+        "LVIS_0492"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00562": {
+      "pathway_id": "lbr00562",
+      "name": "Inositol phosphate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0663",
+        "LVIS_1404"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00190": {
+      "pathway_id": "lbr00190",
+      "name": "Oxidative phosphorylation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0320",
+        "LVIS_0703",
+        "LVIS_0807",
+        "LVIS_1278",
+        "LVIS_1279",
+        "LVIS_1280",
+        "LVIS_1281",
+        "LVIS_1282",
+        "LVIS_1283",
+        "LVIS_1284",
+        "LVIS_1285",
+        "LVIS_1641",
+        "LVIS_1642"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00710": {
+      "pathway_id": "lbr00710",
+      "name": "Carbon fixation by Calvin cycle - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0574",
+        "LVIS_0661",
+        "LVIS_0662",
+        "LVIS_0663",
+        "LVIS_0764",
+        "LVIS_0960",
+        "LVIS_1420"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00720": {
+      "pathway_id": "lbr00720",
+      "name": "Other carbon fixation pathways - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0129",
+        "LVIS_0674",
+        "LVIS_0714",
+        "LVIS_0834",
+        "LVIS_0926",
+        "LVIS_0927",
+        "LVIS_0928",
+        "LVIS_0930",
+        "LVIS_0978",
+        "LVIS_1190",
+        "LVIS_1601",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00680": {
+      "pathway_id": "lbr00680",
+      "name": "Methane metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0129",
+        "LVIS_0442",
+        "LVIS_0443",
+        "LVIS_0570",
+        "LVIS_0664",
+        "LVIS_0674",
+        "LVIS_1190",
+        "LVIS_1287",
+        "LVIS_1601",
+        "LVIS_2042"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00910": {
+      "pathway_id": "lbr00910",
+      "name": "Nitrogen metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0990",
+        "LVIS_2023",
+        "LVIS_2207",
+        "LVIS_2247"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00061": {
+      "pathway_id": "lbr00061",
+      "name": "Fatty acid biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0246",
+        "LVIS_0925",
+        "LVIS_0926",
+        "LVIS_0927",
+        "LVIS_0928",
+        "LVIS_0929",
+        "LVIS_0930",
+        "LVIS_0931",
+        "LVIS_0932",
+        "LVIS_0933",
+        "LVIS_0935",
+        "LVIS_0937"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00071": {
+      "pathway_id": "lbr00071",
+      "name": "Fatty acid degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0254",
+        "LVIS_1019",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00074": {
+      "pathway_id": "lbr00074",
+      "name": "Mycolic acid biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0507",
+        "LVIS_0933"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00561": {
+      "pathway_id": "lbr00561",
+      "name": "Glycerolipid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0238",
+        "LVIS_0413",
+        "LVIS_0803",
+        "LVIS_0897",
+        "LVIS_0954",
+        "LVIS_1355",
+        "LVIS_1546",
+        "LVIS_1550",
+        "LVIS_1628",
+        "LVIS_1758",
+        "LVIS_1812",
+        "LVIS_2165",
+        "LVIS_2191"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00564": {
+      "pathway_id": "lbr00564",
+      "name": "Glycerophospholipid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0118",
+        "LVIS_0643",
+        "LVIS_0803",
+        "LVIS_0993",
+        "LVIS_1239",
+        "LVIS_1267",
+        "LVIS_1344",
+        "LVIS_1355",
+        "LVIS_1565",
+        "LVIS_1628",
+        "LVIS_2288"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00600": {
+      "pathway_id": "lbr00600",
+      "name": "Sphingolipid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1758",
+        "LVIS_2226",
+        "LVIS_2258",
+        "LVIS_2259"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00230": {
+      "pathway_id": "lbr00230",
+      "name": "Purine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0040",
+        "LVIS_0226",
+        "LVIS_0227",
+        "LVIS_0228",
+        "LVIS_0278",
+        "LVIS_0449",
+        "LVIS_0476",
+        "LVIS_0522",
+        "LVIS_0595",
+        "LVIS_0596",
+        "LVIS_0702",
+        "LVIS_0704",
+        "LVIS_0728",
+        "LVIS_1043",
+        "LVIS_1213",
+        "LVIS_1234",
+        "LVIS_1367",
+        "LVIS_1376",
+        "LVIS_1430",
+        "LVIS_1439",
+        "LVIS_1473",
+        "LVIS_1593",
+        "LVIS_1594",
+        "LVIS_1635",
+        "LVIS_1636",
+        "LVIS_1669",
+        "LVIS_1759",
+        "LVIS_1780",
+        "LVIS_1898",
+        "LVIS_1907",
+        "LVIS_2023",
+        "LVIS_2058",
+        "LVIS_2067",
+        "LVIS_2072",
+        "LVIS_2142",
+        "LVIS_2207"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00240": {
+      "pathway_id": "lbr00240",
+      "name": "Pyrimidine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0040",
+        "LVIS_0283",
+        "LVIS_0487",
+        "LVIS_0576",
+        "LVIS_0595",
+        "LVIS_0596",
+        "LVIS_0604",
+        "LVIS_0776",
+        "LVIS_0784",
+        "LVIS_0829",
+        "LVIS_0830",
+        "LVIS_0831",
+        "LVIS_1007",
+        "LVIS_1234",
+        "LVIS_1286",
+        "LVIS_1291",
+        "LVIS_1348",
+        "LVIS_1367",
+        "LVIS_1396",
+        "LVIS_1591",
+        "LVIS_1780",
+        "LVIS_1898",
+        "LVIS_1932",
+        "LVIS_2142",
+        "LVIS_2188",
+        "LVIS_2228",
+        "LVIS_2229"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00250": {
+      "pathway_id": "lbr00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0079",
+        "LVIS_0227",
+        "LVIS_0228",
+        "LVIS_0323",
+        "LVIS_0687",
+        "LVIS_0829",
+        "LVIS_0830",
+        "LVIS_0990",
+        "LVIS_1053",
+        "LVIS_1499",
+        "LVIS_1501",
+        "LVIS_1649",
+        "LVIS_1836",
+        "LVIS_1847"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00260": {
+      "pathway_id": "lbr00260",
+      "name": "Glycine, serine and threonine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0413",
+        "LVIS_0548",
+        "LVIS_0570",
+        "LVIS_1287",
+        "LVIS_1407",
+        "LVIS_1951",
+        "LVIS_2042"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00270": {
+      "pathway_id": "lbr00270",
+      "name": "Cysteine and methionine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0300",
+        "LVIS_0340",
+        "LVIS_0514",
+        "LVIS_0548",
+        "LVIS_1258",
+        "LVIS_1406",
+        "LVIS_1437",
+        "LVIS_1523",
+        "LVIS_1590"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00280": {
+      "pathway_id": "lbr00280",
+      "name": "Valine, leucine and isoleucine degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1363",
+        "LVIS_1407",
+        "LVIS_1796",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00290": {
+      "pathway_id": "lbr00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0491"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00300": {
+      "pathway_id": "lbr00300",
+      "name": "Lysine biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0070",
+        "LVIS_0192",
+        "LVIS_0253",
+        "LVIS_0503",
+        "LVIS_0864",
+        "LVIS_2032",
+        "LVIS_2087",
+        "LVIS_2240",
+        "LVIS_2269"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00310": {
+      "pathway_id": "lbr00310",
+      "name": "Lysine degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0323",
+        "LVIS_1407",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00220": {
+      "pathway_id": "lbr00220",
+      "name": "Arginine biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0829",
+        "LVIS_0830",
+        "LVIS_0990",
+        "LVIS_2023",
+        "LVIS_2026",
+        "LVIS_2027",
+        "LVIS_2207"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00330": {
+      "pathway_id": "lbr00330",
+      "name": "Arginine and proline metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0538",
+        "LVIS_1426",
+        "LVIS_1783",
+        "LVIS_1932",
+        "LVIS_2206",
+        "LVIS_2208",
+        "LVIS_2232"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00350": {
+      "pathway_id": "lbr00350",
+      "name": "Tyrosine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0254",
+        "LVIS_0323",
+        "LVIS_0911",
+        "LVIS_1019",
+        "LVIS_2213"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00360": {
+      "pathway_id": "lbr00360",
+      "name": "Phenylalanine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0594",
+        "LVIS_0911",
+        "LVIS_1426"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00380": {
+      "pathway_id": "lbr00380",
+      "name": "Tryptophan metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0906",
+        "LVIS_1407",
+        "LVIS_1426",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00430": {
+      "pathway_id": "lbr00430",
+      "name": "Taurine and hypotaurine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0079",
+        "LVIS_0129",
+        "LVIS_0674",
+        "LVIS_1053",
+        "LVIS_1190",
+        "LVIS_1601",
+        "LVIS_1847"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00450": {
+      "pathway_id": "lbr00450",
+      "name": "Selenocompound metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0300",
+        "LVIS_0455",
+        "LVIS_0645"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00460": {
+      "pathway_id": "lbr00460",
+      "name": "Cyanoamino acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1287",
+        "LVIS_1649",
+        "LVIS_1836",
+        "LVIS_1961"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00470": {
+      "pathway_id": "lbr00470",
+      "name": "D-Amino acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0508",
+        "LVIS_1214",
+        "LVIS_1268",
+        "LVIS_1324",
+        "LVIS_1326",
+        "LVIS_1450",
+        "LVIS_1499"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00480": {
+      "pathway_id": "lbr00480",
+      "name": "Glutathione metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0094",
+        "LVIS_0097",
+        "LVIS_0144",
+        "LVIS_0434",
+        "LVIS_1590",
+        "LVIS_1756",
+        "LVIS_2003",
+        "LVIS_2051"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00520": {
+      "pathway_id": "lbr00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0375",
+        "LVIS_0475",
+        "LVIS_0494",
+        "LVIS_0539",
+        "LVIS_0557",
+        "LVIS_0558",
+        "LVIS_0644",
+        "LVIS_0681",
+        "LVIS_0686",
+        "LVIS_0687",
+        "LVIS_0689",
+        "LVIS_0996",
+        "LVIS_1276",
+        "LVIS_1312",
+        "LVIS_1424",
+        "LVIS_1574",
+        "LVIS_1656",
+        "LVIS_1750",
+        "LVIS_1902",
+        "LVIS_1903",
+        "LVIS_1904",
+        "LVIS_1907",
+        "LVIS_2163",
+        "LVIS_2221",
+        "LVIS_2285"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00541": {
+      "pathway_id": "lbr00541",
+      "name": "Biosynthesis of various nucleotide sugars - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0475",
+        "LVIS_0644",
+        "LVIS_1574"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00511": {
+      "pathway_id": "lbr00511",
+      "name": "Other glycan degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_2226",
+        "LVIS_2258",
+        "LVIS_2259"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00542": {
+      "pathway_id": "lbr00542",
+      "name": "O-Antigen repeat unit biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0622"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00550": {
+      "pathway_id": "lbr00550",
+      "name": "Peptidoglycan biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0070",
+        "LVIS_0271",
+        "LVIS_0494",
+        "LVIS_0503",
+        "LVIS_0681",
+        "LVIS_0750",
+        "LVIS_0851",
+        "LVIS_1001",
+        "LVIS_1047",
+        "LVIS_1268",
+        "LVIS_1272",
+        "LVIS_1276",
+        "LVIS_1292",
+        "LVIS_1293",
+        "LVIS_1345",
+        "LVIS_1402",
+        "LVIS_1449",
+        "LVIS_1450",
+        "LVIS_1451",
+        "LVIS_1452",
+        "LVIS_1489",
+        "LVIS_1825",
+        "LVIS_1826",
+        "LVIS_2055",
+        "LVIS_2158"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00552": {
+      "pathway_id": "lbr00552",
+      "name": "Teichoic acid biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0381",
+        "LVIS_0542",
+        "LVIS_0567",
+        "LVIS_0622",
+        "LVIS_0705",
+        "LVIS_0739",
+        "LVIS_0741",
+        "LVIS_1323",
+        "LVIS_1324",
+        "LVIS_1325",
+        "LVIS_1326",
+        "LVIS_1464",
+        "LVIS_1465",
+        "LVIS_1546",
+        "LVIS_1549",
+        "LVIS_1550",
+        "LVIS_1563",
+        "LVIS_1646",
+        "LVIS_1812",
+        "LVIS_2154"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00543": {
+      "pathway_id": "lbr00543",
+      "name": "Exopolysaccharide biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0622",
+        "LVIS_0891",
+        "LVIS_1066"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00730": {
+      "pathway_id": "lbr00730",
+      "name": "Thiamine metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0907",
+        "LVIS_0959",
+        "LVIS_0961",
+        "LVIS_1255",
+        "LVIS_1256",
+        "LVIS_1436",
+        "LVIS_1669",
+        "LVIS_1830",
+        "LVIS_1934",
+        "LVIS_2097",
+        "LVIS_2098",
+        "LVIS_2099"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00740": {
+      "pathway_id": "lbr00740",
+      "name": "Riboflavin metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0103",
+        "LVIS_0863",
+        "LVIS_1332",
+        "LVIS_1439",
+        "LVIS_1650",
+        "LVIS_1651",
+        "LVIS_1652",
+        "LVIS_1653",
+        "LVIS_2099"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00750": {
+      "pathway_id": "lbr00750",
+      "name": "Vitamin B6 metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0099",
+        "LVIS_2152"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00760": {
+      "pathway_id": "lbr00760",
+      "name": "Nicotinate and nicotinamide metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0323",
+        "LVIS_0452",
+        "LVIS_0543",
+        "LVIS_0544",
+        "LVIS_1029",
+        "LVIS_1472",
+        "LVIS_1593"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00770": {
+      "pathway_id": "lbr00770",
+      "name": "Pantothenate and CoA biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0491",
+        "LVIS_0507",
+        "LVIS_0967",
+        "LVIS_1040",
+        "LVIS_1399",
+        "LVIS_1761",
+        "LVIS_2138"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00780": {
+      "pathway_id": "lbr00780",
+      "name": "Biotin metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0924",
+        "LVIS_0925",
+        "LVIS_0929",
+        "LVIS_0931",
+        "LVIS_0932",
+        "LVIS_0937"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00785": {
+      "pathway_id": "lbr00785",
+      "name": "Lipoic acid metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0180",
+        "LVIS_0483",
+        "LVIS_1407",
+        "LVIS_1408",
+        "LVIS_1409",
+        "LVIS_1410",
+        "LVIS_1647",
+        "LVIS_1950",
+        "LVIS_1951"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00790": {
+      "pathway_id": "lbr00790",
+      "name": "Folate biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0785",
+        "LVIS_1252",
+        "LVIS_1651"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00670": {
+      "pathway_id": "lbr00670",
+      "name": "One carbon pool by folate - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0784",
+        "LVIS_0785",
+        "LVIS_0834",
+        "LVIS_0978",
+        "LVIS_0999",
+        "LVIS_1287",
+        "LVIS_1407",
+        "LVIS_1523",
+        "LVIS_1951"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00860": {
+      "pathway_id": "lbr00860",
+      "name": "Porphyrin metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0138",
+        "LVIS_1897"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00130": {
+      "pathway_id": "lbr00130",
+      "name": "Ubiquinone and other terpenoid-quinone biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0065",
+        "LVIS_0066",
+        "LVIS_0067",
+        "LVIS_0379",
+        "LVIS_1637",
+        "LVIS_1920",
+        "LVIS_2278"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00900": {
+      "pathway_id": "lbr00900",
+      "name": "Terpenoid backbone biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0450",
+        "LVIS_0460",
+        "LVIS_0858",
+        "LVIS_0859",
+        "LVIS_0860",
+        "LVIS_0861",
+        "LVIS_0975",
+        "LVIS_1345",
+        "LVIS_1363",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00903": {
+      "pathway_id": "lbr00903",
+      "name": "Limonene degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0232"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr01054": {
+      "pathway_id": "lbr01054",
+      "name": "Nonribosomal peptide structures - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1499"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00946": {
+      "pathway_id": "lbr00946",
+      "name": "Degradation of flavonoids - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1961"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00311": {
+      "pathway_id": "lbr00311",
+      "name": "Penicillin and cephalosporin biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1962",
+        "LVIS_2002",
+        "LVIS_2132"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00521": {
+      "pathway_id": "lbr00521",
+      "name": "Streptomycin biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0996",
+        "LVIS_1404",
+        "LVIS_1907"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00999": {
+      "pathway_id": "lbr00999",
+      "name": "Biosynthesis of various plant secondary metabolites",
+      "genes": [
+        "LVIS_1523",
+        "LVIS_1961"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00362": {
+      "pathway_id": "lbr00362",
+      "name": "Benzoate degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0594",
+        "LVIS_0898",
+        "LVIS_1969",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00627": {
+      "pathway_id": "lbr00627",
+      "name": "Aminobenzoate degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1014",
+        "LVIS_1426",
+        "LVIS_1986",
+        "LVIS_1987",
+        "LVIS_1988"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00625": {
+      "pathway_id": "lbr00625",
+      "name": "Chloroalkane and chloroalkene degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0254",
+        "LVIS_1019",
+        "LVIS_2192"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00622": {
+      "pathway_id": "lbr00622",
+      "name": "Xylene degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0898",
+        "LVIS_0911"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00643": {
+      "pathway_id": "lbr00643",
+      "name": "Styrene degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1426"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00626": {
+      "pathway_id": "lbr00626",
+      "name": "Naphthalene degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0119",
+        "LVIS_0254",
+        "LVIS_1019"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03020": {
+      "pathway_id": "lbr03020",
+      "name": "RNA polymerase - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0486",
+        "LVIS_0968",
+        "LVIS_1664",
+        "LVIS_1697",
+        "LVIS_1698"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03010": {
+      "pathway_id": "lbr03010",
+      "name": "Ribosome - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0007",
+        "LVIS_0009",
+        "LVIS_0018",
+        "LVIS_0360",
+        "LVIS_0495",
+        "LVIS_0585",
+        "LVIS_0588",
+        "LVIS_0589",
+        "LVIS_0590",
+        "LVIS_0591",
+        "LVIS_0744",
+        "LVIS_0777",
+        "LVIS_0939",
+        "LVIS_0943",
+        "LVIS_0958",
+        "LVIS_0983",
+        "LVIS_0985",
+        "LVIS_1000",
+        "LVIS_1023",
+        "LVIS_1033",
+        "LVIS_1034",
+        "LVIS_1259",
+        "LVIS_1350",
+        "LVIS_1392",
+        "LVIS_1393",
+        "LVIS_1657",
+        "LVIS_1658",
+        "LVIS_1663",
+        "LVIS_1665",
+        "LVIS_1666",
+        "LVIS_1667",
+        "LVIS_1671",
+        "LVIS_1672",
+        "LVIS_1673",
+        "LVIS_1674",
+        "LVIS_1675",
+        "LVIS_1676",
+        "LVIS_1677",
+        "LVIS_1678",
+        "LVIS_1679",
+        "LVIS_1680",
+        "LVIS_1681",
+        "LVIS_1682",
+        "LVIS_1683",
+        "LVIS_1684",
+        "LVIS_1685",
+        "LVIS_1686",
+        "LVIS_1687",
+        "LVIS_1688",
+        "LVIS_1689",
+        "LVIS_1690",
+        "LVIS_1691",
+        "LVIS_1694",
+        "LVIS_1695",
+        "LVIS_2314",
+        "LVIS_r0082",
+        "LVIS_r0083",
+        "LVIS_r0084",
+        "LVIS_r0425",
+        "LVIS_r0426",
+        "LVIS_r0427",
+        "LVIS_r0526",
+        "LVIS_r0529",
+        "LVIS_r0530",
+        "LVIS_r1170",
+        "LVIS_r1171",
+        "LVIS_r1172",
+        "LVIS_r1541",
+        "LVIS_r1542",
+        "LVIS_r1545"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr00970": {
+      "pathway_id": "lbr00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0071",
+        "LVIS_0080",
+        "LVIS_0424",
+        "LVIS_0448",
+        "LVIS_0455",
+        "LVIS_0579",
+        "LVIS_0580",
+        "LVIS_0735",
+        "LVIS_0736",
+        "LVIS_0753",
+        "LVIS_0754",
+        "LVIS_0965",
+        "LVIS_1009",
+        "LVIS_1010",
+        "LVIS_1036",
+        "LVIS_1062",
+        "LVIS_1223",
+        "LVIS_1253",
+        "LVIS_1342",
+        "LVIS_1441",
+        "LVIS_1491",
+        "LVIS_1629",
+        "LVIS_1630",
+        "LVIS_1631",
+        "LVIS_1710",
+        "LVIS_2017",
+        "LVIS_2214",
+        "LVIS_t0028",
+        "LVIS_t0073",
+        "LVIS_t0074",
+        "LVIS_t0428",
+        "LVIS_t0527",
+        "LVIS_t0528",
+        "LVIS_t0531",
+        "LVIS_t0532",
+        "LVIS_t0536",
+        "LVIS_t0537",
+        "LVIS_t0549",
+        "LVIS_t0657",
+        "LVIS_t0659",
+        "LVIS_t1109",
+        "LVIS_t1111",
+        "LVIS_t1152",
+        "LVIS_t1153",
+        "LVIS_t1154",
+        "LVIS_t1155",
+        "LVIS_t1156",
+        "LVIS_t1157",
+        "LVIS_t1158",
+        "LVIS_t1159",
+        "LVIS_t1160",
+        "LVIS_t1161",
+        "LVIS_t1162",
+        "LVIS_t1163",
+        "LVIS_t1164",
+        "LVIS_t1165",
+        "LVIS_t1166",
+        "LVIS_t1167",
+        "LVIS_t1168",
+        "LVIS_t1169",
+        "LVIS_t1305",
+        "LVIS_t1306",
+        "LVIS_t1370",
+        "LVIS_t1492",
+        "LVIS_t1510",
+        "LVIS_t1530",
+        "LVIS_t1531",
+        "LVIS_t1532",
+        "LVIS_t1533",
+        "LVIS_t1534",
+        "LVIS_t1535",
+        "LVIS_t1536",
+        "LVIS_t1537",
+        "LVIS_t1538",
+        "LVIS_t1539",
+        "LVIS_t1540",
+        "LVIS_t1543",
+        "LVIS_t1544",
+        "LVIS_t1579",
+        "LVIS_t1702",
+        "LVIS_t1703",
+        "LVIS_t1704",
+        "LVIS_t1705",
+        "LVIS_t1706",
+        "LVIS_t1707",
+        "LVIS_t1708",
+        "LVIS_t1709",
+        "LVIS_t1841",
+        "LVIS_t1937",
+        "LVIS_t2126",
+        "LVIS_t2146"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03060": {
+      "pathway_id": "lbr03060",
+      "name": "Protein export - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0282",
+        "LVIS_0586",
+        "LVIS_0627",
+        "LVIS_0667",
+        "LVIS_0833",
+        "LVIS_0950",
+        "LVIS_1015",
+        "LVIS_1227",
+        "LVIS_1670",
+        "LVIS_2298",
+        "LVIS_2312",
+        "LVIS_B11"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr04122": {
+      "pathway_id": "lbr04122",
+      "name": "Sulfur relay system - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_1255",
+        "LVIS_1256",
+        "LVIS_1434",
+        "LVIS_1436"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03018": {
+      "pathway_id": "lbr03018",
+      "name": "RNA degradation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0505",
+        "LVIS_0618",
+        "LVIS_0664",
+        "LVIS_0669",
+        "LVIS_0703",
+        "LVIS_0774",
+        "LVIS_1235",
+        "LVIS_1329",
+        "LVIS_1391",
+        "LVIS_1414",
+        "LVIS_1751",
+        "LVIS_2112"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03030": {
+      "pathway_id": "lbr03030",
+      "name": "DNA replication - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0002",
+        "LVIS_0008",
+        "LVIS_0020",
+        "LVIS_0600",
+        "LVIS_0606",
+        "LVIS_0678",
+        "LVIS_0755",
+        "LVIS_0763",
+        "LVIS_0796",
+        "LVIS_0836",
+        "LVIS_1042",
+        "LVIS_1128",
+        "LVIS_1341",
+        "LVIS_1394",
+        "LVIS_1633",
+        "LVIS_1930"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03410": {
+      "pathway_id": "lbr03410",
+      "name": "Base excision repair - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0673",
+        "LVIS_0679",
+        "LVIS_0742",
+        "LVIS_0818",
+        "LVIS_1041",
+        "LVIS_1042",
+        "LVIS_1377",
+        "LVIS_1633",
+        "LVIS_1923",
+        "LVIS_1945",
+        "LVIS_1958",
+        "LVIS_1965"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03420": {
+      "pathway_id": "lbr03420",
+      "name": "Nucleotide excision repair - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0447",
+        "LVIS_0516",
+        "LVIS_0648",
+        "LVIS_0649",
+        "LVIS_1042",
+        "LVIS_1383",
+        "LVIS_1508",
+        "LVIS_1633",
+        "LVIS_1634",
+        "LVIS_1762",
+        "LVIS_1870"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03430": {
+      "pathway_id": "lbr03430",
+      "name": "Mismatch repair - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0002",
+        "LVIS_0008",
+        "LVIS_0044",
+        "LVIS_0447",
+        "LVIS_0600",
+        "LVIS_0606",
+        "LVIS_0678",
+        "LVIS_0763",
+        "LVIS_0976",
+        "LVIS_0977",
+        "LVIS_1217",
+        "LVIS_1232",
+        "LVIS_1233",
+        "LVIS_1341",
+        "LVIS_1377",
+        "LVIS_1394",
+        "LVIS_1633",
+        "LVIS_1634",
+        "LVIS_1762"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03440": {
+      "pathway_id": "lbr03440",
+      "name": "Homologous recombination - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0002",
+        "LVIS_0004",
+        "LVIS_0008",
+        "LVIS_0600",
+        "LVIS_0602",
+        "LVIS_0606",
+        "LVIS_0678",
+        "LVIS_0752",
+        "LVIS_0763",
+        "LVIS_0955",
+        "LVIS_0966",
+        "LVIS_1042",
+        "LVIS_1230",
+        "LVIS_1231",
+        "LVIS_1237",
+        "LVIS_1341",
+        "LVIS_1377",
+        "LVIS_1394",
+        "LVIS_1431"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr02010": {
+      "pathway_id": "lbr02010",
+      "name": "ABC transporters - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0011",
+        "LVIS_0014",
+        "LVIS_0024",
+        "LVIS_0057",
+        "LVIS_0105",
+        "LVIS_0256",
+        "LVIS_0257",
+        "LVIS_0292",
+        "LVIS_0293",
+        "LVIS_0294",
+        "LVIS_0295",
+        "LVIS_0409",
+        "LVIS_0410",
+        "LVIS_0633",
+        "LVIS_0634",
+        "LVIS_0635",
+        "LVIS_0636",
+        "LVIS_0637",
+        "LVIS_0671",
+        "LVIS_0694",
+        "LVIS_0740",
+        "LVIS_0923",
+        "LVIS_1200",
+        "LVIS_1201",
+        "LVIS_1295",
+        "LVIS_1296",
+        "LVIS_1356",
+        "LVIS_1425",
+        "LVIS_1427",
+        "LVIS_1428",
+        "LVIS_1589",
+        "LVIS_1639",
+        "LVIS_1660",
+        "LVIS_1661",
+        "LVIS_1662",
+        "LVIS_1765",
+        "LVIS_1766",
+        "LVIS_1767",
+        "LVIS_1768",
+        "LVIS_1769",
+        "LVIS_1770",
+        "LVIS_1772",
+        "LVIS_1773",
+        "LVIS_1774",
+        "LVIS_1775",
+        "LVIS_1829",
+        "LVIS_1859",
+        "LVIS_1860",
+        "LVIS_1861",
+        "LVIS_1862",
+        "LVIS_1863",
+        "LVIS_1864",
+        "LVIS_1865",
+        "LVIS_1866",
+        "LVIS_1946",
+        "LVIS_1955",
+        "LVIS_1956",
+        "LVIS_1957",
+        "LVIS_1959",
+        "LVIS_1985",
+        "LVIS_1995",
+        "LVIS_2175",
+        "LVIS_2257"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr02060": {
+      "pathway_id": "lbr02060",
+      "name": "Phosphotransferase system (PTS) - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0328",
+        "LVIS_0342",
+        "LVIS_0557",
+        "LVIS_0558",
+        "LVIS_1551",
+        "LVIS_1552",
+        "LVIS_1821",
+        "LVIS_1869"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr03070": {
+      "pathway_id": "lbr03070",
+      "name": "Bacterial secretion system - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0586",
+        "LVIS_0627",
+        "LVIS_0667",
+        "LVIS_0950",
+        "LVIS_1015",
+        "LVIS_1227",
+        "LVIS_1670",
+        "LVIS_2312",
+        "LVIS_A04"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr02020": {
+      "pathway_id": "lbr02020",
+      "name": "Two-component system - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0001",
+        "LVIS_0029",
+        "LVIS_0030",
+        "LVIS_0034",
+        "LVIS_0163",
+        "LVIS_0164",
+        "LVIS_0165",
+        "LVIS_0202",
+        "LVIS_0354",
+        "LVIS_0355",
+        "LVIS_0499",
+        "LVIS_0592",
+        "LVIS_0620",
+        "LVIS_0621",
+        "LVIS_0631",
+        "LVIS_0632",
+        "LVIS_0633",
+        "LVIS_0990",
+        "LVIS_1017",
+        "LVIS_1018",
+        "LVIS_1323",
+        "LVIS_1324",
+        "LVIS_1325",
+        "LVIS_1326",
+        "LVIS_1574",
+        "LVIS_1641",
+        "LVIS_1642",
+        "LVIS_1866",
+        "LVIS_2029",
+        "LVIS_2030",
+        "LVIS_2130",
+        "LVIS_2218"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr04142": {
+      "pathway_id": "lbr04142",
+      "name": "Lysosome - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0138",
+        "LVIS_2226"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr04146": {
+      "pathway_id": "lbr04146",
+      "name": "Peroxisome - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0858",
+        "LVIS_0906"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr02024": {
+      "pathway_id": "lbr02024",
+      "name": "Quorum sensing - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0011",
+        "LVIS_0014",
+        "LVIS_0024",
+        "LVIS_0057",
+        "LVIS_0078",
+        "LVIS_0079",
+        "LVIS_0163",
+        "LVIS_0164",
+        "LVIS_0165",
+        "LVIS_0174",
+        "LVIS_0175",
+        "LVIS_0176",
+        "LVIS_0177",
+        "LVIS_0178",
+        "LVIS_0340",
+        "LVIS_0354",
+        "LVIS_0355",
+        "LVIS_0402",
+        "LVIS_0586",
+        "LVIS_0627",
+        "LVIS_0667",
+        "LVIS_0950",
+        "LVIS_1015",
+        "LVIS_1227",
+        "LVIS_1425",
+        "LVIS_1653",
+        "LVIS_1670",
+        "LVIS_1765",
+        "LVIS_1766",
+        "LVIS_1767",
+        "LVIS_1768",
+        "LVIS_1769",
+        "LVIS_1770",
+        "LVIS_1847",
+        "LVIS_1946",
+        "LVIS_1959",
+        "LVIS_2175",
+        "LVIS_2209",
+        "LVIS_2212",
+        "LVIS_2312"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr02040": {
+      "pathway_id": "lbr02040",
+      "name": "Flagellar assembly - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0756",
+        "LVIS_1427"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr04981": {
+      "pathway_id": "lbr04981",
+      "name": "Folate transport and metabolism - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0784",
+        "LVIS_0785",
+        "LVIS_0999",
+        "LVIS_1287"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr04382": {
+      "pathway_id": "lbr04382",
+      "name": "Cornified envelope formation - Levilactobacillus brevis ATCC 367",
+      "genes": [
+        "LVIS_0572",
+        "LVIS_2226",
+        "LVIS_2296"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lbr01501": {
+      "pathway_id": "lbr01501",
+      "name": "beta-Lactam resistance - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01502": {
+      "pathway_id": "lbr01502",
+      "name": "Vancomycin resistance - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lbr01503": {
+      "pathway_id": "lbr01503",
+      "name": "Cationic antimicrobial peptide (CAMP) resistance - Levilactobacillus brevis ATCC 367",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}

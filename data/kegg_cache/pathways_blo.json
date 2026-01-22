@@ -1,0 +1,2005 @@
+{
+  "organism_code": "blo",
+  "organism_name": "blo",
+  "retrieved_at": "2026-01-22T09:51:53.854266",
+  "pathways": {
+    "blo01100": {
+      "pathway_id": "blo01100",
+      "name": "Metabolic pathways - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01110": {
+      "pathway_id": "blo01110",
+      "name": "Biosynthesis of secondary metabolites - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01120": {
+      "pathway_id": "blo01120",
+      "name": "Microbial metabolism in diverse environments - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01200": {
+      "pathway_id": "blo01200",
+      "name": "Carbon metabolism - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01210": {
+      "pathway_id": "blo01210",
+      "name": "2-Oxocarboxylic acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01212": {
+      "pathway_id": "blo01212",
+      "name": "Fatty acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01230": {
+      "pathway_id": "blo01230",
+      "name": "Biosynthesis of amino acids - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01232": {
+      "pathway_id": "blo01232",
+      "name": "Nucleotide metabolism - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01250": {
+      "pathway_id": "blo01250",
+      "name": "Biosynthesis of nucleotide sugars - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01240": {
+      "pathway_id": "blo01240",
+      "name": "Biosynthesis of cofactors - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01220": {
+      "pathway_id": "blo01220",
+      "name": "Degradation of aromatic compounds - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo00010": {
+      "pathway_id": "blo00010",
+      "name": "Glycolysis / Gluconeogenesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0047",
+        "BL0279",
+        "BL0472",
+        "BL0550",
+        "BL0707",
+        "BL0708",
+        "BL0710",
+        "BL0988",
+        "BL1022",
+        "BL1074",
+        "BL1124",
+        "BL1308",
+        "BL1341",
+        "BL1359",
+        "BL1360",
+        "BL1363",
+        "BL1447",
+        "BL1575",
+        "BL1630",
+        "BL1656",
+        "BL1691"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00020": {
+      "pathway_id": "blo00020",
+      "name": "Citrate cycle (TCA cycle) - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0732",
+        "BL0733",
+        "BL0938",
+        "BL0939",
+        "BL1074",
+        "BL1397",
+        "BL1499",
+        "BL1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00030": {
+      "pathway_id": "blo00030",
+      "name": "Pentose phosphate pathway - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0279",
+        "BL0418",
+        "BL0440",
+        "BL0443",
+        "BL0444",
+        "BL0550",
+        "BL0620",
+        "BL0715",
+        "BL0716",
+        "BL0753",
+        "BL0959",
+        "BL0963",
+        "BL1431",
+        "BL1623",
+        "BL1630",
+        "BL1772"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00040": {
+      "pathway_id": "blo00040",
+      "name": "Pentose and glucuronate interconversions - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0272",
+        "BL0273",
+        "BL0739",
+        "BL0753",
+        "BL1293",
+        "BL1704",
+        "BL1709"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00051": {
+      "pathway_id": "blo00051",
+      "name": "Fructose and mannose metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0550",
+        "BL0708",
+        "BL1339",
+        "BL1704"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00052": {
+      "pathway_id": "blo00052",
+      "name": "Galactose metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0105",
+        "BL0259",
+        "BL0272",
+        "BL0529",
+        "BL0739",
+        "BL0978",
+        "BL1168",
+        "BL1210",
+        "BL1211",
+        "BL1245",
+        "BL1341",
+        "BL1359",
+        "BL1360",
+        "BL1518",
+        "BL1526",
+        "BL1630",
+        "BL1643",
+        "BL1644",
+        "BL1671",
+        "BL1691"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00053": {
+      "pathway_id": "blo00053",
+      "name": "Ascorbate and aldarate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0273",
+        "BL1124"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00500": {
+      "pathway_id": "blo00500",
+      "name": "Starch and sucrose metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0105",
+        "BL0279",
+        "BL0388",
+        "BL0527",
+        "BL0529",
+        "BL0536",
+        "BL0597",
+        "BL0739",
+        "BL0826",
+        "BL0866",
+        "BL0907",
+        "BL0982",
+        "BL0999",
+        "BL1339",
+        "BL1341",
+        "BL1526",
+        "BL1570",
+        "BL1573",
+        "BL1630",
+        "BL1691",
+        "BL1757",
+        "BL1761"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00620": {
+      "pathway_id": "blo00620",
+      "name": "Pyruvate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0488",
+        "BL0604",
+        "BL0710",
+        "BL0951",
+        "BL0968",
+        "BL0969",
+        "BL0988",
+        "BL1074",
+        "BL1124",
+        "BL1294",
+        "BL1308",
+        "BL1535",
+        "BL1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00630": {
+      "pathway_id": "blo00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0744",
+        "BL0845",
+        "BL1035",
+        "BL1074",
+        "BL1076",
+        "BL1221",
+        "BL1302",
+        "BL1397",
+        "BL1535",
+        "BL1536",
+        "BL1673",
+        "BL1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00640": {
+      "pathway_id": "blo00640",
+      "name": "Propanoate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0710",
+        "BL0732",
+        "BL0733",
+        "BL0951",
+        "BL0968",
+        "BL0969",
+        "BL1074",
+        "BL1308",
+        "BL1397",
+        "BL1535",
+        "BL1536",
+        "BL1673"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00650": {
+      "pathway_id": "blo00650",
+      "name": "Butanoate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0296",
+        "BL0297",
+        "BL0938",
+        "BL0939",
+        "BL0951",
+        "BL1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00660": {
+      "pathway_id": "blo00660",
+      "name": "C5-Branched dibasic acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0296",
+        "BL0297",
+        "BL0732",
+        "BL0733",
+        "BL1218",
+        "BL1262",
+        "BL1263"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00562": {
+      "pathway_id": "blo00562",
+      "name": "Inositol phosphate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0708",
+        "BL1796"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00190": {
+      "pathway_id": "blo00190",
+      "name": "Oxidative phosphorylation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0356",
+        "BL0357",
+        "BL0358",
+        "BL0359",
+        "BL0360",
+        "BL0361",
+        "BL0362",
+        "BL0363",
+        "BL0389",
+        "BL0938",
+        "BL0939",
+        "BL1259"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00710": {
+      "pathway_id": "blo00710",
+      "name": "Carbon fixation by Calvin cycle - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0550",
+        "BL0604",
+        "BL0707",
+        "BL0708",
+        "BL0715",
+        "BL0716",
+        "BL0753",
+        "BL1363",
+        "BL1623"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00720": {
+      "pathway_id": "blo00720",
+      "name": "Other carbon fixation pathways - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0478",
+        "BL0604",
+        "BL0732",
+        "BL0733",
+        "BL0797",
+        "BL0938",
+        "BL0939",
+        "BL0968",
+        "BL0969",
+        "BL0993",
+        "BL1397",
+        "BL1499"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00680": {
+      "pathway_id": "blo00680",
+      "name": "Methane metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0550",
+        "BL0604",
+        "BL0968",
+        "BL0969",
+        "BL1022",
+        "BL1035",
+        "BL1313",
+        "BL1447",
+        "BL1656",
+        "BL1660",
+        "BL1792"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00910": {
+      "pathway_id": "blo00910",
+      "name": "Nitrogen metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0616",
+        "BL0630",
+        "BL0833",
+        "BL0834",
+        "BL1076",
+        "BL1302"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00920": {
+      "pathway_id": "blo00920",
+      "name": "Sulfur metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0365",
+        "BL1155"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00061": {
+      "pathway_id": "blo00061",
+      "name": "Fatty acid biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0266",
+        "BL0512",
+        "BL0858",
+        "BL1501",
+        "BL1535",
+        "BL1537",
+        "BL1748"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00071": {
+      "pathway_id": "blo00071",
+      "name": "Fatty acid degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0266",
+        "BL0858",
+        "BL1124",
+        "BL1501",
+        "BL1575",
+        "BL1748"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00074": {
+      "pathway_id": "blo00074",
+      "name": "Mycolic acid biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1535",
+        "BL1537"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00121": {
+      "pathway_id": "blo00121",
+      "name": "Secondary bile acid biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0796"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00561": {
+      "pathway_id": "blo00561",
+      "name": "Glycerolipid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0845",
+        "BL1049",
+        "BL1124",
+        "BL1424",
+        "BL1518"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00564": {
+      "pathway_id": "blo00564",
+      "name": "Glycerophospholipid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0210",
+        "BL0346",
+        "BL0581",
+        "BL0750",
+        "BL1412",
+        "BL1424",
+        "BL1507"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00600": {
+      "pathway_id": "blo00600",
+      "name": "Sphingolipid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0978",
+        "BL1518"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00230": {
+      "pathway_id": "blo00230",
+      "name": "Purine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0070",
+        "BL0285",
+        "BL0325",
+        "BL0349",
+        "BL0418",
+        "BL0549",
+        "BL0670",
+        "BL0671",
+        "BL0725",
+        "BL0731",
+        "BL0735",
+        "BL0891",
+        "BL0960",
+        "BL0963",
+        "BL1019",
+        "BL1105",
+        "BL1107",
+        "BL1108",
+        "BL1121",
+        "BL1122",
+        "BL1123",
+        "BL1129",
+        "BL1130",
+        "BL1148",
+        "BL1407",
+        "BL1439",
+        "BL1500",
+        "BL1601",
+        "BL1630",
+        "BL1681",
+        "BL1722",
+        "BL1742",
+        "BL1752",
+        "BL1800"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00240": {
+      "pathway_id": "blo00240",
+      "name": "Pyrimidine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0011",
+        "BL0067",
+        "BL0068",
+        "BL0069",
+        "BL0484",
+        "BL0670",
+        "BL0671",
+        "BL0788",
+        "BL0789",
+        "BL0790",
+        "BL0791",
+        "BL0792",
+        "BL0793",
+        "BL0794",
+        "BL0874",
+        "BL1213",
+        "BL1254",
+        "BL1276",
+        "BL1438",
+        "BL1505",
+        "BL1512",
+        "BL1665",
+        "BL1752"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00250": {
+      "pathway_id": "blo00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0067",
+        "BL0068",
+        "BL0338",
+        "BL0549",
+        "BL0630",
+        "BL0712",
+        "BL0783",
+        "BL0793",
+        "BL0794",
+        "BL0833",
+        "BL0834",
+        "BL1057",
+        "BL1058",
+        "BL1076",
+        "BL1121",
+        "BL1142",
+        "BL1175",
+        "BL1286",
+        "BL1302",
+        "BL1375",
+        "BL1800"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00260": {
+      "pathway_id": "blo00260",
+      "name": "Glycine, serine and threonine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0492",
+        "BL0494",
+        "BL0755",
+        "BL0756",
+        "BL0845",
+        "BL1017",
+        "BL1035",
+        "BL1036",
+        "BL1074",
+        "BL1103",
+        "BL1156",
+        "BL1221",
+        "BL1274",
+        "BL1275",
+        "BL1313",
+        "BL1447",
+        "BL1527",
+        "BL1656",
+        "BL1660",
+        "BL1792"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00270": {
+      "pathway_id": "blo00270",
+      "name": "Cysteine and methionine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0078",
+        "BL0318",
+        "BL0325",
+        "BL0365",
+        "BL0492",
+        "BL0494",
+        "BL0564",
+        "BL0710",
+        "BL0783",
+        "BL0798",
+        "BL0852",
+        "BL0933",
+        "BL1017",
+        "BL1115",
+        "BL1152",
+        "BL1155",
+        "BL1156",
+        "BL1268",
+        "BL1274",
+        "BL1275",
+        "BL1286",
+        "BL1308",
+        "BL1313",
+        "BL1473",
+        "BL1660",
+        "BL1755",
+        "BL1776",
+        "BL1786"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00280": {
+      "pathway_id": "blo00280",
+      "name": "Valine, leucine and isoleucine degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0852",
+        "BL1074",
+        "BL1124",
+        "BL1535",
+        "BL1536"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00290": {
+      "pathway_id": "blo00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0296",
+        "BL0297",
+        "BL0488",
+        "BL0530",
+        "BL0531",
+        "BL0712",
+        "BL0852",
+        "BL1218",
+        "BL1262",
+        "BL1263",
+        "BL1527",
+        "BL1788"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00300": {
+      "pathway_id": "blo00300",
+      "name": "Lysine biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0087",
+        "BL0492",
+        "BL0494",
+        "BL0875",
+        "BL1061",
+        "BL1193",
+        "BL1194",
+        "BL1273",
+        "BL1274",
+        "BL1280",
+        "BL1319",
+        "BL1356",
+        "BL1734"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00310": {
+      "pathway_id": "blo00310",
+      "name": "Lysine degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1074",
+        "BL1124"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00220": {
+      "pathway_id": "blo00220",
+      "name": "Arginine biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0067",
+        "BL0068",
+        "BL0630",
+        "BL0712",
+        "BL0783",
+        "BL1057",
+        "BL1058",
+        "BL1060",
+        "BL1061",
+        "BL1062",
+        "BL1063",
+        "BL1064",
+        "BL1076",
+        "BL1286",
+        "BL1302"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00330": {
+      "pathway_id": "blo00330",
+      "name": "Arginine and proline metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0011",
+        "BL0014",
+        "BL0783",
+        "BL0927",
+        "BL1034",
+        "BL1124",
+        "BL1285",
+        "BL1286"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00340": {
+      "pathway_id": "blo00340",
+      "name": "Histidine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0685",
+        "BL0686",
+        "BL0751",
+        "BL0752",
+        "BL1124",
+        "BL1249",
+        "BL1295",
+        "BL1296",
+        "BL1297",
+        "BL1299",
+        "BL1300"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00350": {
+      "pathway_id": "blo00350",
+      "name": "Tyrosine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0783",
+        "BL1286",
+        "BL1296",
+        "BL1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00360": {
+      "pathway_id": "blo00360",
+      "name": "Phenylalanine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0783",
+        "BL1286",
+        "BL1296"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00380": {
+      "pathway_id": "blo00380",
+      "name": "Tryptophan metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1074",
+        "BL1124"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00400": {
+      "pathway_id": "blo00400",
+      "name": "Phenylalanine, tyrosine and tryptophan biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0319",
+        "BL0320",
+        "BL0397",
+        "BL0687",
+        "BL0755",
+        "BL0756",
+        "BL0783",
+        "BL0876",
+        "BL0877",
+        "BL0878",
+        "BL0970",
+        "BL1286",
+        "BL1296",
+        "BL1300",
+        "BL1381",
+        "BL1382",
+        "BL1422"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00430": {
+      "pathway_id": "blo00430",
+      "name": "Taurine and hypotaurine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0968",
+        "BL0969"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00450": {
+      "pathway_id": "blo00450",
+      "name": "Selenocompound metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0078",
+        "BL0170",
+        "BL0614",
+        "BL0649",
+        "BL0798",
+        "BL0869",
+        "BL1155",
+        "BL1268",
+        "BL1776"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00460": {
+      "pathway_id": "blo00460",
+      "name": "Cyanoamino acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1035",
+        "BL1142",
+        "BL1757"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00470": {
+      "pathway_id": "blo00470",
+      "name": "D-Amino acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0086",
+        "BL0087",
+        "BL0345",
+        "BL1149",
+        "BL1273",
+        "BL1321"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00480": {
+      "pathway_id": "blo00480",
+      "name": "Glutathione metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0440",
+        "BL0444",
+        "BL1191",
+        "BL1499",
+        "BL1755"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00520": {
+      "pathway_id": "blo00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0047",
+        "BL0227",
+        "BL0279",
+        "BL0544",
+        "BL0739",
+        "BL0866",
+        "BL0964",
+        "BL1031",
+        "BL1166",
+        "BL1175",
+        "BL1187",
+        "BL1210",
+        "BL1211",
+        "BL1245",
+        "BL1267",
+        "BL1339",
+        "BL1341",
+        "BL1343",
+        "BL1344",
+        "BL1543",
+        "BL1561",
+        "BL1611",
+        "BL1630",
+        "BL1643",
+        "BL1644",
+        "BL1671",
+        "BL1691"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00541": {
+      "pathway_id": "blo00541",
+      "name": "Biosynthesis of various nucleotide sugars - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0227",
+        "BL0228",
+        "BL0229",
+        "BL0739",
+        "BL0964",
+        "BL1244"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00511": {
+      "pathway_id": "blo00511",
+      "name": "Other glycan degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0978",
+        "BL1327",
+        "BL1328",
+        "BL1329"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00542": {
+      "pathway_id": "blo00542",
+      "name": "O-Antigen repeat unit biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1721"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00550": {
+      "pathway_id": "blo00550",
+      "name": "Peptidoglycan biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0101",
+        "BL0282",
+        "BL0284",
+        "BL0345",
+        "BL0429",
+        "BL0430",
+        "BL0586",
+        "BL0587",
+        "BL0721",
+        "BL1267",
+        "BL1317",
+        "BL1319",
+        "BL1320",
+        "BL1321",
+        "BL1322",
+        "BL1323",
+        "BL1324",
+        "BL1356",
+        "BL1561",
+        "BL1679"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00552": {
+      "pathway_id": "blo00552",
+      "name": "Teichoic acid biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0209",
+        "BL0721",
+        "BL1721"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00572": {
+      "pathway_id": "blo00572",
+      "name": "Arabinogalactan biosynthesis - Mycobacterium - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0217",
+        "BL1721"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00543": {
+      "pathway_id": "blo00543",
+      "name": "Exopolysaccharide biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1721"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00730": {
+      "pathway_id": "blo00730",
+      "name": "Thiamine metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0113",
+        "BL0114",
+        "BL0115",
+        "BL0804",
+        "BL1055",
+        "BL1132",
+        "BL1377",
+        "BL1601"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00740": {
+      "pathway_id": "blo00740",
+      "name": "Riboflavin metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0115",
+        "BL0139",
+        "BL1619"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00750": {
+      "pathway_id": "blo00750",
+      "name": "Vitamin B6 metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0934",
+        "BL1036",
+        "BL1145",
+        "BL1146",
+        "BL1660"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00760": {
+      "pathway_id": "blo00760",
+      "name": "Nicotinate and nicotinamide metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0287",
+        "BL0856",
+        "BL0857",
+        "BL0897",
+        "BL0953",
+        "BL1032",
+        "BL1044",
+        "BL1222",
+        "BL1374",
+        "BL1375",
+        "BL1376",
+        "BL1413",
+        "BL1528"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00770": {
+      "pathway_id": "blo00770",
+      "name": "Pantothenate and CoA biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0291",
+        "BL0296",
+        "BL0297",
+        "BL0530",
+        "BL0531",
+        "BL0852",
+        "BL0991",
+        "BL1124",
+        "BL1162",
+        "BL1788"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00780": {
+      "pathway_id": "blo00780",
+      "name": "Biotin metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0512",
+        "BL1533"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00785": {
+      "pathway_id": "blo00785",
+      "name": "Lipoic acid metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1074",
+        "BL1217",
+        "BL1221"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00790": {
+      "pathway_id": "blo00790",
+      "name": "Folate biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0590",
+        "BL1353",
+        "BL1666",
+        "BL1683",
+        "BL1684",
+        "BL1685"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00670": {
+      "pathway_id": "blo00670",
+      "name": "One carbon pool by folate - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0478",
+        "BL0735",
+        "BL0797",
+        "BL0993",
+        "BL1035",
+        "BL1074",
+        "BL1115",
+        "BL1156",
+        "BL1221",
+        "BL1555",
+        "BL1665",
+        "BL1666",
+        "BL1786"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00130": {
+      "pathway_id": "blo00130",
+      "name": "Ubiquinone and other terpenoid-quinone biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0231",
+        "BL1655"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00900": {
+      "pathway_id": "blo00900",
+      "name": "Terpenoid backbone biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0097",
+        "BL0098",
+        "BL0101",
+        "BL0324",
+        "BL0656",
+        "BL0997",
+        "BL1132",
+        "BL1361",
+        "BL1426"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00523": {
+      "pathway_id": "blo00523",
+      "name": "Polyketide sugar unit biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0227",
+        "BL0228",
+        "BL0229",
+        "BL1244"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00946": {
+      "pathway_id": "blo00946",
+      "name": "Degradation of flavonoids - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1757"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00332": {
+      "pathway_id": "blo00332",
+      "name": "Carbapenem biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1034",
+        "BL1285"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00261": {
+      "pathway_id": "blo00261",
+      "name": "Monobactam biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0492",
+        "BL0494",
+        "BL1193",
+        "BL1194"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00521": {
+      "pathway_id": "blo00521",
+      "name": "Streptomycin biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0227",
+        "BL0228",
+        "BL0229",
+        "BL1244",
+        "BL1341",
+        "BL1630",
+        "BL1691",
+        "BL1796"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00525": {
+      "pathway_id": "blo00525",
+      "name": "Acarbose and validamycin biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0227",
+        "BL0229",
+        "BL1244"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00401": {
+      "pathway_id": "blo00401",
+      "name": "Novobiocin biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0783",
+        "BL1286",
+        "BL1296",
+        "BL1382"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00999": {
+      "pathway_id": "blo00999",
+      "name": "Biosynthesis of various plant secondary metabolites",
+      "genes": [
+        "BL1757",
+        "BL1786"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00625": {
+      "pathway_id": "blo00625",
+      "name": "Chloroalkane and chloroalkene degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1124",
+        "BL1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00626": {
+      "pathway_id": "blo00626",
+      "name": "Naphthalene degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03020": {
+      "pathway_id": "blo03020",
+      "name": "RNA polymerase - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1204",
+        "BL1205",
+        "BL1606",
+        "BL1787"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03010": {
+      "pathway_id": "blo03010",
+      "name": "Ribosome - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0294",
+        "BL0305",
+        "BL0330",
+        "BL0413",
+        "BL0414",
+        "BL0416",
+        "BL0642",
+        "BL0849",
+        "BL0853",
+        "BL0886",
+        "BL0992",
+        "BL1099",
+        "BL1100",
+        "BL1282",
+        "BL1283",
+        "BL1290",
+        "BL1291",
+        "BL1366a",
+        "BL1367",
+        "BL1503",
+        "BL1545a",
+        "BL1549",
+        "BL1550",
+        "BL1560",
+        "BL1571",
+        "BL1572",
+        "BL1577",
+        "BL1578",
+        "BL1579",
+        "BL1580",
+        "BL1581",
+        "BL1582",
+        "BL1583",
+        "BL1584",
+        "BL1586",
+        "BL1588",
+        "BL1589",
+        "BL1590",
+        "BL1591",
+        "BL1592",
+        "BL1593",
+        "BL1594",
+        "BL1595",
+        "BL1596",
+        "BL1597",
+        "BL1598",
+        "BL1599",
+        "BL1603",
+        "BL1604",
+        "BL1604.1",
+        "BL1607",
+        "BL1711",
+        "BLr01",
+        "BLr02",
+        "BLr03",
+        "BLr04",
+        "BLr05",
+        "BLr06",
+        "BLr07",
+        "BLr08",
+        "BLr09",
+        "BLr10",
+        "BLr11",
+        "BLr12"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo00970": {
+      "pathway_id": "blo00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0017",
+        "BL0018",
+        "BL0116",
+        "BL0170",
+        "BL0301",
+        "BL0395",
+        "BL0402",
+        "BL0403",
+        "BL0404",
+        "BL0469",
+        "BL0600",
+        "BL0724",
+        "BL0882",
+        "BL1051",
+        "BL1066",
+        "BL1067",
+        "BL1272",
+        "BL1450",
+        "BL1635",
+        "BL1654",
+        "BL1728",
+        "BL1777",
+        "BL1789",
+        "tRNA-Ala",
+        "tRNA-Ala-2",
+        "tRNA-Ala-3",
+        "tRNA-Ala-4",
+        "tRNA-Arg",
+        "tRNA-Arg-2",
+        "tRNA-Arg-3",
+        "tRNA-Arg-4",
+        "tRNA-Arg-5",
+        "tRNA-Asn",
+        "tRNA-Asn-2",
+        "tRNA-Asn-3",
+        "tRNA-Asp",
+        "tRNA-Asp-2",
+        "tRNA-Cys",
+        "tRNA-Gln",
+        "tRNA-Gln-2",
+        "tRNA-Glu",
+        "tRNA-Glu-2",
+        "tRNA-Gly",
+        "tRNA-Gly-2",
+        "tRNA-Gly-3",
+        "tRNA-Gly-4",
+        "tRNA-Gly-5",
+        "tRNA-His",
+        "tRNA-Ile",
+        "tRNA-Leu",
+        "tRNA-Leu-2",
+        "tRNA-Leu-3",
+        "tRNA-Leu-4",
+        "tRNA-Leu-5",
+        "tRNA-Lys",
+        "tRNA-Lys-2",
+        "tRNA-Met",
+        "tRNA-Met-2",
+        "tRNA-Met-3",
+        "tRNA-Phe",
+        "tRNA-Pro",
+        "tRNA-Pro-2",
+        "tRNA-Pro-3",
+        "tRNA-Pseudo",
+        "tRNA-Ser",
+        "tRNA-Ser-2",
+        "tRNA-Ser-3",
+        "tRNA-Ser-4",
+        "tRNA-Thr",
+        "tRNA-Thr-2",
+        "tRNA-Thr-3",
+        "tRNA-Thr-4",
+        "tRNA-Trp",
+        "tRNA-Trp-2",
+        "tRNA-Tyr",
+        "tRNA-Val",
+        "tRNA-Val-2",
+        "tRNA-Val-3",
+        "tRNA-Val-4",
+        "tRNA-Val-5"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03008": {
+      "pathway_id": "blo03008",
+      "name": "Ribosome biogenesis in eukaryotes - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0295",
+        "BL1723"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03060": {
+      "pathway_id": "blo03060",
+      "name": "Protein export - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0122",
+        "BL0277",
+        "BL0303",
+        "BL0436",
+        "BL0644",
+        "BL0709",
+        "BL0730",
+        "BL0779",
+        "BL1287",
+        "BL1419",
+        "BL1600"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo04122": {
+      "pathway_id": "blo04122",
+      "name": "Sulfur relay system - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1055a",
+        "BL1377"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03018": {
+      "pathway_id": "blo03018",
+      "name": "RNA degradation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0002",
+        "BL0398",
+        "BL0520",
+        "BL0654",
+        "BL1022",
+        "BL1153",
+        "BL1192",
+        "BL1259",
+        "BL1281",
+        "BL1546"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03030": {
+      "pathway_id": "blo03030",
+      "name": "DNA replication - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0052",
+        "BL0071",
+        "BL0127",
+        "BL0276",
+        "BL0415",
+        "BL0431",
+        "BL0483",
+        "BL0500",
+        "BL0638",
+        "BL1147",
+        "BL1454",
+        "BL1624"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03410": {
+      "pathway_id": "blo03410",
+      "name": "Base excision repair - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0052",
+        "BL0393",
+        "BL0757",
+        "BL0979",
+        "BL1207",
+        "BL1391",
+        "BL1812"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03420": {
+      "pathway_id": "blo03420",
+      "name": "Nucleotide excision repair - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0052",
+        "BL0092",
+        "BL0702",
+        "BL0703",
+        "BL0890",
+        "BL0990",
+        "BL1025",
+        "BL1083",
+        "BL1196"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03430": {
+      "pathway_id": "blo03430",
+      "name": "Mismatch repair - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0052",
+        "BL0071",
+        "BL0092",
+        "BL0127",
+        "BL0415",
+        "BL0483",
+        "BL0500",
+        "BL0638",
+        "BL0890",
+        "BL1196",
+        "BL1454",
+        "BL1750",
+        "BL1751"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03440": {
+      "pathway_id": "blo03440",
+      "name": "Homologous recombination - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0071",
+        "BL0100",
+        "BL0127",
+        "BL0329",
+        "BL0415",
+        "BL0483",
+        "BL0499",
+        "BL0500",
+        "BL0609",
+        "BL0637",
+        "BL0638",
+        "BL0727",
+        "BL0728",
+        "BL0729",
+        "BL0898",
+        "BL1415",
+        "BL1454",
+        "BL1791"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03250": {
+      "pathway_id": "blo03250",
+      "name": "Viral life cycle - HIV-1 - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1442"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo02010": {
+      "pathway_id": "blo02010",
+      "name": "ABC transporters - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0021",
+        "BL0022",
+        "BL0023",
+        "BL0024",
+        "BL0033",
+        "BL0034",
+        "BL0035",
+        "BL0036",
+        "BL0049",
+        "BL0055",
+        "BL0162",
+        "BL0163",
+        "BL0179",
+        "BL0180",
+        "BL0264",
+        "BL0312",
+        "BL0313",
+        "BL0314",
+        "BL0315",
+        "BL0673",
+        "BL0694",
+        "BL0829",
+        "BL0955",
+        "BL0956",
+        "BL0957",
+        "BL1069",
+        "BL1182",
+        "BL1183",
+        "BL1330",
+        "BL1331",
+        "BL1332",
+        "BL1386",
+        "BL1387",
+        "BL1389",
+        "BL1390",
+        "BL1449",
+        "BL1521",
+        "BL1522",
+        "BL1523",
+        "BL1534",
+        "BL1694",
+        "BL1695",
+        "BL1696",
+        "BL1714",
+        "BL1715",
+        "BL1716",
+        "BL1717",
+        "BL1718",
+        "BL1766",
+        "BL1767"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo02060": {
+      "pathway_id": "blo02060",
+      "name": "Phosphotransferase system (PTS) - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0411",
+        "BL0412",
+        "BL1632"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo03070": {
+      "pathway_id": "blo03070",
+      "name": "Bacterial secretion system - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0303",
+        "BL0436",
+        "BL0644",
+        "BL0709",
+        "BL0730",
+        "BL1287",
+        "BL1419",
+        "BL1600"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo02020": {
+      "pathway_id": "blo02020",
+      "name": "Two-component system - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0030",
+        "BL0031",
+        "BL0248",
+        "BL0315",
+        "BL0316",
+        "BL0317",
+        "BL0433",
+        "BL0434",
+        "BL0506",
+        "BL0507",
+        "BL0508",
+        "BL0555",
+        "BL0613",
+        "BL0640",
+        "BL1076",
+        "BL1216",
+        "BL1302",
+        "BL1658",
+        "BL1667"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo04146": {
+      "pathway_id": "blo04146",
+      "name": "Peroxisome - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0266",
+        "BL0858",
+        "BL1222",
+        "BL1499",
+        "BL1501",
+        "BL1748"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo02024": {
+      "pathway_id": "blo02024",
+      "name": "Quorum sensing - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0266",
+        "BL0303",
+        "BL0319",
+        "BL0320",
+        "BL0341",
+        "BL0342",
+        "BL0343",
+        "BL0344",
+        "BL0436",
+        "BL0644",
+        "BL0687",
+        "BL0709",
+        "BL0730",
+        "BL0829",
+        "BL0858",
+        "BL1152",
+        "BL1157",
+        "BL1158",
+        "BL1159",
+        "BL1160",
+        "BL1161",
+        "BL1216",
+        "BL1287",
+        "BL1345",
+        "BL1346",
+        "BL1347",
+        "BL1348",
+        "BL1386",
+        "BL1387",
+        "BL1389",
+        "BL1390",
+        "BL1419",
+        "BL1501",
+        "BL1600",
+        "BL1714",
+        "BL1715",
+        "BL1716",
+        "BL1717",
+        "BL1718",
+        "BL1748"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo04981": {
+      "pathway_id": "blo04981",
+      "name": "Folate transport and metabolism - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL1035",
+        "BL1555",
+        "BL1665",
+        "BL1666"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo04382": {
+      "pathway_id": "blo04382",
+      "name": "Cornified envelope formation - Bifidobacterium longum NCC2705",
+      "genes": [
+        "BL0173",
+        "BL0321",
+        "BL1249"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "blo01501": {
+      "pathway_id": "blo01501",
+      "name": "beta-Lactam resistance - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "blo01502": {
+      "pathway_id": "blo01502",
+      "name": "Vancomycin resistance - Bifidobacterium longum NCC2705",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}

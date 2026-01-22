@@ -1,0 +1,822 @@
+{
+  "organism_code": "lsl",
+  "organism_name": "lsl",
+  "retrieved_at": "2026-01-22T09:33:27.942429",
+  "pathways": {
+    "lsl01100": {
+      "pathway_id": "lsl01100",
+      "name": "Metabolic pathways - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01110": {
+      "pathway_id": "lsl01110",
+      "name": "Biosynthesis of secondary metabolites - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01120": {
+      "pathway_id": "lsl01120",
+      "name": "Microbial metabolism in diverse environments - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01200": {
+      "pathway_id": "lsl01200",
+      "name": "Carbon metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01210": {
+      "pathway_id": "lsl01210",
+      "name": "2-Oxocarboxylic acid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01212": {
+      "pathway_id": "lsl01212",
+      "name": "Fatty acid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01230": {
+      "pathway_id": "lsl01230",
+      "name": "Biosynthesis of amino acids - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01232": {
+      "pathway_id": "lsl01232",
+      "name": "Nucleotide metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01250": {
+      "pathway_id": "lsl01250",
+      "name": "Biosynthesis of nucleotide sugars - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01240": {
+      "pathway_id": "lsl01240",
+      "name": "Biosynthesis of cofactors - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl01220": {
+      "pathway_id": "lsl01220",
+      "name": "Degradation of aromatic compounds - Ligilactobacillus salivarius UCC118",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lsl00010": {
+      "pathway_id": "lsl00010",
+      "name": "Glycolysis / Gluconeogenesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0153",
+        "LSL_0154",
+        "LSL_0155",
+        "LSL_0156",
+        "LSL_0395",
+        "LSL_0406",
+        "LSL_0464",
+        "LSL_0552",
+        "LSL_0650",
+        "LSL_0866",
+        "LSL_0867",
+        "LSL_1163",
+        "LSL_1164",
+        "LSL_1165",
+        "LSL_1166",
+        "LSL_1176",
+        "LSL_1255",
+        "LSL_1281",
+        "LSL_1362",
+        "LSL_1498",
+        "LSL_1503",
+        "LSL_1600",
+        "LSL_1901",
+        "LSL_1903"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00020": {
+      "pathway_id": "lsl00020",
+      "name": "Citrate cycle (TCA cycle) - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0153",
+        "LSL_0154",
+        "LSL_0155",
+        "LSL_0156",
+        "LSL_0395",
+        "LSL_0658",
+        "LSL_1327"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00030": {
+      "pathway_id": "lsl00030",
+      "name": "Pentose phosphate pathway - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0144",
+        "LSL_0318",
+        "LSL_0406",
+        "LSL_0423",
+        "LSL_0462",
+        "LSL_0464",
+        "LSL_0645",
+        "LSL_0866",
+        "LSL_1142",
+        "LSL_1176",
+        "LSL_1439",
+        "LSL_1509",
+        "LSL_1610",
+        "LSL_1806",
+        "LSL_1807",
+        "LSL_1903",
+        "LSL_1946",
+        "LSL_1947",
+        "LSL_1948",
+        "LSL_1956"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00040": {
+      "pathway_id": "lsl00040",
+      "name": "Pentose and glucuronate interconversions - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0979",
+        "LSL_1268",
+        "LSL_1752",
+        "LSL_1755",
+        "LSL_1807",
+        "LSL_1948",
+        "LSL_1953"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00051": {
+      "pathway_id": "lsl00051",
+      "name": "Fructose and mannose metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0086",
+        "LSL_0087",
+        "LSL_0088",
+        "LSL_0164",
+        "LSL_0165",
+        "LSL_0406",
+        "LSL_0654",
+        "LSL_0655",
+        "LSL_0656",
+        "LSL_0866",
+        "LSL_1143",
+        "LSL_1164",
+        "LSL_1461",
+        "LSL_1613",
+        "LSL_1618",
+        "LSL_1619",
+        "LSL_1620",
+        "LSL_1714",
+        "LSL_1715",
+        "LSL_1752",
+        "LSL_1754",
+        "LSL_1755",
+        "LSL_1889",
+        "LSL_1890",
+        "LSL_1891",
+        "LSL_1894",
+        "LSL_1903",
+        "LSL_1949",
+        "LSL_1950",
+        "LSL_1952"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00052": {
+      "pathway_id": "lsl00052",
+      "name": "Galactose metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0065",
+        "LSL_0376",
+        "LSL_0381",
+        "LSL_0382",
+        "LSL_0383",
+        "LSL_0552",
+        "LSL_0722",
+        "LSL_0866",
+        "LSL_0965",
+        "LSL_1010",
+        "LSL_1176",
+        "LSL_1268",
+        "LSL_1281",
+        "LSL_1503",
+        "LSL_1507",
+        "LSL_1548",
+        "LSL_1712"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00053": {
+      "pathway_id": "lsl00053",
+      "name": "Ascorbate and aldarate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0979",
+        "LSL_0980"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00500": {
+      "pathway_id": "lsl00500",
+      "name": "Starch and sucrose metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0065",
+        "LSL_0066",
+        "LSL_0067",
+        "LSL_0464",
+        "LSL_0552",
+        "LSL_0914",
+        "LSL_1176",
+        "LSL_1268",
+        "LSL_1279",
+        "LSL_1280",
+        "LSL_1289",
+        "LSL_1290",
+        "LSL_1291",
+        "LSL_1292",
+        "LSL_1293",
+        "LSL_1294",
+        "LSL_1295",
+        "LSL_1461",
+        "LSL_1514",
+        "LSL_1712"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00620": {
+      "pathway_id": "lsl00620",
+      "name": "Pyruvate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0014",
+        "LSL_0153",
+        "LSL_0154",
+        "LSL_0155",
+        "LSL_0156",
+        "LSL_0308",
+        "LSL_0395",
+        "LSL_0456",
+        "LSL_0458",
+        "LSL_0459",
+        "LSL_0460",
+        "LSL_0525",
+        "LSL_0650",
+        "LSL_0658",
+        "LSL_0867",
+        "LSL_1114",
+        "LSL_1151",
+        "LSL_1313",
+        "LSL_1323",
+        "LSL_1327",
+        "LSL_1362",
+        "LSL_1372",
+        "LSL_1600",
+        "LSL_1681",
+        "LSL_1873",
+        "LSL_1887",
+        "LSL_1901"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00630": {
+      "pathway_id": "lsl00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0156",
+        "LSL_0558",
+        "LSL_0878",
+        "LSL_1099",
+        "LSL_1502",
+        "LSL_1707"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00640": {
+      "pathway_id": "lsl00640",
+      "name": "Propanoate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0156",
+        "LSL_0456",
+        "LSL_0458",
+        "LSL_0459",
+        "LSL_0460",
+        "LSL_0650",
+        "LSL_1114",
+        "LSL_1151",
+        "LSL_1323",
+        "LSL_1362",
+        "LSL_1600",
+        "LSL_1681",
+        "LSL_1873"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00650": {
+      "pathway_id": "lsl00650",
+      "name": "Butanoate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0136",
+        "LSL_0186",
+        "LSL_0187",
+        "LSL_0526",
+        "LSL_1298",
+        "LSL_1873",
+        "LSL_1901"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00660": {
+      "pathway_id": "lsl00660",
+      "name": "C5-Branched dibasic acid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0186",
+        "LSL_0187"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00562": {
+      "pathway_id": "lsl00562",
+      "name": "Inositol phosphate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0652",
+        "LSL_1164"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00190": {
+      "pathway_id": "lsl00190",
+      "name": "Oxidative phosphorylation - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0594",
+        "LSL_0595",
+        "LSL_0596",
+        "LSL_0597",
+        "LSL_0598",
+        "LSL_0599",
+        "LSL_0600",
+        "LSL_0601",
+        "LSL_0833",
+        "LSL_1026",
+        "LSL_1031",
+        "LSL_1032"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00710": {
+      "pathway_id": "lsl00710",
+      "name": "Carbon fixation by Calvin cycle - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0395",
+        "LSL_0406",
+        "LSL_1164",
+        "LSL_1165",
+        "LSL_1166",
+        "LSL_1439",
+        "LSL_1806",
+        "LSL_1807",
+        "LSL_1903",
+        "LSL_1946",
+        "LSL_1947",
+        "LSL_1948"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00720": {
+      "pathway_id": "lsl00720",
+      "name": "Other carbon fixation pathways - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0456",
+        "LSL_0458",
+        "LSL_0459",
+        "LSL_0460",
+        "LSL_0533",
+        "LSL_0658",
+        "LSL_0842",
+        "LSL_1114",
+        "LSL_1151",
+        "LSL_1323",
+        "LSL_1327"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00680": {
+      "pathway_id": "lsl00680",
+      "name": "Methane metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0091",
+        "LSL_0092",
+        "LSL_0406",
+        "LSL_0866",
+        "LSL_0878",
+        "LSL_1099",
+        "LSL_1114",
+        "LSL_1151",
+        "LSL_1163",
+        "LSL_1255",
+        "LSL_1323",
+        "LSL_1498",
+        "LSL_1903"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00910": {
+      "pathway_id": "lsl00910",
+      "name": "Nitrogen metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0558",
+        "LSL_1297"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00920": {
+      "pathway_id": "lsl00920",
+      "name": "Sulfur metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0026",
+        "LSL_1113",
+        "LSL_1504",
+        "LSL_1717",
+        "LSL_1718"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00061": {
+      "pathway_id": "lsl00061",
+      "name": "Fatty acid biosynthesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0449",
+        "LSL_0451",
+        "LSL_0453",
+        "LSL_0454",
+        "LSL_0455",
+        "LSL_0456",
+        "LSL_0457",
+        "LSL_0458",
+        "LSL_0459",
+        "LSL_0460",
+        "LSL_0461",
+        "LSL_1133",
+        "LSL_1257",
+        "LSL_1468",
+        "LSL_1900"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00074": {
+      "pathway_id": "lsl00074",
+      "name": "Mycolic acid biosynthesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0357",
+        "LSL_0453"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00121": {
+      "pathway_id": "lsl00121",
+      "name": "Secondary bile acid biosynthesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_1801"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00561": {
+      "pathway_id": "lsl00561",
+      "name": "Glycerolipid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0110",
+        "LSL_0390",
+        "LSL_0394",
+        "LSL_0465",
+        "LSL_0508",
+        "LSL_0623",
+        "LSL_0870",
+        "LSL_1010",
+        "LSL_1343",
+        "LSL_1631",
+        "LSL_1632",
+        "LSL_1633",
+        "LSL_1707"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00564": {
+      "pathway_id": "lsl00564",
+      "name": "Glycerophospholipid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0111",
+        "LSL_0372",
+        "LSL_0508",
+        "LSL_0564",
+        "LSL_0673",
+        "LSL_0870",
+        "LSL_1131",
+        "LSL_1343",
+        "LSL_1601",
+        "LSL_1710"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00600": {
+      "pathway_id": "lsl00600",
+      "name": "Sphingolipid metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0376",
+        "LSL_1010"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00230": {
+      "pathway_id": "lsl00230",
+      "name": "Purine metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0219",
+        "LSL_0318",
+        "LSL_0515",
+        "LSL_0516",
+        "LSL_0517",
+        "LSL_0611",
+        "LSL_0663",
+        "LSL_0664",
+        "LSL_0665",
+        "LSL_0666",
+        "LSL_0667",
+        "LSL_0668",
+        "LSL_0669",
+        "LSL_0670",
+        "LSL_0671",
+        "LSL_0822",
+        "LSL_0857",
+        "LSL_0929",
+        "LSL_1090",
+        "LSL_1102",
+        "LSL_1139",
+        "LSL_1176",
+        "LSL_1232",
+        "LSL_1233",
+        "LSL_1305",
+        "LSL_1309",
+        "LSL_1332",
+        "LSL_1350",
+        "LSL_1354",
+        "LSL_1414",
+        "LSL_1452",
+        "LSL_1537",
+        "LSL_1610",
+        "LSL_1724",
+        "LSL_1936"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00240": {
+      "pathway_id": "lsl00240",
+      "name": "Pyrimidine metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0190",
+        "LSL_0191",
+        "LSL_0192",
+        "LSL_0193",
+        "LSL_0194",
+        "LSL_0342",
+        "LSL_0561",
+        "LSL_0589",
+        "LSL_0593",
+        "LSL_0679",
+        "LSL_0708",
+        "LSL_0816",
+        "LSL_0827",
+        "LSL_0829",
+        "LSL_0830",
+        "LSL_0831",
+        "LSL_0900",
+        "LSL_1224",
+        "LSL_1232",
+        "LSL_1233",
+        "LSL_1251",
+        "LSL_1332",
+        "LSL_1936"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00250": {
+      "pathway_id": "lsl00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0012",
+        "LSL_0018",
+        "LSL_0190",
+        "LSL_0192",
+        "LSL_0193",
+        "LSL_0305",
+        "LSL_0306",
+        "LSL_0517",
+        "LSL_0558",
+        "LSL_0665",
+        "LSL_0667",
+        "LSL_0829",
+        "LSL_1033",
+        "LSL_1219",
+        "LSL_1297",
+        "LSL_1298",
+        "LSL_1627",
+        "LSL_1724",
+        "LSL_1768",
+        "LSL_1928"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00260": {
+      "pathway_id": "lsl00260",
+      "name": "Glycine, serine and threonine metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0091",
+        "LSL_0092",
+        "LSL_0156",
+        "LSL_0313",
+        "LSL_0878",
+        "LSL_1058",
+        "LSL_1099",
+        "LSL_1255",
+        "LSL_1498",
+        "LSL_1518",
+        "LSL_1519",
+        "LSL_1521",
+        "LSL_1707",
+        "LSL_1931",
+        "LSL_1932"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00270": {
+      "pathway_id": "lsl00270",
+      "name": "Cysteine and methionine metabolism - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0026",
+        "LSL_0027",
+        "LSL_0057",
+        "LSL_0063",
+        "LSL_0091",
+        "LSL_0092",
+        "LSL_0204",
+        "LSL_0313",
+        "LSL_0441",
+        "LSL_0650",
+        "LSL_0859",
+        "LSL_1058",
+        "LSL_1076",
+        "LSL_1173",
+        "LSL_1362",
+        "LSL_1499",
+        "LSL_1518",
+        "LSL_1519",
+        "LSL_1600",
+        "LSL_1692",
+        "LSL_1717",
+        "LSL_1718",
+        "LSL_1927",
+        "LSL_1931",
+        "LSL_1932"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00280": {
+      "pathway_id": "lsl00280",
+      "name": "Valine, leucine and isoleucine degradation - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0010",
+        "LSL_0063",
+        "LSL_0156",
+        "LSL_0526"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00290": {
+      "pathway_id": "lsl00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0063",
+        "LSL_0186"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lsl00300": {
+      "pathway_id": "lsl00300",
+      "name": "Lysine biosynthesis - Ligilactobacillus salivarius UCC118",
+      "genes": [
+        "LSL_0016",
+        "LSL_0133",
+        "LSL_0307",
+        "LSL_0313",
+        "LSL_0355",
+        "LSL_0468",
+        "LSL_0469",
+        "LSL_0639",
+        "LSL_0705",
+        "LSL_0835",
+        "LSL_0856",
+        "LSL_1004",
+        "LSL_1058",
+        "LSL_1467",
+        "LSL_1519"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    }
+  }
+}

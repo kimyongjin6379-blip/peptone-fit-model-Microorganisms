@@ -1,0 +1,2004 @@
+{
+  "organism_code": "lre",
+  "organism_name": "lre",
+  "retrieved_at": "2026-01-22T09:32:50.799926",
+  "pathways": {
+    "lre01100": {
+      "pathway_id": "lre01100",
+      "name": "Metabolic pathways - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01110": {
+      "pathway_id": "lre01110",
+      "name": "Biosynthesis of secondary metabolites - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01120": {
+      "pathway_id": "lre01120",
+      "name": "Microbial metabolism in diverse environments - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01200": {
+      "pathway_id": "lre01200",
+      "name": "Carbon metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01210": {
+      "pathway_id": "lre01210",
+      "name": "2-Oxocarboxylic acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01212": {
+      "pathway_id": "lre01212",
+      "name": "Fatty acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01230": {
+      "pathway_id": "lre01230",
+      "name": "Biosynthesis of amino acids - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01232": {
+      "pathway_id": "lre01232",
+      "name": "Nucleotide metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01250": {
+      "pathway_id": "lre01250",
+      "name": "Biosynthesis of nucleotide sugars - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01240": {
+      "pathway_id": "lre01240",
+      "name": "Biosynthesis of cofactors - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01220": {
+      "pathway_id": "lre01220",
+      "name": "Degradation of aromatic compounds - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01320": {
+      "pathway_id": "lre01320",
+      "name": "Sulfur cycle - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre00010": {
+      "pathway_id": "lre00010",
+      "name": "Glycolysis / Gluconeogenesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0146",
+        "Lreu_0171",
+        "Lreu_0194",
+        "Lreu_0237",
+        "Lreu_0238",
+        "Lreu_0291",
+        "Lreu_0321",
+        "Lreu_0380",
+        "Lreu_0420",
+        "Lreu_0631",
+        "Lreu_0632",
+        "Lreu_0633",
+        "Lreu_0634",
+        "Lreu_0716",
+        "Lreu_0751",
+        "Lreu_0907",
+        "Lreu_1206",
+        "Lreu_1272",
+        "Lreu_1394",
+        "Lreu_1496",
+        "Lreu_1535",
+        "Lreu_1538",
+        "Lreu_1903"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00020": {
+      "pathway_id": "lre00020",
+      "name": "Citrate cycle (TCA cycle) - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0631",
+        "Lreu_0632",
+        "Lreu_0633",
+        "Lreu_0634",
+        "Lreu_1531"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00030": {
+      "pathway_id": "lre00030",
+      "name": "Pentose phosphate pathway - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0111",
+        "Lreu_0112",
+        "Lreu_0181",
+        "Lreu_0221",
+        "Lreu_0238",
+        "Lreu_0298",
+        "Lreu_0380",
+        "Lreu_0404",
+        "Lreu_0420",
+        "Lreu_0578",
+        "Lreu_0609",
+        "Lreu_0793",
+        "Lreu_0861",
+        "Lreu_1167",
+        "Lreu_1285",
+        "Lreu_1686",
+        "Lreu_1765",
+        "Lreu_1766"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00040": {
+      "pathway_id": "lre00040",
+      "name": "Pentose and glucuronate interconversions - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0372",
+        "Lreu_0481",
+        "Lreu_0482",
+        "Lreu_1167"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00051": {
+      "pathway_id": "lre00051",
+      "name": "Fructose and mannose metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0171",
+        "Lreu_0237",
+        "Lreu_0238",
+        "Lreu_1575"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00052": {
+      "pathway_id": "lre00052",
+      "name": "Galactose metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0083",
+        "Lreu_0288",
+        "Lreu_0289",
+        "Lreu_0339",
+        "Lreu_0372",
+        "Lreu_0380",
+        "Lreu_0482",
+        "Lreu_0910",
+        "Lreu_1017",
+        "Lreu_1085",
+        "Lreu_1206",
+        "Lreu_1374",
+        "Lreu_1538",
+        "Lreu_1671",
+        "Lreu_1776",
+        "Lreu_1777"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00500": {
+      "pathway_id": "lre00500",
+      "name": "Starch and sucrose metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0054",
+        "Lreu_0055",
+        "Lreu_0083",
+        "Lreu_0234",
+        "Lreu_0372",
+        "Lreu_0380",
+        "Lreu_0420",
+        "Lreu_1017",
+        "Lreu_1206",
+        "Lreu_1542",
+        "Lreu_1613"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00620": {
+      "pathway_id": "lre00620",
+      "name": "Pyruvate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0043",
+        "Lreu_0052",
+        "Lreu_0194",
+        "Lreu_0321",
+        "Lreu_0398",
+        "Lreu_0560",
+        "Lreu_0631",
+        "Lreu_0632",
+        "Lreu_0633",
+        "Lreu_0634",
+        "Lreu_0683",
+        "Lreu_0716",
+        "Lreu_0751",
+        "Lreu_0907",
+        "Lreu_0982",
+        "Lreu_0983",
+        "Lreu_0984",
+        "Lreu_0986",
+        "Lreu_1222",
+        "Lreu_1272",
+        "Lreu_1394",
+        "Lreu_1496",
+        "Lreu_1531",
+        "Lreu_1532",
+        "Lreu_1535",
+        "Lreu_1631",
+        "Lreu_1692",
+        "Lreu_1733",
+        "Lreu_1903"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00630": {
+      "pathway_id": "lre00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0310",
+        "Lreu_0455",
+        "Lreu_0494",
+        "Lreu_0495",
+        "Lreu_0622",
+        "Lreu_0634",
+        "Lreu_1202",
+        "Lreu_1902"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00640": {
+      "pathway_id": "lre00640",
+      "name": "Propanoate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0030",
+        "Lreu_0194",
+        "Lreu_0199",
+        "Lreu_0398",
+        "Lreu_0560",
+        "Lreu_0634",
+        "Lreu_0716",
+        "Lreu_0907",
+        "Lreu_0982",
+        "Lreu_0983",
+        "Lreu_0984",
+        "Lreu_0986",
+        "Lreu_1272",
+        "Lreu_1394",
+        "Lreu_1733",
+        "Lreu_1734",
+        "Lreu_1735",
+        "Lreu_1740",
+        "Lreu_1745",
+        "Lreu_1746",
+        "Lreu_1747",
+        "Lreu_1840",
+        "Lreu_1903"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00650": {
+      "pathway_id": "lre00650",
+      "name": "Butanoate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0034",
+        "Lreu_0052",
+        "Lreu_0103",
+        "Lreu_0132",
+        "Lreu_0133",
+        "Lreu_0162",
+        "Lreu_0199",
+        "Lreu_0321",
+        "Lreu_0676",
+        "Lreu_1449"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00660": {
+      "pathway_id": "lre00660",
+      "name": "C5-Branched dibasic acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0132",
+        "Lreu_0133"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00562": {
+      "pathway_id": "lre00562",
+      "name": "Inositol phosphate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0171",
+        "Lreu_0237",
+        "Lreu_0636"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00190": {
+      "pathway_id": "lre00190",
+      "name": "Oxidative phosphorylation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0337",
+        "Lreu_0461",
+        "Lreu_0462",
+        "Lreu_0463",
+        "Lreu_0464",
+        "Lreu_0465",
+        "Lreu_0466",
+        "Lreu_0467",
+        "Lreu_0468",
+        "Lreu_0505",
+        "Lreu_0506",
+        "Lreu_0509",
+        "Lreu_0785"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00710": {
+      "pathway_id": "lre00710",
+      "name": "Carbon fixation by Calvin cycle - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0171",
+        "Lreu_0237",
+        "Lreu_0238",
+        "Lreu_0298",
+        "Lreu_1167"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00720": {
+      "pathway_id": "lre00720",
+      "name": "Other carbon fixation pathways - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0131",
+        "Lreu_0398",
+        "Lreu_0560",
+        "Lreu_0982",
+        "Lreu_0983",
+        "Lreu_0984",
+        "Lreu_0986",
+        "Lreu_1184",
+        "Lreu_1531",
+        "Lreu_1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00680": {
+      "pathway_id": "lre00680",
+      "name": "Methane metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0146",
+        "Lreu_0238",
+        "Lreu_0291",
+        "Lreu_0398",
+        "Lreu_0455",
+        "Lreu_0560",
+        "Lreu_1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00910": {
+      "pathway_id": "lre00910",
+      "name": "Nitrogen metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0426",
+        "Lreu_1202"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00920": {
+      "pathway_id": "lre00920",
+      "name": "Sulfur metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0531",
+        "Lreu_0829",
+        "Lreu_1553",
+        "Lreu_1791",
+        "Lreu_1792"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00061": {
+      "pathway_id": "lre00061",
+      "name": "Fatty acid biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0981",
+        "Lreu_0982",
+        "Lreu_0983",
+        "Lreu_0984",
+        "Lreu_0985",
+        "Lreu_0986",
+        "Lreu_0987",
+        "Lreu_0988",
+        "Lreu_0989",
+        "Lreu_0991",
+        "Lreu_0993"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00071": {
+      "pathway_id": "lre00071",
+      "name": "Fatty acid degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0321",
+        "Lreu_1496",
+        "Lreu_1535"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00074": {
+      "pathway_id": "lre00074",
+      "name": "Mycolic acid biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0254",
+        "Lreu_0989"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00121": {
+      "pathway_id": "lre00121",
+      "name": "Secondary bile acid biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0730"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00561": {
+      "pathway_id": "lre00561",
+      "name": "Glycerolipid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0030",
+        "Lreu_0311",
+        "Lreu_0622",
+        "Lreu_0680",
+        "Lreu_0781",
+        "Lreu_0910",
+        "Lreu_1065",
+        "Lreu_1161",
+        "Lreu_1323",
+        "Lreu_1439",
+        "Lreu_1620",
+        "Lreu_1839",
+        "Lreu_1840"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00564": {
+      "pathway_id": "lre00564",
+      "name": "Glycerophospholipid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0048",
+        "Lreu_0065",
+        "Lreu_0371",
+        "Lreu_0521",
+        "Lreu_0680",
+        "Lreu_0691",
+        "Lreu_0781",
+        "Lreu_1439",
+        "Lreu_1793"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00600": {
+      "pathway_id": "lre00600",
+      "name": "Sphingolipid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0288",
+        "Lreu_0289",
+        "Lreu_0910"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00230": {
+      "pathway_id": "lre00230",
+      "name": "Purine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0068",
+        "Lreu_0069",
+        "Lreu_0112",
+        "Lreu_0114",
+        "Lreu_0116",
+        "Lreu_0134",
+        "Lreu_0135",
+        "Lreu_0136",
+        "Lreu_0137",
+        "Lreu_0138",
+        "Lreu_0139",
+        "Lreu_0140",
+        "Lreu_0141",
+        "Lreu_0142",
+        "Lreu_0143",
+        "Lreu_0144",
+        "Lreu_0145",
+        "Lreu_0181",
+        "Lreu_0202",
+        "Lreu_0205",
+        "Lreu_0221",
+        "Lreu_0267",
+        "Lreu_0322",
+        "Lreu_0323",
+        "Lreu_0336",
+        "Lreu_0338",
+        "Lreu_0380",
+        "Lreu_0426",
+        "Lreu_0542",
+        "Lreu_0572",
+        "Lreu_0600",
+        "Lreu_0609",
+        "Lreu_0721",
+        "Lreu_1029",
+        "Lreu_1176",
+        "Lreu_1276",
+        "Lreu_1317",
+        "Lreu_1446",
+        "Lreu_1447",
+        "Lreu_1462",
+        "Lreu_1617",
+        "Lreu_1638",
+        "Lreu_1639",
+        "Lreu_1925"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00240": {
+      "pathway_id": "lre00240",
+      "name": "Pyrimidine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0071",
+        "Lreu_0085",
+        "Lreu_0086",
+        "Lreu_0113",
+        "Lreu_0123",
+        "Lreu_0124",
+        "Lreu_0125",
+        "Lreu_0126",
+        "Lreu_0127",
+        "Lreu_0202",
+        "Lreu_0230",
+        "Lreu_0258",
+        "Lreu_0300",
+        "Lreu_0322",
+        "Lreu_0323",
+        "Lreu_0330",
+        "Lreu_0451",
+        "Lreu_0456",
+        "Lreu_0644",
+        "Lreu_0686",
+        "Lreu_0762",
+        "Lreu_0769",
+        "Lreu_0877",
+        "Lreu_0930",
+        "Lreu_0931",
+        "Lreu_1029",
+        "Lreu_1215",
+        "Lreu_1309",
+        "Lreu_1310",
+        "Lreu_1317",
+        "Lreu_1639"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00250": {
+      "pathway_id": "lre00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0034",
+        "Lreu_0069",
+        "Lreu_0085",
+        "Lreu_0086",
+        "Lreu_0123",
+        "Lreu_0136",
+        "Lreu_0139",
+        "Lreu_0141",
+        "Lreu_0199",
+        "Lreu_0246",
+        "Lreu_0282",
+        "Lreu_0347",
+        "Lreu_0410",
+        "Lreu_0731",
+        "Lreu_0732",
+        "Lreu_0930",
+        "Lreu_0931",
+        "Lreu_1202",
+        "Lreu_1254",
+        "Lreu_1885",
+        "Lreu_1900",
+        "Lreu_1938"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00260": {
+      "pathway_id": "lre00260",
+      "name": "Glycine, serine and threonine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0146",
+        "Lreu_0291",
+        "Lreu_0455",
+        "Lreu_0611",
+        "Lreu_0618",
+        "Lreu_0622",
+        "Lreu_0634",
+        "Lreu_1073",
+        "Lreu_1074"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00270": {
+      "pathway_id": "lre00270",
+      "name": "Cysteine and methionine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0061",
+        "Lreu_0194",
+        "Lreu_0293",
+        "Lreu_0348",
+        "Lreu_0602",
+        "Lreu_0611",
+        "Lreu_0618",
+        "Lreu_0716",
+        "Lreu_0907",
+        "Lreu_1042",
+        "Lreu_1073",
+        "Lreu_1074",
+        "Lreu_1272",
+        "Lreu_1296",
+        "Lreu_1394",
+        "Lreu_1395",
+        "Lreu_1553",
+        "Lreu_1586",
+        "Lreu_1791",
+        "Lreu_1792",
+        "Lreu_1903",
+        "Lreu_1912"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00280": {
+      "pathway_id": "lre00280",
+      "name": "Valine, leucine and isoleucine degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0634",
+        "Lreu_0676"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00290": {
+      "pathway_id": "lre00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0132"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00300": {
+      "pathway_id": "lre00300",
+      "name": "Lysine biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0044",
+        "Lreu_0190",
+        "Lreu_0243",
+        "Lreu_0310",
+        "Lreu_0377",
+        "Lreu_0610",
+        "Lreu_0611",
+        "Lreu_0612",
+        "Lreu_0613",
+        "Lreu_0614",
+        "Lreu_0615",
+        "Lreu_0616",
+        "Lreu_0617",
+        "Lreu_0618",
+        "Lreu_0744",
+        "Lreu_1200",
+        "Lreu_1544",
+        "Lreu_1902",
+        "Lreu_1937"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00310": {
+      "pathway_id": "lre00310",
+      "name": "Lysine degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0034",
+        "Lreu_0052",
+        "Lreu_0634"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00220": {
+      "pathway_id": "lre00220",
+      "name": "Arginine biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0085",
+        "Lreu_0086",
+        "Lreu_0139",
+        "Lreu_0246",
+        "Lreu_0425",
+        "Lreu_0426",
+        "Lreu_0445",
+        "Lreu_0731",
+        "Lreu_0732",
+        "Lreu_0930",
+        "Lreu_0931",
+        "Lreu_1202",
+        "Lreu_1254"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00330": {
+      "pathway_id": "lre00330",
+      "name": "Arginine and proline metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0033",
+        "Lreu_0258",
+        "Lreu_0344",
+        "Lreu_0346",
+        "Lreu_0866",
+        "Lreu_1648"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00350": {
+      "pathway_id": "lre00350",
+      "name": "Tyrosine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0034",
+        "Lreu_0259",
+        "Lreu_0321",
+        "Lreu_1496",
+        "Lreu_1535",
+        "Lreu_1578"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00360": {
+      "pathway_id": "lre00360",
+      "name": "Phenylalanine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0103",
+        "Lreu_0866",
+        "Lreu_1578",
+        "Lreu_1904"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00380": {
+      "pathway_id": "lre00380",
+      "name": "Tryptophan metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0634",
+        "Lreu_0866"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00410": {
+      "pathway_id": "lre00410",
+      "name": "beta-Alanine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0199",
+        "Lreu_1309",
+        "Lreu_1310"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00430": {
+      "pathway_id": "lre00430",
+      "name": "Taurine and hypotaurine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0398",
+        "Lreu_0560",
+        "Lreu_1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00450": {
+      "pathway_id": "lre00450",
+      "name": "Selenocompound metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0210",
+        "Lreu_0293",
+        "Lreu_0376",
+        "Lreu_0893",
+        "Lreu_1071",
+        "Lreu_1912"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00460": {
+      "pathway_id": "lre00460",
+      "name": "Cyanoamino acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0455",
+        "Lreu_1885",
+        "Lreu_1900"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00470": {
+      "pathway_id": "lre00470",
+      "name": "D-Amino acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0139",
+        "Lreu_0246",
+        "Lreu_0250",
+        "Lreu_0252",
+        "Lreu_0255",
+        "Lreu_0282",
+        "Lreu_0477",
+        "Lreu_0541",
+        "Lreu_0589",
+        "Lreu_0610",
+        "Lreu_0612",
+        "Lreu_1254"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00480": {
+      "pathway_id": "lre00480",
+      "name": "Glutathione metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0061",
+        "Lreu_1395",
+        "Lreu_1411",
+        "Lreu_1765",
+        "Lreu_1766",
+        "Lreu_1883"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00520": {
+      "pathway_id": "lre00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0220",
+        "Lreu_0232",
+        "Lreu_0312",
+        "Lreu_0339",
+        "Lreu_0372",
+        "Lreu_0380",
+        "Lreu_0403",
+        "Lreu_0409",
+        "Lreu_0410",
+        "Lreu_0420",
+        "Lreu_0470",
+        "Lreu_1026",
+        "Lreu_1206",
+        "Lreu_1374",
+        "Lreu_1389",
+        "Lreu_1575",
+        "Lreu_1776",
+        "Lreu_1777"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00541": {
+      "pathway_id": "lre00541",
+      "name": "Biosynthesis of various nucleotide sugars - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0220",
+        "Lreu_0312",
+        "Lreu_0372",
+        "Lreu_1054",
+        "Lreu_1055",
+        "Lreu_1389"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00511": {
+      "pathway_id": "lre00511",
+      "name": "Other glycan degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0288",
+        "Lreu_0289"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00550": {
+      "pathway_id": "lre00550",
+      "name": "Peptidoglycan biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0232",
+        "Lreu_0243",
+        "Lreu_0403",
+        "Lreu_0449",
+        "Lreu_0450",
+        "Lreu_0470",
+        "Lreu_0474",
+        "Lreu_0477",
+        "Lreu_0587",
+        "Lreu_0588",
+        "Lreu_0589",
+        "Lreu_0590",
+        "Lreu_0638",
+        "Lreu_0690",
+        "Lreu_0737",
+        "Lreu_0920",
+        "Lreu_1211",
+        "Lreu_1250",
+        "Lreu_1269",
+        "Lreu_1540",
+        "Lreu_1842",
+        "Lreu_1937"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00552": {
+      "pathway_id": "lre00552",
+      "name": "Teichoic acid biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0080",
+        "Lreu_0081",
+        "Lreu_0249",
+        "Lreu_0250",
+        "Lreu_0251",
+        "Lreu_0252",
+        "Lreu_1057",
+        "Lreu_1256",
+        "Lreu_1322",
+        "Lreu_1323",
+        "Lreu_1352",
+        "Lreu_1620",
+        "Lreu_1839"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00543": {
+      "pathway_id": "lre00543",
+      "name": "Exopolysaccharide biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_1890"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00730": {
+      "pathway_id": "lre00730",
+      "name": "Thiamine metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0502",
+        "Lreu_0503",
+        "Lreu_0603",
+        "Lreu_0958",
+        "Lreu_1013",
+        "Lreu_1014",
+        "Lreu_1015",
+        "Lreu_1166",
+        "Lreu_1168",
+        "Lreu_1271",
+        "Lreu_1462"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00740": {
+      "pathway_id": "lre00740",
+      "name": "Riboflavin metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0600",
+        "Lreu_0702",
+        "Lreu_0878",
+        "Lreu_0879",
+        "Lreu_0880",
+        "Lreu_0881",
+        "Lreu_0900",
+        "Lreu_1013",
+        "Lreu_1915"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00760": {
+      "pathway_id": "lre00760",
+      "name": "Nicotinate and nicotinamide metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0034",
+        "Lreu_0114",
+        "Lreu_0155",
+        "Lreu_0208",
+        "Lreu_0284",
+        "Lreu_0285",
+        "Lreu_0573",
+        "Lreu_1235"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00770": {
+      "pathway_id": "lre00770",
+      "name": "Pantothenate and CoA biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0132",
+        "Lreu_0254",
+        "Lreu_0349",
+        "Lreu_0641",
+        "Lreu_1174",
+        "Lreu_1245",
+        "Lreu_1309",
+        "Lreu_1310",
+        "Lreu_1619",
+        "Lreu_1867"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00780": {
+      "pathway_id": "lre00780",
+      "name": "Biotin metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0734",
+        "Lreu_0981",
+        "Lreu_0985",
+        "Lreu_0987",
+        "Lreu_0988",
+        "Lreu_0993"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00785": {
+      "pathway_id": "lre00785",
+      "name": "Lipoic acid metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0225",
+        "Lreu_0631",
+        "Lreu_0632",
+        "Lreu_0633",
+        "Lreu_0634",
+        "Lreu_1677"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00790": {
+      "pathway_id": "lre00790",
+      "name": "Folate biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0510",
+        "Lreu_0770",
+        "Lreu_0880",
+        "Lreu_1275",
+        "Lreu_1277",
+        "Lreu_1278",
+        "Lreu_1279",
+        "Lreu_1280"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00670": {
+      "pathway_id": "lre00670",
+      "name": "One carbon pool by folate - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0131",
+        "Lreu_0143",
+        "Lreu_0144",
+        "Lreu_0455",
+        "Lreu_0634",
+        "Lreu_0769",
+        "Lreu_0770",
+        "Lreu_1042",
+        "Lreu_1184",
+        "Lreu_1209",
+        "Lreu_1296"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00860": {
+      "pathway_id": "lre00860",
+      "name": "Porphyrin metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_1554",
+        "Lreu_1695",
+        "Lreu_1697",
+        "Lreu_1698",
+        "Lreu_1699",
+        "Lreu_1700",
+        "Lreu_1701",
+        "Lreu_1702",
+        "Lreu_1703",
+        "Lreu_1704",
+        "Lreu_1705",
+        "Lreu_1710",
+        "Lreu_1711",
+        "Lreu_1712",
+        "Lreu_1713",
+        "Lreu_1714",
+        "Lreu_1715",
+        "Lreu_1716",
+        "Lreu_1717",
+        "Lreu_1718",
+        "Lreu_1719",
+        "Lreu_1720",
+        "Lreu_1721",
+        "Lreu_1722",
+        "Lreu_1725",
+        "Lreu_1737"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00130": {
+      "pathway_id": "lre00130",
+      "name": "Ubiquinone and other terpenoid-quinone biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0182",
+        "Lreu_0886",
+        "Lreu_0887",
+        "Lreu_0888",
+        "Lreu_1080",
+        "Lreu_1083",
+        "Lreu_1556"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00900": {
+      "pathway_id": "lre00900",
+      "name": "Terpenoid backbone biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0206",
+        "Lreu_0215",
+        "Lreu_0676",
+        "Lreu_0690",
+        "Lreu_0912",
+        "Lreu_0913",
+        "Lreu_0914",
+        "Lreu_0915",
+        "Lreu_0958",
+        "Lreu_1181"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00523": {
+      "pathway_id": "lre00523",
+      "name": "Polyketide sugar unit biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_1054",
+        "Lreu_1055"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre01054": {
+      "pathway_id": "lre01054",
+      "name": "Nonribosomal peptide structures - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0282"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00261": {
+      "pathway_id": "lre00261",
+      "name": "Monobactam biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0611",
+        "Lreu_0615",
+        "Lreu_0616",
+        "Lreu_0618"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00521": {
+      "pathway_id": "lre00521",
+      "name": "Streptomycin biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0380",
+        "Lreu_0636",
+        "Lreu_1054",
+        "Lreu_1055",
+        "Lreu_1206"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00362": {
+      "pathway_id": "lre00362",
+      "name": "Benzoate degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0052",
+        "Lreu_0103",
+        "Lreu_1066",
+        "Lreu_1904",
+        "Lreu_1910"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00627": {
+      "pathway_id": "lre00627",
+      "name": "Aminobenzoate degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0866",
+        "Lreu_1222"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00625": {
+      "pathway_id": "lre00625",
+      "name": "Chloroalkane and chloroalkene degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0321",
+        "Lreu_1496",
+        "Lreu_1535"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00622": {
+      "pathway_id": "lre00622",
+      "name": "Xylene degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_1066",
+        "Lreu_1578",
+        "Lreu_1904"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00643": {
+      "pathway_id": "lre00643",
+      "name": "Styrene degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0866"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00621": {
+      "pathway_id": "lre00621",
+      "name": "Dioxin degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_1066",
+        "Lreu_1904"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00626": {
+      "pathway_id": "lre00626",
+      "name": "Naphthalene degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0321",
+        "Lreu_1496",
+        "Lreu_1535"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03020": {
+      "pathway_id": "lre03020",
+      "name": "RNA polymerase - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0229",
+        "Lreu_1175",
+        "Lreu_1457",
+        "Lreu_1491",
+        "Lreu_1492"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03010": {
+      "pathway_id": "lre03010",
+      "name": "Ribosome - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0007",
+        "Lreu_0009",
+        "Lreu_0011",
+        "Lreu_0233",
+        "Lreu_0308",
+        "Lreu_0309",
+        "Lreu_0313",
+        "Lreu_0314",
+        "Lreu_0500",
+        "Lreu_0647",
+        "Lreu_0648",
+        "Lreu_0684",
+        "Lreu_0728",
+        "Lreu_0763",
+        "Lreu_1077",
+        "Lreu_1149",
+        "Lreu_1154",
+        "Lreu_1165",
+        "Lreu_1190",
+        "Lreu_1192",
+        "Lreu_1210",
+        "Lreu_1229",
+        "Lreu_1239",
+        "Lreu_1240",
+        "Lreu_1450",
+        "Lreu_1451",
+        "Lreu_1456",
+        "Lreu_1458",
+        "Lreu_1459",
+        "Lreu_1460",
+        "Lreu_1464",
+        "Lreu_1465",
+        "Lreu_1466",
+        "Lreu_1467",
+        "Lreu_1468",
+        "Lreu_1469",
+        "Lreu_1470",
+        "Lreu_1471",
+        "Lreu_1472",
+        "Lreu_1473",
+        "Lreu_1474",
+        "Lreu_1475",
+        "Lreu_1476",
+        "Lreu_1477",
+        "Lreu_1478",
+        "Lreu_1479",
+        "Lreu_1480",
+        "Lreu_1481",
+        "Lreu_1482",
+        "Lreu_1483",
+        "Lreu_1484",
+        "Lreu_1487",
+        "Lreu_1488",
+        "Lreu_1944",
+        "Lreu_R0003",
+        "Lreu_R0004",
+        "Lreu_R0005",
+        "Lreu_R0009",
+        "Lreu_R0010",
+        "Lreu_R0011",
+        "Lreu_R0022",
+        "Lreu_R0025",
+        "Lreu_R0026",
+        "Lreu_R0046",
+        "Lreu_R0049",
+        "Lreu_R0050",
+        "Lreu_R0062",
+        "Lreu_R0063",
+        "Lreu_R0064",
+        "Lreu_R0077",
+        "Lreu_R0078",
+        "Lreu_R0081"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre00970": {
+      "pathway_id": "lre00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0097",
+        "Lreu_0148",
+        "Lreu_0204",
+        "Lreu_0210",
+        "Lreu_0271",
+        "Lreu_0303",
+        "Lreu_0504",
+        "Lreu_0533",
+        "Lreu_0598",
+        "Lreu_0693",
+        "Lreu_0724",
+        "Lreu_0740",
+        "Lreu_0741",
+        "Lreu_1172",
+        "Lreu_1201",
+        "Lreu_1217",
+        "Lreu_1218",
+        "Lreu_1270",
+        "Lreu_1295",
+        "Lreu_1440",
+        "Lreu_1441",
+        "Lreu_1442",
+        "Lreu_1830",
+        "Lreu_1848",
+        "Lreu_1863",
+        "Lreu_1886",
+        "Lreu_R0001",
+        "Lreu_R0002",
+        "Lreu_R0006",
+        "Lreu_R0007",
+        "Lreu_R0008",
+        "Lreu_R0012",
+        "Lreu_R0013",
+        "Lreu_R0014",
+        "Lreu_R0015",
+        "Lreu_R0016",
+        "Lreu_R0017",
+        "Lreu_R0020",
+        "Lreu_R0021",
+        "Lreu_R0023",
+        "Lreu_R0024",
+        "Lreu_R0027",
+        "Lreu_R0028",
+        "Lreu_R0029",
+        "Lreu_R0030",
+        "Lreu_R0031",
+        "Lreu_R0032",
+        "Lreu_R0033",
+        "Lreu_R0034",
+        "Lreu_R0035",
+        "Lreu_R0036",
+        "Lreu_R0037",
+        "Lreu_R0038",
+        "Lreu_R0039",
+        "Lreu_R0040",
+        "Lreu_R0041",
+        "Lreu_R0042",
+        "Lreu_R0043",
+        "Lreu_R0044",
+        "Lreu_R0045",
+        "Lreu_R0047",
+        "Lreu_R0048",
+        "Lreu_R0051",
+        "Lreu_R0052",
+        "Lreu_R0053",
+        "Lreu_R0054",
+        "Lreu_R0055",
+        "Lreu_R0056",
+        "Lreu_R0057",
+        "Lreu_R0058",
+        "Lreu_R0059",
+        "Lreu_R0060",
+        "Lreu_R0061",
+        "Lreu_R0065",
+        "Lreu_R0066",
+        "Lreu_R0067",
+        "Lreu_R0068",
+        "Lreu_R0069",
+        "Lreu_R0070",
+        "Lreu_R0071",
+        "Lreu_R0072",
+        "Lreu_R0073",
+        "Lreu_R0074",
+        "Lreu_R0075",
+        "Lreu_R0076",
+        "Lreu_R0079",
+        "Lreu_R0080",
+        "Lreu_R0082",
+        "Lreu_R0083",
+        "Lreu_R0084",
+        "Lreu_R0085",
+        "Lreu_R0086",
+        "Lreu_R0087",
+        "Lreu_R0088"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03060": {
+      "pathway_id": "lre03060",
+      "name": "Protein export - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0306",
+        "Lreu_0365",
+        "Lreu_0392",
+        "Lreu_0530",
+        "Lreu_0928",
+        "Lreu_1155",
+        "Lreu_1157",
+        "Lreu_1223",
+        "Lreu_1463",
+        "Lreu_1935",
+        "Lreu_1942",
+        "Lreu_R0018"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre04122": {
+      "pathway_id": "lre04122",
+      "name": "Sulfur relay system - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0502",
+        "Lreu_0503",
+        "Lreu_0603",
+        "Lreu_0605"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03018": {
+      "pathway_id": "lre03018",
+      "name": "RNA degradation - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0244",
+        "Lreu_0337",
+        "Lreu_0354",
+        "Lreu_0394",
+        "Lreu_0524",
+        "Lreu_0649",
+        "Lreu_0706",
+        "Lreu_0760",
+        "Lreu_1516"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03030": {
+      "pathway_id": "lre03030",
+      "name": "DNA replication - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0002",
+        "Lreu_0008",
+        "Lreu_0012",
+        "Lreu_0326",
+        "Lreu_0332",
+        "Lreu_0402",
+        "Lreu_0646",
+        "Lreu_0675",
+        "Lreu_0694",
+        "Lreu_0742",
+        "Lreu_0750",
+        "Lreu_0777",
+        "Lreu_0926",
+        "Lreu_1247",
+        "Lreu_1444"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03410": {
+      "pathway_id": "lre03410",
+      "name": "Base excision repair - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0197",
+        "Lreu_0397",
+        "Lreu_1090",
+        "Lreu_1246",
+        "Lreu_1247",
+        "Lreu_1297",
+        "Lreu_1311",
+        "Lreu_1444",
+        "Lreu_1526",
+        "Lreu_1801"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03420": {
+      "pathway_id": "lre03420",
+      "name": "Nucleotide excision repair - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0201",
+        "Lreu_0262",
+        "Lreu_0383",
+        "Lreu_0384",
+        "Lreu_0657",
+        "Lreu_0955",
+        "Lreu_1247",
+        "Lreu_1444",
+        "Lreu_1445",
+        "Lreu_1625"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03430": {
+      "pathway_id": "lre03430",
+      "name": "Mismatch repair - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0002",
+        "Lreu_0008",
+        "Lreu_0201",
+        "Lreu_0326",
+        "Lreu_0332",
+        "Lreu_0402",
+        "Lreu_0525",
+        "Lreu_0526",
+        "Lreu_0538",
+        "Lreu_0646",
+        "Lreu_0694",
+        "Lreu_0750",
+        "Lreu_1182",
+        "Lreu_1183",
+        "Lreu_1444",
+        "Lreu_1445",
+        "Lreu_1625"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03440": {
+      "pathway_id": "lre03440",
+      "name": "Homologous recombination - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0002",
+        "Lreu_0004",
+        "Lreu_0008",
+        "Lreu_0326",
+        "Lreu_0328",
+        "Lreu_0332",
+        "Lreu_0402",
+        "Lreu_0523",
+        "Lreu_0527",
+        "Lreu_0528",
+        "Lreu_0608",
+        "Lreu_0646",
+        "Lreu_0694",
+        "Lreu_0739",
+        "Lreu_0750",
+        "Lreu_1162",
+        "Lreu_1173",
+        "Lreu_1247"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre02010": {
+      "pathway_id": "lre02010",
+      "name": "ABC transporters - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0018",
+        "Lreu_0098",
+        "Lreu_0099",
+        "Lreu_0184",
+        "Lreu_0185",
+        "Lreu_0186",
+        "Lreu_0187",
+        "Lreu_0191",
+        "Lreu_0192",
+        "Lreu_0193",
+        "Lreu_0294",
+        "Lreu_0295",
+        "Lreu_0296",
+        "Lreu_0405",
+        "Lreu_0507",
+        "Lreu_0508",
+        "Lreu_0726",
+        "Lreu_0727",
+        "Lreu_0733",
+        "Lreu_1199",
+        "Lreu_1418",
+        "Lreu_1419",
+        "Lreu_1453",
+        "Lreu_1454",
+        "Lreu_1455",
+        "Lreu_1511",
+        "Lreu_1512",
+        "Lreu_1513",
+        "Lreu_1514",
+        "Lreu_1548",
+        "Lreu_1565",
+        "Lreu_1566",
+        "Lreu_1567",
+        "Lreu_1568",
+        "Lreu_1585",
+        "Lreu_1643",
+        "Lreu_1644",
+        "Lreu_1645",
+        "Lreu_1646",
+        "Lreu_1663",
+        "Lreu_1690",
+        "Lreu_1691",
+        "Lreu_1706",
+        "Lreu_1707",
+        "Lreu_1708",
+        "Lreu_1709",
+        "Lreu_1789",
+        "Lreu_1790"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre02060": {
+      "pathway_id": "lre02060",
+      "name": "Phosphotransferase system (PTS) - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0234",
+        "Lreu_0457",
+        "Lreu_1324",
+        "Lreu_1325",
+        "Lreu_1671"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre03070": {
+      "pathway_id": "lre03070",
+      "name": "Bacterial secretion system - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0306",
+        "Lreu_0365",
+        "Lreu_0392",
+        "Lreu_0530",
+        "Lreu_1155",
+        "Lreu_1157",
+        "Lreu_1223",
+        "Lreu_1463",
+        "Lreu_1942"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre02020": {
+      "pathway_id": "lre02020",
+      "name": "Two-component system - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0001",
+        "Lreu_0019",
+        "Lreu_0020",
+        "Lreu_0024",
+        "Lreu_0052",
+        "Lreu_0240",
+        "Lreu_0246",
+        "Lreu_0249",
+        "Lreu_0250",
+        "Lreu_0251",
+        "Lreu_0252",
+        "Lreu_0312",
+        "Lreu_0424",
+        "Lreu_0505",
+        "Lreu_0506",
+        "Lreu_0898",
+        "Lreu_0903",
+        "Lreu_0904",
+        "Lreu_0905",
+        "Lreu_0906",
+        "Lreu_1202",
+        "Lreu_1227",
+        "Lreu_1228",
+        "Lreu_1254",
+        "Lreu_1389",
+        "Lreu_1522",
+        "Lreu_1568",
+        "Lreu_1569",
+        "Lreu_1579",
+        "Lreu_1606",
+        "Lreu_1750",
+        "Lreu_1787",
+        "Lreu_1788",
+        "Lreu_1789",
+        "Lreu_1790"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre02024": {
+      "pathway_id": "lre02024",
+      "name": "Quorum sensing - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0306",
+        "Lreu_0365",
+        "Lreu_0392",
+        "Lreu_0530",
+        "Lreu_0878",
+        "Lreu_1155",
+        "Lreu_1157",
+        "Lreu_1223",
+        "Lreu_1463",
+        "Lreu_1586",
+        "Lreu_1942"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre02040": {
+      "pathway_id": "lre02040",
+      "name": "Flagellar assembly - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0296",
+        "Lreu_0743"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre04981": {
+      "pathway_id": "lre04981",
+      "name": "Folate transport and metabolism - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [
+        "Lreu_0455",
+        "Lreu_0769",
+        "Lreu_0770",
+        "Lreu_1042",
+        "Lreu_1209"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "lre01501": {
+      "pathway_id": "lre01501",
+      "name": "beta-Lactam resistance - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01502": {
+      "pathway_id": "lre01502",
+      "name": "Vancomycin resistance - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "lre01503": {
+      "pathway_id": "lre01503",
+      "name": "Cationic antimicrobial peptide (CAMP) resistance - Limosilactobacillus reuteri subsp. reuteri DSM 20016",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}

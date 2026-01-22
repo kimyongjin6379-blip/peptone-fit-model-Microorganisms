@@ -1,0 +1,1039 @@
+{
+  "organism_code": "sez",
+  "organism_name": "sez",
+  "retrieved_at": "2026-01-22T09:47:33.070883",
+  "pathways": {
+    "sez01100": {
+      "pathway_id": "sez01100",
+      "name": "Metabolic pathways - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01110": {
+      "pathway_id": "sez01110",
+      "name": "Biosynthesis of secondary metabolites - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01120": {
+      "pathway_id": "sez01120",
+      "name": "Microbial metabolism in diverse environments - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01200": {
+      "pathway_id": "sez01200",
+      "name": "Carbon metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01210": {
+      "pathway_id": "sez01210",
+      "name": "2-Oxocarboxylic acid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01212": {
+      "pathway_id": "sez01212",
+      "name": "Fatty acid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01230": {
+      "pathway_id": "sez01230",
+      "name": "Biosynthesis of amino acids - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01232": {
+      "pathway_id": "sez01232",
+      "name": "Nucleotide metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01250": {
+      "pathway_id": "sez01250",
+      "name": "Biosynthesis of nucleotide sugars - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01240": {
+      "pathway_id": "sez01240",
+      "name": "Biosynthesis of cofactors - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez01220": {
+      "pathway_id": "sez01220",
+      "name": "Degradation of aromatic compounds - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "sez00010": {
+      "pathway_id": "sez00010",
+      "name": "Glycolysis / Gluconeogenesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0043",
+        "Sez_0046",
+        "Sez_0203",
+        "Sez_0242",
+        "Sez_0243",
+        "Sez_0270",
+        "Sez_0272",
+        "Sez_0587",
+        "Sez_0613",
+        "Sez_0635",
+        "Sez_0766",
+        "Sez_0774",
+        "Sez_0881",
+        "Sez_0882",
+        "Sez_0941",
+        "Sez_1022",
+        "Sez_1219",
+        "Sez_1220",
+        "Sez_1221",
+        "Sez_1222",
+        "Sez_1321",
+        "Sez_1374",
+        "Sez_1506",
+        "Sez_1717",
+        "Sez_1744",
+        "Sez_1804"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00020": {
+      "pathway_id": "sez00020",
+      "name": "Citrate cycle (TCA cycle) - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1219",
+        "Sez_1220",
+        "Sez_1221",
+        "Sez_1222"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00030": {
+      "pathway_id": "sez00030",
+      "name": "Pentose phosphate pathway - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0019",
+        "Sez_0203",
+        "Sez_0260",
+        "Sez_0469",
+        "Sez_0613",
+        "Sez_0685",
+        "Sez_0688",
+        "Sez_0766",
+        "Sez_0881",
+        "Sez_0934",
+        "Sez_0941",
+        "Sez_1047",
+        "Sez_1164",
+        "Sez_1165",
+        "Sez_1300",
+        "Sez_1301",
+        "Sez_1600",
+        "Sez_1602",
+        "Sez_1717",
+        "Sez_1807"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00040": {
+      "pathway_id": "sez00040",
+      "name": "Pentose and glucuronate interconversions - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0171",
+        "Sez_0172",
+        "Sez_0173",
+        "Sez_0200",
+        "Sez_0201",
+        "Sez_0216",
+        "Sez_0260",
+        "Sez_0686",
+        "Sez_0689",
+        "Sez_0690"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00051": {
+      "pathway_id": "sez00051",
+      "name": "Fructose and mannose metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0204",
+        "Sez_0207",
+        "Sez_0208",
+        "Sez_0209",
+        "Sez_0365",
+        "Sez_0366",
+        "Sez_0421",
+        "Sez_0422",
+        "Sez_0423",
+        "Sez_0743",
+        "Sez_0744",
+        "Sez_0745",
+        "Sez_0881",
+        "Sez_1104",
+        "Sez_1105",
+        "Sez_1184",
+        "Sez_1187",
+        "Sez_1321",
+        "Sez_1717"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00052": {
+      "pathway_id": "sez00052",
+      "name": "Galactose metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0201",
+        "Sez_0216",
+        "Sez_0362",
+        "Sez_0453",
+        "Sez_0454",
+        "Sez_0455",
+        "Sez_0456",
+        "Sez_0459",
+        "Sez_0460",
+        "Sez_0461",
+        "Sez_0587",
+        "Sez_0613",
+        "Sez_0738",
+        "Sez_0739",
+        "Sez_0741",
+        "Sez_0850",
+        "Sez_0881",
+        "Sez_0941",
+        "Sez_1304",
+        "Sez_1306",
+        "Sez_1307",
+        "Sez_1308",
+        "Sez_1424",
+        "Sez_1496",
+        "Sez_1741",
+        "Sez_1742",
+        "Sez_1743",
+        "Sez_1744"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00053": {
+      "pathway_id": "sez00053",
+      "name": "Ascorbate and aldarate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0126",
+        "Sez_0127",
+        "Sez_0128",
+        "Sez_0168",
+        "Sez_0169",
+        "Sez_0170",
+        "Sez_0171",
+        "Sez_0172",
+        "Sez_0173",
+        "Sez_0175",
+        "Sez_0200",
+        "Sez_0686"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00500": {
+      "pathway_id": "sez00500",
+      "name": "Starch and sucrose metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0201",
+        "Sez_0203",
+        "Sez_0216",
+        "Sez_0243",
+        "Sez_0362",
+        "Sez_0363",
+        "Sez_0365",
+        "Sez_0587",
+        "Sez_0613",
+        "Sez_0786",
+        "Sez_0787",
+        "Sez_0788",
+        "Sez_0789",
+        "Sez_0790",
+        "Sez_0791",
+        "Sez_0941",
+        "Sez_1254",
+        "Sez_1255",
+        "Sez_1264",
+        "Sez_1265",
+        "Sez_1278",
+        "Sez_1280",
+        "Sez_1281",
+        "Sez_1374",
+        "Sez_1409",
+        "Sez_1426",
+        "Sez_1427",
+        "Sez_1428",
+        "Sez_1429",
+        "Sez_1506",
+        "Sez_1724",
+        "Sez_1782",
+        "Sez_1783",
+        "Sez_1809",
+        "Sez_1810",
+        "Sez_1811"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00620": {
+      "pathway_id": "sez00620",
+      "name": "Pyruvate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0043",
+        "Sez_0046",
+        "Sez_0124",
+        "Sez_0326",
+        "Sez_0412",
+        "Sez_0416",
+        "Sez_0417",
+        "Sez_0714",
+        "Sez_0724",
+        "Sez_0882",
+        "Sez_0992",
+        "Sez_1022",
+        "Sez_1219",
+        "Sez_1220",
+        "Sez_1221",
+        "Sez_1222",
+        "Sez_1399",
+        "Sez_1437",
+        "Sez_1653"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00630": {
+      "pathway_id": "sez00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0278",
+        "Sez_0688",
+        "Sez_1026",
+        "Sez_1219",
+        "Sez_1300",
+        "Sez_1399",
+        "Sez_1437",
+        "Sez_1935"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00640": {
+      "pathway_id": "sez00640",
+      "name": "Propanoate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0124",
+        "Sez_0326",
+        "Sez_0412",
+        "Sez_0416",
+        "Sez_0417",
+        "Sez_1022",
+        "Sez_1219",
+        "Sez_1806"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00650": {
+      "pathway_id": "sez00650",
+      "name": "Butanoate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0043",
+        "Sez_0045",
+        "Sez_0326",
+        "Sez_0991",
+        "Sez_0992",
+        "Sez_1079",
+        "Sez_1399",
+        "Sez_1434",
+        "Sez_1435",
+        "Sez_1436",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00562": {
+      "pathway_id": "sez00562",
+      "name": "Inositol phosphate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0909",
+        "Sez_1321",
+        "Sez_1476"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00190": {
+      "pathway_id": "sez00190",
+      "name": "Oxidative phosphorylation - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0792",
+        "Sez_0793",
+        "Sez_0794",
+        "Sez_0795",
+        "Sez_0796",
+        "Sez_0797",
+        "Sez_0798",
+        "Sez_0799",
+        "Sez_1624"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00710": {
+      "pathway_id": "sez00710",
+      "name": "Carbon fixation by Calvin cycle - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0260",
+        "Sez_0270",
+        "Sez_0272",
+        "Sez_0714",
+        "Sez_1165",
+        "Sez_1321",
+        "Sez_1600",
+        "Sez_1602",
+        "Sez_1717",
+        "Sez_1807"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00720": {
+      "pathway_id": "sez00720",
+      "name": "Other carbon fixation pathways - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0124",
+        "Sez_0412",
+        "Sez_0416",
+        "Sez_0417",
+        "Sez_0614",
+        "Sez_0714",
+        "Sez_0945",
+        "Sez_1399",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00680": {
+      "pathway_id": "sez00680",
+      "name": "Methane metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0124",
+        "Sez_0635",
+        "Sez_0714",
+        "Sez_0774",
+        "Sez_0881",
+        "Sez_1026",
+        "Sez_1717",
+        "Sez_1804"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00910": {
+      "pathway_id": "sez00910",
+      "name": "Nitrogen metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0225",
+        "Sez_0278",
+        "Sez_0573",
+        "Sez_1090"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00920": {
+      "pathway_id": "sez00920",
+      "name": "Sulfur metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0747",
+        "Sez_1549",
+        "Sez_1755"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00061": {
+      "pathway_id": "sez00061",
+      "name": "Fatty acid biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0404",
+        "Sez_0406",
+        "Sez_0408",
+        "Sez_0409",
+        "Sez_0410",
+        "Sez_0411",
+        "Sez_0412",
+        "Sez_0413",
+        "Sez_0416",
+        "Sez_0417",
+        "Sez_1478"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00071": {
+      "pathway_id": "sez00071",
+      "name": "Fatty acid degradation - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0043",
+        "Sez_0046",
+        "Sez_1399",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00074": {
+      "pathway_id": "sez00074",
+      "name": "Mycolic acid biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0368",
+        "Sez_0409"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00561": {
+      "pathway_id": "sez00561",
+      "name": "Glycerolipid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0021",
+        "Sez_0650",
+        "Sez_0785",
+        "Sez_0862",
+        "Sez_1150",
+        "Sez_1406",
+        "Sez_1407",
+        "Sez_1603",
+        "Sez_1806"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00564": {
+      "pathway_id": "sez00564",
+      "name": "Glycerophospholipid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0217",
+        "Sez_0650",
+        "Sez_0785",
+        "Sez_0947",
+        "Sez_1150",
+        "Sez_1767",
+        "Sez_1940"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00600": {
+      "pathway_id": "sez00600",
+      "name": "Sphingolipid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1425",
+        "Sez_1496"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00230": {
+      "pathway_id": "sez00230",
+      "name": "Purine metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0013",
+        "Sez_0019",
+        "Sez_0023",
+        "Sez_0024",
+        "Sez_0025",
+        "Sez_0026",
+        "Sez_0027",
+        "Sez_0028",
+        "Sez_0030",
+        "Sez_0031",
+        "Sez_0032",
+        "Sez_0077",
+        "Sez_0524",
+        "Sez_0526",
+        "Sez_0573",
+        "Sez_0613",
+        "Sez_0749",
+        "Sez_0760",
+        "Sez_0941",
+        "Sez_1010",
+        "Sez_1035",
+        "Sez_1036",
+        "Sez_1045",
+        "Sez_1047",
+        "Sez_1070",
+        "Sez_1088",
+        "Sez_1163",
+        "Sez_1164",
+        "Sez_1244",
+        "Sez_1473",
+        "Sez_1562",
+        "Sez_1646",
+        "Sez_1777",
+        "Sez_1816",
+        "Sez_1861",
+        "Sez_1953"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00240": {
+      "pathway_id": "sez00240",
+      "name": "Pyrimidine metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0223",
+        "Sez_0351",
+        "Sez_0524",
+        "Sez_0526",
+        "Sez_0633",
+        "Sez_0672",
+        "Sez_0760",
+        "Sez_0856",
+        "Sez_0933",
+        "Sez_0935",
+        "Sez_1031",
+        "Sez_1040",
+        "Sez_1070",
+        "Sez_1078",
+        "Sez_1088",
+        "Sez_1123",
+        "Sez_1124",
+        "Sez_1125",
+        "Sez_1127",
+        "Sez_1151",
+        "Sez_1158",
+        "Sez_1159",
+        "Sez_1253",
+        "Sez_1451",
+        "Sez_1611",
+        "Sez_1615",
+        "Sez_1720",
+        "Sez_1861"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00250": {
+      "pathway_id": "sez00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0025",
+        "Sez_0278",
+        "Sez_0382",
+        "Sez_0574",
+        "Sez_0727",
+        "Sez_0884",
+        "Sez_1090",
+        "Sez_1123",
+        "Sez_1124",
+        "Sez_1125",
+        "Sez_1816"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00260": {
+      "pathway_id": "sez00260",
+      "name": "Glycine, serine and threonine metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0052",
+        "Sez_0635",
+        "Sez_0948",
+        "Sez_1026",
+        "Sez_1040",
+        "Sez_1066",
+        "Sez_1067",
+        "Sez_1219",
+        "Sez_1731",
+        "Sez_1804",
+        "Sez_1933",
+        "Sez_1934"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00270": {
+      "pathway_id": "sez00270",
+      "name": "Cysteine and methionine metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0675",
+        "Sez_0680",
+        "Sez_0948",
+        "Sez_1022",
+        "Sez_1066",
+        "Sez_1067",
+        "Sez_1146",
+        "Sez_1471",
+        "Sez_1536",
+        "Sez_1549",
+        "Sez_1565",
+        "Sez_1731",
+        "Sez_1755",
+        "Sez_1933",
+        "Sez_1934"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00280": {
+      "pathway_id": "sez00280",
+      "name": "Valine, leucine and isoleucine degradation - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1079",
+        "Sez_1146",
+        "Sez_1219",
+        "Sez_1399",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00290": {
+      "pathway_id": "sez00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1146"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00300": {
+      "pathway_id": "sez00300",
+      "name": "Lysine biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0572",
+        "Sez_0643",
+        "Sez_0948",
+        "Sez_1067",
+        "Sez_1678",
+        "Sez_1731"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00310": {
+      "pathway_id": "sez00310",
+      "name": "Lysine degradation - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1219",
+        "Sez_1399",
+        "Sez_1435",
+        "Sez_1436",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00220": {
+      "pathway_id": "sez00220",
+      "name": "Arginine biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0278",
+        "Sez_0568",
+        "Sez_0570",
+        "Sez_0573",
+        "Sez_1090",
+        "Sez_1123",
+        "Sez_1124"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00330": {
+      "pathway_id": "sez00330",
+      "name": "Arginine and proline metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1156",
+        "Sez_1590",
+        "Sez_1591",
+        "Sez_1850"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00380": {
+      "pathway_id": "sez00380",
+      "name": "Tryptophan metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1156",
+        "Sez_1219",
+        "Sez_1399",
+        "Sez_1437"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00400": {
+      "pathway_id": "sez00400",
+      "name": "Phenylalanine, tyrosine and tryptophan biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0700",
+        "Sez_0701",
+        "Sez_0751",
+        "Sez_0864",
+        "Sez_0865",
+        "Sez_1489",
+        "Sez_1490",
+        "Sez_1795"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00450": {
+      "pathway_id": "sez00450",
+      "name": "Selenocompound metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0516",
+        "Sez_1577",
+        "Sez_1703"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00460": {
+      "pathway_id": "sez00460",
+      "name": "Cyanoamino acid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0382",
+        "Sez_0574",
+        "Sez_1026"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00470": {
+      "pathway_id": "sez00470",
+      "name": "D-Amino acid metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0369",
+        "Sez_0591",
+        "Sez_0642",
+        "Sez_1269",
+        "Sez_1271",
+        "Sez_1647"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00480": {
+      "pathway_id": "sez00480",
+      "name": "Glutathione metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0712",
+        "Sez_0867",
+        "Sez_0917"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00520": {
+      "pathway_id": "sez00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0200",
+        "Sez_0201",
+        "Sez_0202",
+        "Sez_0203",
+        "Sez_0216",
+        "Sez_0241",
+        "Sez_0242",
+        "Sez_0243",
+        "Sez_0245",
+        "Sez_0365",
+        "Sez_0366",
+        "Sez_0421",
+        "Sez_0422",
+        "Sez_0423",
+        "Sez_0477",
+        "Sez_0587",
+        "Sez_0613",
+        "Sez_0658",
+        "Sez_0682",
+        "Sez_0743",
+        "Sez_0744",
+        "Sez_0745",
+        "Sez_0788",
+        "Sez_0789",
+        "Sez_0801",
+        "Sez_0850",
+        "Sez_0884",
+        "Sez_0941",
+        "Sez_1060",
+        "Sez_1184",
+        "Sez_1187",
+        "Sez_1211",
+        "Sez_1238",
+        "Sez_1304",
+        "Sez_1306",
+        "Sez_1307",
+        "Sez_1308",
+        "Sez_1474",
+        "Sez_1741",
+        "Sez_1742",
+        "Sez_1743"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00541": {
+      "pathway_id": "sez00541",
+      "name": "Biosynthesis of various nucleotide sugars - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0200",
+        "Sez_0201",
+        "Sez_0202",
+        "Sez_0216",
+        "Sez_0251",
+        "Sez_0837",
+        "Sez_1236",
+        "Sez_1237",
+        "Sez_1238",
+        "Sez_1474"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00511": {
+      "pathway_id": "sez00511",
+      "name": "Other glycan degradation - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1425",
+        "Sez_1496",
+        "Sez_1510"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00542": {
+      "pathway_id": "sez00542",
+      "name": "O-Antigen repeat unit biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_1706"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "sez00550": {
+      "pathway_id": "sez00550",
+      "name": "Peptidoglycan biosynthesis - Streptococcus equi subsp. zooepidemicus MGCS10565",
+      "genes": [
+        "Sez_0107",
+        "Sez_0158",
+        "Sez_0398",
+        "Sez_0591",
+        "Sez_0592",
+        "Sez_0640",
+        "Sez_0642",
+        "Sez_0643",
+        "Sez_0682",
+        "Sez_0715",
+        "Sez_0767",
+        "Sez_0801",
+        "Sez_1015",
+        "Sez_1060",
+        "Sez_1216",
+        "Sez_1319",
+        "Sez_1320",
+        "Sez_1442",
+        "Sez_1571",
+        "Sez_1585",
+        "Sez_1586",
+        "Sez_1617",
+        "Sez_1658",
+        "Sez_1698",
+        "Sez_1699",
+        "Sez_1708",
+        "Sez_1768"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    }
+  }
+}

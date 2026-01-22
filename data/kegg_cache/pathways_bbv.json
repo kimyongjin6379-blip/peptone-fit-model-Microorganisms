@@ -1,0 +1,2087 @@
+{
+  "organism_code": "bbv",
+  "organism_name": "bbv",
+  "retrieved_at": "2026-01-22T09:50:09.270686",
+  "pathways": {
+    "bbv01100": {
+      "pathway_id": "bbv01100",
+      "name": "Metabolic pathways - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01110": {
+      "pathway_id": "bbv01110",
+      "name": "Biosynthesis of secondary metabolites - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01120": {
+      "pathway_id": "bbv01120",
+      "name": "Microbial metabolism in diverse environments - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01200": {
+      "pathway_id": "bbv01200",
+      "name": "Carbon metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01210": {
+      "pathway_id": "bbv01210",
+      "name": "2-Oxocarboxylic acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01212": {
+      "pathway_id": "bbv01212",
+      "name": "Fatty acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01230": {
+      "pathway_id": "bbv01230",
+      "name": "Biosynthesis of amino acids - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01232": {
+      "pathway_id": "bbv01232",
+      "name": "Nucleotide metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01250": {
+      "pathway_id": "bbv01250",
+      "name": "Biosynthesis of nucleotide sugars - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01240": {
+      "pathway_id": "bbv01240",
+      "name": "Biosynthesis of cofactors - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01220": {
+      "pathway_id": "bbv01220",
+      "name": "Degradation of aromatic compounds - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv00010": {
+      "pathway_id": "bbv00010",
+      "name": "Glycolysis / Gluconeogenesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0095",
+        "HMPREF9228_0172",
+        "HMPREF9228_0420",
+        "HMPREF9228_0545",
+        "HMPREF9228_0596",
+        "HMPREF9228_0620",
+        "HMPREF9228_0634",
+        "HMPREF9228_0635",
+        "HMPREF9228_0638",
+        "HMPREF9228_0741",
+        "HMPREF9228_0865",
+        "HMPREF9228_0867",
+        "HMPREF9228_0868",
+        "HMPREF9228_1101",
+        "HMPREF9228_1135",
+        "HMPREF9228_1194",
+        "HMPREF9228_1307",
+        "HMPREF9228_1538",
+        "HMPREF9228_1624",
+        "HMPREF9228_1648",
+        "HMPREF9228_1699",
+        "HMPREF9228_1973"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00020": {
+      "pathway_id": "bbv00020",
+      "name": "Citrate cycle (TCA cycle) - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0679",
+        "HMPREF9228_0768",
+        "HMPREF9228_0839",
+        "HMPREF9228_0840",
+        "HMPREF9228_1048",
+        "HMPREF9228_1049",
+        "HMPREF9228_1194",
+        "HMPREF9228_1508"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00030": {
+      "pathway_id": "bbv00030",
+      "name": "Pentose phosphate pathway - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0095",
+        "HMPREF9228_0206",
+        "HMPREF9228_0246",
+        "HMPREF9228_0247",
+        "HMPREF9228_0249",
+        "HMPREF9228_0267",
+        "HMPREF9228_0420",
+        "HMPREF9228_0708",
+        "HMPREF9228_0815",
+        "HMPREF9228_0859",
+        "HMPREF9228_0860",
+        "HMPREF9228_1078",
+        "HMPREF9228_1081",
+        "HMPREF9228_1454",
+        "HMPREF9228_1463",
+        "HMPREF9228_1473",
+        "HMPREF9228_1648",
+        "HMPREF9228_1653",
+        "HMPREF9228_1869"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00040": {
+      "pathway_id": "bbv00040",
+      "name": "Pentose and glucuronate interconversions - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0579",
+        "HMPREF9228_0815",
+        "HMPREF9228_0831",
+        "HMPREF9228_1701",
+        "HMPREF9228_1819",
+        "HMPREF9228_1874"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00051": {
+      "pathway_id": "bbv00051",
+      "name": "Fructose and mannose metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0095",
+        "HMPREF9228_0485",
+        "HMPREF9228_0486",
+        "HMPREF9228_0487",
+        "HMPREF9228_0576",
+        "HMPREF9228_0577",
+        "HMPREF9228_0618",
+        "HMPREF9228_0867",
+        "HMPREF9228_1822",
+        "HMPREF9228_1823"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00052": {
+      "pathway_id": "bbv00052",
+      "name": "Galactose metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0010",
+        "HMPREF9228_0111",
+        "HMPREF9228_0172",
+        "HMPREF9228_0308",
+        "HMPREF9228_0438",
+        "HMPREF9228_0546",
+        "HMPREF9228_0620",
+        "HMPREF9228_0634",
+        "HMPREF9228_0635",
+        "HMPREF9228_0831",
+        "HMPREF9228_1339",
+        "HMPREF9228_1367",
+        "HMPREF9228_1405",
+        "HMPREF9228_1406",
+        "HMPREF9228_1538",
+        "HMPREF9228_1601",
+        "HMPREF9228_1636",
+        "HMPREF9228_1648",
+        "HMPREF9228_1756",
+        "HMPREF9228_1757",
+        "HMPREF9228_1868",
+        "HMPREF9228_1909",
+        "HMPREF9228_1954",
+        "HMPREF9228_1959",
+        "HMPREF9228_1974"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00053": {
+      "pathway_id": "bbv00053",
+      "name": "Ascorbate and aldarate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1307",
+        "HMPREF9228_1987",
+        "HMPREF9228_1988",
+        "HMPREF9228_1989"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00500": {
+      "pathway_id": "bbv00500",
+      "name": "Starch and sucrose metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0057",
+        "HMPREF9228_0103",
+        "HMPREF9228_0111",
+        "HMPREF9228_0116",
+        "HMPREF9228_0123",
+        "HMPREF9228_0172",
+        "HMPREF9228_0318",
+        "HMPREF9228_0420",
+        "HMPREF9228_0546",
+        "HMPREF9228_0618",
+        "HMPREF9228_0620",
+        "HMPREF9228_0831",
+        "HMPREF9228_0920",
+        "HMPREF9228_0949",
+        "HMPREF9228_1003",
+        "HMPREF9228_1014",
+        "HMPREF9228_1094",
+        "HMPREF9228_1112",
+        "HMPREF9228_1266",
+        "HMPREF9228_1339",
+        "HMPREF9228_1477",
+        "HMPREF9228_1484",
+        "HMPREF9228_1487",
+        "HMPREF9228_1538",
+        "HMPREF9228_1648",
+        "HMPREF9228_1707",
+        "HMPREF9228_1710",
+        "HMPREF9228_1715",
+        "HMPREF9228_1758",
+        "HMPREF9228_1954",
+        "HMPREF9228_1998",
+        "HMPREF9228_2002"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00620": {
+      "pathway_id": "bbv00620",
+      "name": "Pyruvate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0044",
+        "HMPREF9228_0185",
+        "HMPREF9228_0582",
+        "HMPREF9228_0596",
+        "HMPREF9228_0865",
+        "HMPREF9228_1065",
+        "HMPREF9228_1083",
+        "HMPREF9228_1084",
+        "HMPREF9228_1101",
+        "HMPREF9228_1194",
+        "HMPREF9228_1307",
+        "HMPREF9228_1699",
+        "HMPREF9228_1704",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00630": {
+      "pathway_id": "bbv00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0590",
+        "HMPREF9228_0647",
+        "HMPREF9228_0679",
+        "HMPREF9228_0826",
+        "HMPREF9228_1194",
+        "HMPREF9228_1196",
+        "HMPREF9228_1416",
+        "HMPREF9228_1465",
+        "HMPREF9228_1508",
+        "HMPREF9228_1556",
+        "HMPREF9228_1797",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00640": {
+      "pathway_id": "bbv00640",
+      "name": "Propanoate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0596",
+        "HMPREF9228_0679",
+        "HMPREF9228_0839",
+        "HMPREF9228_0840",
+        "HMPREF9228_0865",
+        "HMPREF9228_1065",
+        "HMPREF9228_1083",
+        "HMPREF9228_1084",
+        "HMPREF9228_1194",
+        "HMPREF9228_1556",
+        "HMPREF9228_1797",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00650": {
+      "pathway_id": "bbv00650",
+      "name": "Butanoate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0403",
+        "HMPREF9228_0404",
+        "HMPREF9228_1048",
+        "HMPREF9228_1049",
+        "HMPREF9228_1065",
+        "HMPREF9228_1697",
+        "HMPREF9228_1699"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00660": {
+      "pathway_id": "bbv00660",
+      "name": "C5-Branched dibasic acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0403",
+        "HMPREF9228_0404",
+        "HMPREF9228_0839",
+        "HMPREF9228_0840",
+        "HMPREF9228_1413",
+        "HMPREF9228_1697",
+        "HMPREF9228_1848",
+        "HMPREF9228_1849"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00562": {
+      "pathway_id": "bbv00562",
+      "name": "Inositol phosphate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0489",
+        "HMPREF9228_0867"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00190": {
+      "pathway_id": "bbv00190",
+      "name": "Oxidative phosphorylation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0317",
+        "HMPREF9228_0322",
+        "HMPREF9228_0323",
+        "HMPREF9228_0324",
+        "HMPREF9228_0325",
+        "HMPREF9228_0326",
+        "HMPREF9228_0327",
+        "HMPREF9228_0328",
+        "HMPREF9228_0329",
+        "HMPREF9228_1048",
+        "HMPREF9228_1049",
+        "HMPREF9228_1853"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00710": {
+      "pathway_id": "bbv00710",
+      "name": "Carbon fixation by Calvin cycle - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0044",
+        "HMPREF9228_0095",
+        "HMPREF9228_0638",
+        "HMPREF9228_0815",
+        "HMPREF9228_0859",
+        "HMPREF9228_0860",
+        "HMPREF9228_0867",
+        "HMPREF9228_0868",
+        "HMPREF9228_1653"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00720": {
+      "pathway_id": "bbv00720",
+      "name": "Other carbon fixation pathways - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0044",
+        "HMPREF9228_0200",
+        "HMPREF9228_0679",
+        "HMPREF9228_0768",
+        "HMPREF9228_0839",
+        "HMPREF9228_0840",
+        "HMPREF9228_0897",
+        "HMPREF9228_1048",
+        "HMPREF9228_1049",
+        "HMPREF9228_1083",
+        "HMPREF9228_1084",
+        "HMPREF9228_1106"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00680": {
+      "pathway_id": "bbv00680",
+      "name": "Methane metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0044",
+        "HMPREF9228_0095",
+        "HMPREF9228_0478",
+        "HMPREF9228_0601",
+        "HMPREF9228_0741",
+        "HMPREF9228_1083",
+        "HMPREF9228_1084",
+        "HMPREF9228_1135",
+        "HMPREF9228_1571",
+        "HMPREF9228_1620",
+        "HMPREF9228_1624",
+        "HMPREF9228_1869"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00910": {
+      "pathway_id": "bbv00910",
+      "name": "Nitrogen metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0013",
+        "HMPREF9228_0022",
+        "HMPREF9228_0590",
+        "HMPREF9228_0924",
+        "HMPREF9228_0926",
+        "HMPREF9228_1196"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00920": {
+      "pathway_id": "bbv00920",
+      "name": "Sulfur metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0321",
+        "HMPREF9228_1357"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00061": {
+      "pathway_id": "bbv00061",
+      "name": "Fatty acid biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0132",
+        "HMPREF9228_0429",
+        "HMPREF9228_0771",
+        "HMPREF9228_0941",
+        "HMPREF9228_1496",
+        "HMPREF9228_1796",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00071": {
+      "pathway_id": "bbv00071",
+      "name": "Fatty acid degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0429",
+        "HMPREF9228_0771",
+        "HMPREF9228_0941",
+        "HMPREF9228_1307",
+        "HMPREF9228_1496",
+        "HMPREF9228_1699"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00074": {
+      "pathway_id": "bbv00074",
+      "name": "Mycolic acid biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0364",
+        "HMPREF9228_1796",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00121": {
+      "pathway_id": "bbv00121",
+      "name": "Secondary bile acid biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0895"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00561": {
+      "pathway_id": "bbv00561",
+      "name": "Glycerolipid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0308",
+        "HMPREF9228_0647",
+        "HMPREF9228_0700",
+        "HMPREF9228_1159",
+        "HMPREF9228_1307",
+        "HMPREF9228_1959"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00564": {
+      "pathway_id": "bbv00564",
+      "name": "Glycerophospholipid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0073",
+        "HMPREF9228_0340",
+        "HMPREF9228_0689",
+        "HMPREF9228_0700",
+        "HMPREF9228_0777",
+        "HMPREF9228_0818"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00600": {
+      "pathway_id": "bbv00600",
+      "name": "Sphingolipid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0010",
+        "HMPREF9228_0182",
+        "HMPREF9228_0308",
+        "HMPREF9228_1601",
+        "HMPREF9228_1959"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00230": {
+      "pathway_id": "bbv00230",
+      "name": "Purine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0041",
+        "HMPREF9228_0096",
+        "HMPREF9228_0267",
+        "HMPREF9228_0335",
+        "HMPREF9228_0399",
+        "HMPREF9228_0416",
+        "HMPREF9228_0494",
+        "HMPREF9228_0684",
+        "HMPREF9228_0718",
+        "HMPREF9228_0769",
+        "HMPREF9228_0837",
+        "HMPREF9228_0841",
+        "HMPREF9228_0847",
+        "HMPREF9228_0981",
+        "HMPREF9228_1079",
+        "HMPREF9228_1081",
+        "HMPREF9228_1100",
+        "HMPREF9228_1132",
+        "HMPREF9228_1235",
+        "HMPREF9228_1290",
+        "HMPREF9228_1291",
+        "HMPREF9228_1292",
+        "HMPREF9228_1304",
+        "HMPREF9228_1305",
+        "HMPREF9228_1306",
+        "HMPREF9228_1327",
+        "HMPREF9228_1328",
+        "HMPREF9228_1351",
+        "HMPREF9228_1492",
+        "HMPREF9228_1501",
+        "HMPREF9228_1519",
+        "HMPREF9228_1548",
+        "HMPREF9228_1648",
+        "HMPREF9228_1674",
+        "HMPREF9228_1771",
+        "HMPREF9228_1993",
+        "HMPREF9228_1994"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00240": {
+      "pathway_id": "bbv00240",
+      "name": "Pyrimidine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0191",
+        "HMPREF9228_0289",
+        "HMPREF9228_0717",
+        "HMPREF9228_0775",
+        "HMPREF9228_0887",
+        "HMPREF9228_0888",
+        "HMPREF9228_0889",
+        "HMPREF9228_0890",
+        "HMPREF9228_0891",
+        "HMPREF9228_0892",
+        "HMPREF9228_0893",
+        "HMPREF9228_0957",
+        "HMPREF9228_0973",
+        "HMPREF9228_1236",
+        "HMPREF9228_1237",
+        "HMPREF9228_1238",
+        "HMPREF9228_1408",
+        "HMPREF9228_1492",
+        "HMPREF9228_1614",
+        "HMPREF9228_1829",
+        "HMPREF9228_1858",
+        "HMPREF9228_1965",
+        "HMPREF9228_1993",
+        "HMPREF9228_1994"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00250": {
+      "pathway_id": "bbv00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0013",
+        "HMPREF9228_0096",
+        "HMPREF9228_0349",
+        "HMPREF9228_0494",
+        "HMPREF9228_0590",
+        "HMPREF9228_0654",
+        "HMPREF9228_0863",
+        "HMPREF9228_0875",
+        "HMPREF9228_0892",
+        "HMPREF9228_0893",
+        "HMPREF9228_0924",
+        "HMPREF9228_0926",
+        "HMPREF9228_1170",
+        "HMPREF9228_1177",
+        "HMPREF9228_1196",
+        "HMPREF9228_1237",
+        "HMPREF9228_1238",
+        "HMPREF9228_1304",
+        "HMPREF9228_1372",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00260": {
+      "pathway_id": "bbv00260",
+      "name": "Glycine, serine and threonine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0157",
+        "HMPREF9228_0478",
+        "HMPREF9228_0601",
+        "HMPREF9228_0647",
+        "HMPREF9228_0741",
+        "HMPREF9228_0812",
+        "HMPREF9228_0813",
+        "HMPREF9228_1129",
+        "HMPREF9228_1145",
+        "HMPREF9228_1194",
+        "HMPREF9228_1287",
+        "HMPREF9228_1358",
+        "HMPREF9228_1416",
+        "HMPREF9228_1571",
+        "HMPREF9228_1620",
+        "HMPREF9228_1624",
+        "HMPREF9228_1830",
+        "HMPREF9228_1831",
+        "HMPREF9228_1953"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00270": {
+      "pathway_id": "bbv00270",
+      "name": "Cysteine and methionine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0157",
+        "HMPREF9228_0227",
+        "HMPREF9228_0321",
+        "HMPREF9228_0472",
+        "HMPREF9228_0596",
+        "HMPREF9228_0601",
+        "HMPREF9228_0865",
+        "HMPREF9228_0875",
+        "HMPREF9228_0898",
+        "HMPREF9228_0935",
+        "HMPREF9228_1042",
+        "HMPREF9228_1053",
+        "HMPREF9228_1129",
+        "HMPREF9228_1230",
+        "HMPREF9228_1355",
+        "HMPREF9228_1357",
+        "HMPREF9228_1358",
+        "HMPREF9228_1489",
+        "HMPREF9228_1620",
+        "HMPREF9228_1753",
+        "HMPREF9228_1771",
+        "HMPREF9228_1810",
+        "HMPREF9228_1830",
+        "HMPREF9228_1831"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00280": {
+      "pathway_id": "bbv00280",
+      "name": "Valine, leucine and isoleucine degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0935",
+        "HMPREF9228_1194",
+        "HMPREF9228_1307",
+        "HMPREF9228_1797",
+        "HMPREF9228_1798"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00290": {
+      "pathway_id": "bbv00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0107",
+        "HMPREF9228_0108",
+        "HMPREF9228_0185",
+        "HMPREF9228_0403",
+        "HMPREF9228_0404",
+        "HMPREF9228_0474",
+        "HMPREF9228_0863",
+        "HMPREF9228_0935",
+        "HMPREF9228_1413",
+        "HMPREF9228_1848",
+        "HMPREF9228_1849",
+        "HMPREF9228_1953"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00300": {
+      "pathway_id": "bbv00300",
+      "name": "Lysine biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0157",
+        "HMPREF9228_0179",
+        "HMPREF9228_0608",
+        "HMPREF9228_0631",
+        "HMPREF9228_1180",
+        "HMPREF9228_1221",
+        "HMPREF9228_1388",
+        "HMPREF9228_1389",
+        "HMPREF9228_1507",
+        "HMPREF9228_1817",
+        "HMPREF9228_1831",
+        "HMPREF9228_1834"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00310": {
+      "pathway_id": "bbv00310",
+      "name": "Lysine degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1194",
+        "HMPREF9228_1307"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00220": {
+      "pathway_id": "bbv00220",
+      "name": "Arginine biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0013",
+        "HMPREF9228_0590",
+        "HMPREF9228_0863",
+        "HMPREF9228_0875",
+        "HMPREF9228_1170",
+        "HMPREF9228_1177",
+        "HMPREF9228_1179",
+        "HMPREF9228_1180",
+        "HMPREF9228_1181",
+        "HMPREF9228_1182",
+        "HMPREF9228_1183",
+        "HMPREF9228_1196",
+        "HMPREF9228_1237",
+        "HMPREF9228_1238",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00330": {
+      "pathway_id": "bbv00330",
+      "name": "Arginine and proline metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0875",
+        "HMPREF9228_1036",
+        "HMPREF9228_1144",
+        "HMPREF9228_1307",
+        "HMPREF9228_1810",
+        "HMPREF9228_1812"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00340": {
+      "pathway_id": "bbv00340",
+      "name": "Histidine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0583",
+        "HMPREF9228_0584",
+        "HMPREF9228_0585",
+        "HMPREF9228_0587",
+        "HMPREF9228_0588",
+        "HMPREF9228_0780",
+        "HMPREF9228_0781",
+        "HMPREF9228_0816",
+        "HMPREF9228_0817",
+        "HMPREF9228_1307"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00350": {
+      "pathway_id": "bbv00350",
+      "name": "Tyrosine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0584",
+        "HMPREF9228_0875",
+        "HMPREF9228_1699",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00360": {
+      "pathway_id": "bbv00360",
+      "name": "Phenylalanine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0584",
+        "HMPREF9228_0875",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00380": {
+      "pathway_id": "bbv00380",
+      "name": "Tryptophan metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1194",
+        "HMPREF9228_1307"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00400": {
+      "pathway_id": "bbv00400",
+      "name": "Phenylalanine, tyrosine and tryptophan biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0309",
+        "HMPREF9228_0584",
+        "HMPREF9228_0588",
+        "HMPREF9228_0663",
+        "HMPREF9228_0664",
+        "HMPREF9228_0698",
+        "HMPREF9228_0782",
+        "HMPREF9228_0812",
+        "HMPREF9228_0813",
+        "HMPREF9228_0875",
+        "HMPREF9228_0958",
+        "HMPREF9228_0959",
+        "HMPREF9228_0960",
+        "HMPREF9228_1085",
+        "HMPREF9228_1468",
+        "HMPREF9228_1754",
+        "HMPREF9228_1755",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00430": {
+      "pathway_id": "bbv00430",
+      "name": "Taurine and hypotaurine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1083",
+        "HMPREF9228_1084"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00450": {
+      "pathway_id": "bbv00450",
+      "name": "Selenocompound metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0024",
+        "HMPREF9228_0898",
+        "HMPREF9228_0952",
+        "HMPREF9228_1053",
+        "HMPREF9228_1230",
+        "HMPREF9228_1357",
+        "HMPREF9228_1921",
+        "HMPREF9228_2014"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00460": {
+      "pathway_id": "bbv00460",
+      "name": "Cyanoamino acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1266",
+        "HMPREF9228_1477",
+        "HMPREF9228_1487",
+        "HMPREF9228_1715",
+        "HMPREF9228_1998",
+        "HMPREF9228_2002"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00470": {
+      "pathway_id": "bbv00470",
+      "name": "D-Amino acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0341",
+        "HMPREF9228_0610",
+        "HMPREF9228_1221",
+        "HMPREF9228_1222",
+        "HMPREF9228_1352",
+        "HMPREF9228_1834"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00480": {
+      "pathway_id": "bbv00480",
+      "name": "Glutathione metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0246",
+        "HMPREF9228_0249",
+        "HMPREF9228_0768",
+        "HMPREF9228_1386",
+        "HMPREF9228_1489"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00520": {
+      "pathway_id": "bbv00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0172",
+        "HMPREF9228_0173",
+        "HMPREF9228_0180",
+        "HMPREF9228_0420",
+        "HMPREF9228_0545",
+        "HMPREF9228_0618",
+        "HMPREF9228_0620",
+        "HMPREF9228_0622",
+        "HMPREF9228_0623",
+        "HMPREF9228_0831",
+        "HMPREF9228_0949",
+        "HMPREF9228_1012",
+        "HMPREF9228_1013",
+        "HMPREF9228_1077",
+        "HMPREF9228_1141",
+        "HMPREF9228_1244",
+        "HMPREF9228_1372",
+        "HMPREF9228_1385",
+        "HMPREF9228_1405",
+        "HMPREF9228_1406",
+        "HMPREF9228_1538",
+        "HMPREF9228_1636",
+        "HMPREF9228_1648",
+        "HMPREF9228_1728",
+        "HMPREF9228_1838",
+        "HMPREF9228_1868",
+        "HMPREF9228_1883",
+        "HMPREF9228_1974"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00541": {
+      "pathway_id": "bbv00541",
+      "name": "Biosynthesis of various nucleotide sugars - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0831",
+        "HMPREF9228_1077",
+        "HMPREF9228_1883",
+        "HMPREF9228_1884",
+        "HMPREF9228_1885"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00511": {
+      "pathway_id": "bbv00511",
+      "name": "Other glycan degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0010",
+        "HMPREF9228_0182",
+        "HMPREF9228_0580",
+        "HMPREF9228_0724",
+        "HMPREF9228_0725",
+        "HMPREF9228_1260",
+        "HMPREF9228_1601",
+        "HMPREF9228_1756",
+        "HMPREF9228_1757"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00542": {
+      "pathway_id": "bbv00542",
+      "name": "O-Antigen repeat unit biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1520"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00550": {
+      "pathway_id": "bbv00550",
+      "name": "Peptidoglycan biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0067",
+        "HMPREF9228_0068",
+        "HMPREF9228_0261",
+        "HMPREF9228_0262",
+        "HMPREF9228_0341",
+        "HMPREF9228_0606",
+        "HMPREF9228_0608",
+        "HMPREF9228_0609",
+        "HMPREF9228_0610",
+        "HMPREF9228_0611",
+        "HMPREF9228_0612",
+        "HMPREF9228_0613",
+        "HMPREF9228_0631",
+        "HMPREF9228_0855",
+        "HMPREF9228_1206",
+        "HMPREF9228_1550",
+        "HMPREF9228_1728",
+        "HMPREF9228_1838"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00552": {
+      "pathway_id": "bbv00552",
+      "name": "Teichoic acid biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0855",
+        "HMPREF9228_1520"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00572": {
+      "pathway_id": "bbv00572",
+      "name": "Arabinogalactan biosynthesis - Mycobacterium - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0543",
+        "HMPREF9228_1520"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00543": {
+      "pathway_id": "bbv00543",
+      "name": "Exopolysaccharide biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1520"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00730": {
+      "pathway_id": "bbv00730",
+      "name": "Thiamine metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0555",
+        "HMPREF9228_0557",
+        "HMPREF9228_0558",
+        "HMPREF9228_0639",
+        "HMPREF9228_0656",
+        "HMPREF9228_0903",
+        "HMPREF9228_1167",
+        "HMPREF9228_1330",
+        "HMPREF9228_1674"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00740": {
+      "pathway_id": "bbv00740",
+      "name": "Riboflavin metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0558",
+        "HMPREF9228_1100",
+        "HMPREF9228_1656"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00750": {
+      "pathway_id": "bbv00750",
+      "name": "Vitamin B6 metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1043",
+        "HMPREF9228_1145",
+        "HMPREF9228_1348",
+        "HMPREF9228_1349",
+        "HMPREF9228_1620"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00760": {
+      "pathway_id": "bbv00760",
+      "name": "Nicotinate and nicotinamide metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0414",
+        "HMPREF9228_0653",
+        "HMPREF9228_0654",
+        "HMPREF9228_0655",
+        "HMPREF9228_0690",
+        "HMPREF9228_0938",
+        "HMPREF9228_0939",
+        "HMPREF9228_0940",
+        "HMPREF9228_0987",
+        "HMPREF9228_1067",
+        "HMPREF9228_1142",
+        "HMPREF9228_1154",
+        "HMPREF9228_1417",
+        "HMPREF9228_1952"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00770": {
+      "pathway_id": "bbv00770",
+      "name": "Pantothenate and CoA biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0107",
+        "HMPREF9228_0108",
+        "HMPREF9228_0364",
+        "HMPREF9228_0403",
+        "HMPREF9228_0404",
+        "HMPREF9228_0409",
+        "HMPREF9228_0474",
+        "HMPREF9228_0935",
+        "HMPREF9228_1104",
+        "HMPREF9228_1307",
+        "HMPREF9228_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00780": {
+      "pathway_id": "bbv00780",
+      "name": "Biotin metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0132",
+        "HMPREF9228_1801"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00785": {
+      "pathway_id": "bbv00785",
+      "name": "Lipoic acid metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1194",
+        "HMPREF9228_1412",
+        "HMPREF9228_1416"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00790": {
+      "pathway_id": "bbv00790",
+      "name": "Folate biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0064",
+        "HMPREF9228_0626",
+        "HMPREF9228_1544",
+        "HMPREF9228_1545",
+        "HMPREF9228_1546",
+        "HMPREF9228_1613"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00670": {
+      "pathway_id": "bbv00670",
+      "name": "One carbon pool by folate - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0200",
+        "HMPREF9228_0472",
+        "HMPREF9228_0837",
+        "HMPREF9228_0897",
+        "HMPREF9228_1106",
+        "HMPREF9228_1194",
+        "HMPREF9228_1358",
+        "HMPREF9228_1416",
+        "HMPREF9228_1613",
+        "HMPREF9228_1614",
+        "HMPREF9228_1736"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00130": {
+      "pathway_id": "bbv00130",
+      "name": "Ubiquinone and other terpenoid-quinone biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0459",
+        "HMPREF9228_1625"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00900": {
+      "pathway_id": "bbv00900",
+      "name": "Terpenoid backbone biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0636",
+        "HMPREF9228_0703",
+        "HMPREF9228_1110",
+        "HMPREF9228_1206",
+        "HMPREF9228_1209",
+        "HMPREF9228_1210",
+        "HMPREF9228_1330",
+        "HMPREF9228_1770",
+        "HMPREF9228_2008"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00523": {
+      "pathway_id": "bbv00523",
+      "name": "Polyketide sugar unit biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1883",
+        "HMPREF9228_1884",
+        "HMPREF9228_1885"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00946": {
+      "pathway_id": "bbv00946",
+      "name": "Degradation of flavonoids - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1266",
+        "HMPREF9228_1477",
+        "HMPREF9228_1487",
+        "HMPREF9228_1715",
+        "HMPREF9228_1998",
+        "HMPREF9228_2002"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00332": {
+      "pathway_id": "bbv00332",
+      "name": "Carbapenem biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1144",
+        "HMPREF9228_1812"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00261": {
+      "pathway_id": "bbv00261",
+      "name": "Monobactam biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0157",
+        "HMPREF9228_0179",
+        "HMPREF9228_1388",
+        "HMPREF9228_1389"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00521": {
+      "pathway_id": "bbv00521",
+      "name": "Streptomycin biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0172",
+        "HMPREF9228_0489",
+        "HMPREF9228_0620",
+        "HMPREF9228_1538",
+        "HMPREF9228_1648",
+        "HMPREF9228_1883",
+        "HMPREF9228_1884",
+        "HMPREF9228_1885"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00525": {
+      "pathway_id": "bbv00525",
+      "name": "Acarbose and validamycin biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1883",
+        "HMPREF9228_1885"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00401": {
+      "pathway_id": "bbv00401",
+      "name": "Novobiocin biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0584",
+        "HMPREF9228_0664",
+        "HMPREF9228_0875",
+        "HMPREF9228_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00999": {
+      "pathway_id": "bbv00999",
+      "name": "Biosynthesis of various plant secondary metabolites",
+      "genes": [
+        "HMPREF9228_0472",
+        "HMPREF9228_1266",
+        "HMPREF9228_1477",
+        "HMPREF9228_1487",
+        "HMPREF9228_1715",
+        "HMPREF9228_1998",
+        "HMPREF9228_2002"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00625": {
+      "pathway_id": "bbv00625",
+      "name": "Chloroalkane and chloroalkene degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0481",
+        "HMPREF9228_0883",
+        "HMPREF9228_1307",
+        "HMPREF9228_1699"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00626": {
+      "pathway_id": "bbv00626",
+      "name": "Naphthalene degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1699"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03020": {
+      "pathway_id": "bbv03020",
+      "name": "RNA polymerase - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0473",
+        "HMPREF9228_1397",
+        "HMPREF9228_1398",
+        "HMPREF9228_1669"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03010": {
+      "pathway_id": "bbv03010",
+      "name": "Ribosome - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0268",
+        "HMPREF9228_0270",
+        "HMPREF9228_0271",
+        "HMPREF9228_0374",
+        "HMPREF9228_0394",
+        "HMPREF9228_0406",
+        "HMPREF9228_0424",
+        "HMPREF9228_0573",
+        "HMPREF9228_0574",
+        "HMPREF9228_0575",
+        "HMPREF9228_0643",
+        "HMPREF9228_0644",
+        "HMPREF9228_0773",
+        "HMPREF9228_0932",
+        "HMPREF9228_0936",
+        "HMPREF9228_0976",
+        "HMPREF9228_1105",
+        "HMPREF9228_1283",
+        "HMPREF9228_1284",
+        "HMPREF9228_1311",
+        "HMPREF9228_1312",
+        "HMPREF9228_1313",
+        "HMPREF9228_1314",
+        "HMPREF9228_1315",
+        "HMPREF9228_1316",
+        "HMPREF9228_1529",
+        "HMPREF9228_1668",
+        "HMPREF9228_1670",
+        "HMPREF9228_1671",
+        "HMPREF9228_1672",
+        "HMPREF9228_1676",
+        "HMPREF9228_1677",
+        "HMPREF9228_1678",
+        "HMPREF9228_1679",
+        "HMPREF9228_1680",
+        "HMPREF9228_1681",
+        "HMPREF9228_1682",
+        "HMPREF9228_1683",
+        "HMPREF9228_1684",
+        "HMPREF9228_1685",
+        "HMPREF9228_1686",
+        "HMPREF9228_1687",
+        "HMPREF9228_1688",
+        "HMPREF9228_1689",
+        "HMPREF9228_1690",
+        "HMPREF9228_1691",
+        "HMPREF9228_1692",
+        "HMPREF9228_1693",
+        "HMPREF9228_1694",
+        "HMPREF9228_1695",
+        "HMPREF9228_1696",
+        "HMPREF9228_1708",
+        "HMPREF9228_1709",
+        "HMPREF9228_1729",
+        "HMPREF9228_1742",
+        "HMPREF9228_1743",
+        "HMPREF9228_1776",
+        "HMPREF9228_1804",
+        "HMPREF9228_1805",
+        "HMPREF9228_1814",
+        "HMPREF9228_1815",
+        "HMPREF9228_1946",
+        "HMPREF9228_1947",
+        "HMPREF9228_1948",
+        "HMPREF9228_1949",
+        "HMPREF9228_1950",
+        "HMPREF9228_1951",
+        "HMPREF9228_2021"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv00970": {
+      "pathway_id": "bbv00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0015",
+        "HMPREF9228_0016",
+        "HMPREF9228_0050",
+        "HMPREF9228_0087",
+        "HMPREF9228_0093",
+        "HMPREF9228_0208",
+        "HMPREF9228_0209",
+        "HMPREF9228_0210",
+        "HMPREF9228_0233",
+        "HMPREF9228_0251",
+        "HMPREF9228_0272",
+        "HMPREF9228_0294",
+        "HMPREF9228_0295",
+        "HMPREF9228_0296",
+        "HMPREF9228_0311",
+        "HMPREF9228_0320",
+        "HMPREF9228_0336",
+        "HMPREF9228_0367",
+        "HMPREF9228_0398",
+        "HMPREF9228_0418",
+        "HMPREF9228_0419",
+        "HMPREF9228_0475",
+        "HMPREF9228_0520",
+        "HMPREF9228_0521",
+        "HMPREF9228_0560",
+        "HMPREF9228_0744",
+        "HMPREF9228_0752",
+        "HMPREF9228_0765",
+        "HMPREF9228_0833",
+        "HMPREF9228_0848",
+        "HMPREF9228_0849",
+        "HMPREF9228_0850",
+        "HMPREF9228_0851",
+        "HMPREF9228_0852",
+        "HMPREF9228_0853",
+        "HMPREF9228_0947",
+        "HMPREF9228_0964",
+        "HMPREF9228_1054",
+        "HMPREF9228_1055",
+        "HMPREF9228_1073",
+        "HMPREF9228_1074",
+        "HMPREF9228_1082",
+        "HMPREF9228_1088",
+        "HMPREF9228_1099",
+        "HMPREF9228_1131",
+        "HMPREF9228_1161",
+        "HMPREF9228_1185",
+        "HMPREF9228_1186",
+        "HMPREF9228_1212",
+        "HMPREF9228_1286",
+        "HMPREF9228_1342",
+        "HMPREF9228_1453",
+        "HMPREF9228_1499",
+        "HMPREF9228_1513",
+        "HMPREF9228_1530",
+        "HMPREF9228_1539",
+        "HMPREF9228_1558",
+        "HMPREF9228_1559",
+        "HMPREF9228_1561",
+        "HMPREF9228_1626",
+        "HMPREF9228_1627",
+        "HMPREF9228_1643",
+        "HMPREF9228_1644",
+        "HMPREF9228_1664",
+        "HMPREF9228_1721",
+        "HMPREF9228_1730",
+        "HMPREF9228_1731",
+        "HMPREF9228_1732",
+        "HMPREF9228_1787",
+        "HMPREF9228_1788",
+        "HMPREF9228_1789",
+        "HMPREF9228_1809",
+        "HMPREF9228_1835",
+        "HMPREF9228_1921",
+        "HMPREF9228_1925",
+        "HMPREF9228_2005"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03008": {
+      "pathway_id": "bbv03008",
+      "name": "Ribosome biogenesis in eukaryotes - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0405",
+        "HMPREF9228_1518"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03060": {
+      "pathway_id": "bbv03060",
+      "name": "Protein export - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0188",
+        "HMPREF9228_0255",
+        "HMPREF9228_0396",
+        "HMPREF9228_0425",
+        "HMPREF9228_0566",
+        "HMPREF9228_0697",
+        "HMPREF9228_0842",
+        "HMPREF9228_0866",
+        "HMPREF9228_1675",
+        "HMPREF9228_1808",
+        "HMPREF9228_2019"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv04122": {
+      "pathway_id": "bbv04122",
+      "name": "Sulfur relay system - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0656"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03018": {
+      "pathway_id": "bbv03018",
+      "name": "RNA degradation - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0125",
+        "HMPREF9228_0300",
+        "HMPREF9228_0375",
+        "HMPREF9228_0506",
+        "HMPREF9228_1135",
+        "HMPREF9228_1356",
+        "HMPREF9228_1387",
+        "HMPREF9228_1816",
+        "HMPREF9228_1853",
+        "HMPREF9228_2010"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03030": {
+      "pathway_id": "bbv03030",
+      "name": "DNA replication - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0002",
+        "HMPREF9228_0144",
+        "HMPREF9228_0192",
+        "HMPREF9228_0260",
+        "HMPREF9228_0269",
+        "HMPREF9228_0426",
+        "HMPREF9228_0569",
+        "HMPREF9228_0747",
+        "HMPREF9228_1198",
+        "HMPREF9228_1234",
+        "HMPREF9228_1350",
+        "HMPREF9228_1512",
+        "HMPREF9228_1652"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03410": {
+      "pathway_id": "bbv03410",
+      "name": "Base excision repair - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0313",
+        "HMPREF9228_0503",
+        "HMPREF9228_0673",
+        "HMPREF9228_0810",
+        "HMPREF9228_1198",
+        "HMPREF9228_1400"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03420": {
+      "pathway_id": "bbv03420",
+      "name": "Nucleotide excision repair - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0873",
+        "HMPREF9228_0874",
+        "HMPREF9228_0980",
+        "HMPREF9228_1103",
+        "HMPREF9228_1137",
+        "HMPREF9228_1198",
+        "HMPREF9228_1216",
+        "HMPREF9228_1253",
+        "HMPREF9228_1391"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03430": {
+      "pathway_id": "bbv03430",
+      "name": "Mismatch repair - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0002",
+        "HMPREF9228_0144",
+        "HMPREF9228_0192",
+        "HMPREF9228_0269",
+        "HMPREF9228_0569",
+        "HMPREF9228_0747",
+        "HMPREF9228_0980",
+        "HMPREF9228_1198",
+        "HMPREF9228_1216",
+        "HMPREF9228_1234",
+        "HMPREF9228_1391",
+        "HMPREF9228_1493",
+        "HMPREF9228_1494",
+        "HMPREF9228_1512"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03440": {
+      "pathway_id": "bbv03440",
+      "name": "Homologous recombination - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0002",
+        "HMPREF9228_0003",
+        "HMPREF9228_0035",
+        "HMPREF9228_0144",
+        "HMPREF9228_0145",
+        "HMPREF9228_0154",
+        "HMPREF9228_0192",
+        "HMPREF9228_0216",
+        "HMPREF9228_0269",
+        "HMPREF9228_0477",
+        "HMPREF9228_0569",
+        "HMPREF9228_0693",
+        "HMPREF9228_0747",
+        "HMPREF9228_0843",
+        "HMPREF9228_0844",
+        "HMPREF9228_0845",
+        "HMPREF9228_0994",
+        "HMPREF9228_1207",
+        "HMPREF9228_1234",
+        "HMPREF9228_1512",
+        "HMPREF9228_1775"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03250": {
+      "pathway_id": "bbv03250",
+      "name": "Viral life cycle - HIV-1 - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0719"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv02010": {
+      "pathway_id": "bbv02010",
+      "name": "ABC transporters - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0038",
+        "HMPREF9228_0039",
+        "HMPREF9228_0040",
+        "HMPREF9228_0118",
+        "HMPREF9228_0119",
+        "HMPREF9228_0120",
+        "HMPREF9228_0305",
+        "HMPREF9228_0306",
+        "HMPREF9228_0307",
+        "HMPREF9228_0388",
+        "HMPREF9228_0389",
+        "HMPREF9228_0432",
+        "HMPREF9228_0523",
+        "HMPREF9228_0524",
+        "HMPREF9228_0525",
+        "HMPREF9228_0526",
+        "HMPREF9228_0669",
+        "HMPREF9228_0670",
+        "HMPREF9228_0671",
+        "HMPREF9228_0672",
+        "HMPREF9228_0726",
+        "HMPREF9228_0727",
+        "HMPREF9228_0728",
+        "HMPREF9228_0743",
+        "HMPREF9228_0757",
+        "HMPREF9228_0758",
+        "HMPREF9228_0759",
+        "HMPREF9228_0923",
+        "HMPREF9228_1069",
+        "HMPREF9228_1070",
+        "HMPREF9228_1071",
+        "HMPREF9228_1188",
+        "HMPREF9228_1202",
+        "HMPREF9228_1336",
+        "HMPREF9228_1379",
+        "HMPREF9228_1380",
+        "HMPREF9228_1455",
+        "HMPREF9228_1456",
+        "HMPREF9228_1457",
+        "HMPREF9228_1458",
+        "HMPREF9228_1471",
+        "HMPREF9228_1474",
+        "HMPREF9228_1475",
+        "HMPREF9228_1522",
+        "HMPREF9228_1523",
+        "HMPREF9228_1524",
+        "HMPREF9228_1525",
+        "HMPREF9228_1526",
+        "HMPREF9228_1746",
+        "HMPREF9228_1747",
+        "HMPREF9228_1748",
+        "HMPREF9228_1749",
+        "HMPREF9228_1800",
+        "HMPREF9228_1840",
+        "HMPREF9228_1841",
+        "HMPREF9228_1842",
+        "HMPREF9228_1844",
+        "HMPREF9228_1899",
+        "HMPREF9228_1900",
+        "HMPREF9228_1905",
+        "HMPREF9228_1906",
+        "HMPREF9228_1907",
+        "HMPREF9228_1914",
+        "HMPREF9228_1915",
+        "HMPREF9228_1916",
+        "HMPREF9228_1917",
+        "HMPREF9228_1928",
+        "HMPREF9228_1929",
+        "HMPREF9228_1955",
+        "HMPREF9228_1956",
+        "HMPREF9228_1957",
+        "HMPREF9228_1979",
+        "HMPREF9228_1980",
+        "HMPREF9228_1981",
+        "HMPREF9228_1985"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv02060": {
+      "pathway_id": "bbv02060",
+      "name": "Phosphotransferase system (PTS) - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0194",
+        "HMPREF9228_0196",
+        "HMPREF9228_0485",
+        "HMPREF9228_0486",
+        "HMPREF9228_1647",
+        "HMPREF9228_1987",
+        "HMPREF9228_1988",
+        "HMPREF9228_1989"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv03070": {
+      "pathway_id": "bbv03070",
+      "name": "Bacterial secretion system - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0255",
+        "HMPREF9228_0396",
+        "HMPREF9228_0697",
+        "HMPREF9228_0842",
+        "HMPREF9228_0866",
+        "HMPREF9228_1675",
+        "HMPREF9228_1808",
+        "HMPREF9228_2019"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv02020": {
+      "pathway_id": "bbv02020",
+      "name": "Two-component system - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0001",
+        "HMPREF9228_0089",
+        "HMPREF9228_0136",
+        "HMPREF9228_0137",
+        "HMPREF9228_0138",
+        "HMPREF9228_0257",
+        "HMPREF9228_0258",
+        "HMPREF9228_0277",
+        "HMPREF9228_0448",
+        "HMPREF9228_0590",
+        "HMPREF9228_1196",
+        "HMPREF9228_1411",
+        "HMPREF9228_1612",
+        "HMPREF9228_1622",
+        "HMPREF9228_1749",
+        "HMPREF9228_1750",
+        "HMPREF9228_1751"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv04142": {
+      "pathway_id": "bbv04142",
+      "name": "Lysosome - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0182",
+        "HMPREF9228_1260"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv04146": {
+      "pathway_id": "bbv04146",
+      "name": "Peroxisome - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0429",
+        "HMPREF9228_0768",
+        "HMPREF9228_0771",
+        "HMPREF9228_0941",
+        "HMPREF9228_1417",
+        "HMPREF9228_1496"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv02024": {
+      "pathway_id": "bbv02024",
+      "name": "Quorum sensing - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_0162",
+        "HMPREF9228_0163",
+        "HMPREF9228_0164",
+        "HMPREF9228_0165",
+        "HMPREF9228_0175",
+        "HMPREF9228_0176",
+        "HMPREF9228_0177",
+        "HMPREF9228_0178",
+        "HMPREF9228_0255",
+        "HMPREF9228_0312",
+        "HMPREF9228_0343",
+        "HMPREF9228_0344",
+        "HMPREF9228_0345",
+        "HMPREF9228_0346",
+        "HMPREF9228_0396",
+        "HMPREF9228_0429",
+        "HMPREF9228_0669",
+        "HMPREF9228_0670",
+        "HMPREF9228_0671",
+        "HMPREF9228_0672",
+        "HMPREF9228_0697",
+        "HMPREF9228_0771",
+        "HMPREF9228_0782",
+        "HMPREF9228_0842",
+        "HMPREF9228_0866",
+        "HMPREF9228_0923",
+        "HMPREF9228_0941",
+        "HMPREF9228_1262",
+        "HMPREF9228_1263",
+        "HMPREF9228_1264",
+        "HMPREF9228_1265",
+        "HMPREF9228_1336",
+        "HMPREF9228_1355",
+        "HMPREF9228_1361",
+        "HMPREF9228_1362",
+        "HMPREF9228_1363",
+        "HMPREF9228_1394",
+        "HMPREF9228_1411",
+        "HMPREF9228_1496",
+        "HMPREF9228_1522",
+        "HMPREF9228_1523",
+        "HMPREF9228_1524",
+        "HMPREF9228_1525",
+        "HMPREF9228_1526",
+        "HMPREF9228_1675",
+        "HMPREF9228_1754",
+        "HMPREF9228_1755",
+        "HMPREF9228_1808",
+        "HMPREF9228_2019"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv04981": {
+      "pathway_id": "bbv04981",
+      "name": "Folate transport and metabolism - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [
+        "HMPREF9228_1613",
+        "HMPREF9228_1614",
+        "HMPREF9228_1736"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbv01501": {
+      "pathway_id": "bbv01501",
+      "name": "beta-Lactam resistance - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbv01502": {
+      "pathway_id": "bbv01502",
+      "name": "Vancomycin resistance - Bifidobacterium breve ACS-071-V-Sch8b",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}

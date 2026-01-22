@@ -1,0 +1,1943 @@
+{
+  "organism_code": "bla",
+  "organism_name": "bla",
+  "retrieved_at": "2026-01-22T09:51:02.216206",
+  "pathways": {
+    "bla01100": {
+      "pathway_id": "bla01100",
+      "name": "Metabolic pathways - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01110": {
+      "pathway_id": "bla01110",
+      "name": "Biosynthesis of secondary metabolites - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01120": {
+      "pathway_id": "bla01120",
+      "name": "Microbial metabolism in diverse environments - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01200": {
+      "pathway_id": "bla01200",
+      "name": "Carbon metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01210": {
+      "pathway_id": "bla01210",
+      "name": "2-Oxocarboxylic acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01212": {
+      "pathway_id": "bla01212",
+      "name": "Fatty acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01230": {
+      "pathway_id": "bla01230",
+      "name": "Biosynthesis of amino acids - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01232": {
+      "pathway_id": "bla01232",
+      "name": "Nucleotide metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01250": {
+      "pathway_id": "bla01250",
+      "name": "Biosynthesis of nucleotide sugars - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01240": {
+      "pathway_id": "bla01240",
+      "name": "Biosynthesis of cofactors - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01220": {
+      "pathway_id": "bla01220",
+      "name": "Degradation of aromatic compounds - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla00010": {
+      "pathway_id": "bla00010",
+      "name": "Glycolysis / Gluconeogenesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0119",
+        "BLA_0279",
+        "BLA_0305",
+        "BLA_0358",
+        "BLA_0403",
+        "BLA_0423",
+        "BLA_0740",
+        "BLA_0743",
+        "BLA_0792",
+        "BLA_1030",
+        "BLA_1218",
+        "BLA_1228",
+        "BLA_1274",
+        "BLA_1365",
+        "BLA_1366",
+        "BLA_1494"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00020": {
+      "pathway_id": "bla00020",
+      "name": "Citrate cycle (TCA cycle) - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0712",
+        "BLA_0979",
+        "BLA_0980",
+        "BLA_1071",
+        "BLA_1228",
+        "BLA_1290",
+        "BLA_1337",
+        "BLA_1338"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00030": {
+      "pathway_id": "bla00030",
+      "name": "Pentose phosphate pathway - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0119",
+        "BLA_0279",
+        "BLA_0399",
+        "BLA_0403",
+        "BLA_0693",
+        "BLA_0694",
+        "BLA_1007",
+        "BLA_1008",
+        "BLA_1010",
+        "BLA_1268",
+        "BLA_1313",
+        "BLA_1357",
+        "BLA_1358",
+        "BLA_1483"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00040": {
+      "pathway_id": "bla00040",
+      "name": "Pentose and glucuronate interconversions - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0057",
+        "BLA_0058",
+        "BLA_0485",
+        "BLA_0593",
+        "BLA_1052",
+        "BLA_1313",
+        "BLA_1330"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00051": {
+      "pathway_id": "bla00051",
+      "name": "Fructose and mannose metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0119",
+        "BLA_0278",
+        "BLA_0426",
+        "BLA_0485",
+        "BLA_0648",
+        "BLA_0756",
+        "BLA_1365"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00052": {
+      "pathway_id": "bla00052",
+      "name": "Galactose metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0044",
+        "BLA_0058",
+        "BLA_0256",
+        "BLA_0403",
+        "BLA_0437",
+        "BLA_0454",
+        "BLA_0462",
+        "BLA_0555",
+        "BLA_0556",
+        "BLA_0706",
+        "BLA_0743",
+        "BLA_0819",
+        "BLA_0854",
+        "BLA_0881",
+        "BLA_0914",
+        "BLA_1330",
+        "BLA_1517",
+        "BLA_1524"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00053": {
+      "pathway_id": "bla00053",
+      "name": "Ascorbate and aldarate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0057",
+        "BLA_0593",
+        "BLA_0602"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00500": {
+      "pathway_id": "bla00500",
+      "name": "Starch and sucrose metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0039",
+        "BLA_0066",
+        "BLA_0129",
+        "BLA_0141",
+        "BLA_0279",
+        "BLA_0353",
+        "BLA_0356",
+        "BLA_0403",
+        "BLA_0654",
+        "BLA_0706",
+        "BLA_0756",
+        "BLA_0819",
+        "BLA_0893",
+        "BLA_0903",
+        "BLA_0908",
+        "BLA_0914",
+        "BLA_1330",
+        "BLA_1404",
+        "BLA_1428",
+        "BLA_1466",
+        "BLA_1488",
+        "BLA_1505",
+        "BLA_1517"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00620": {
+      "pathway_id": "bla00620",
+      "name": "Pyruvate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0060",
+        "BLA_0132",
+        "BLA_0207",
+        "BLA_0300",
+        "BLA_0305",
+        "BLA_0358",
+        "BLA_0792",
+        "BLA_0967",
+        "BLA_1228",
+        "BLA_1484",
+        "BLA_1485",
+        "BLA_1494"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00630": {
+      "pathway_id": "bla00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0132",
+        "BLA_0300",
+        "BLA_0301",
+        "BLA_0570",
+        "BLA_0647",
+        "BLA_0650",
+        "BLA_0712",
+        "BLA_0796",
+        "BLA_1071",
+        "BLA_1226",
+        "BLA_1228",
+        "BLA_1325"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00640": {
+      "pathway_id": "bla00640",
+      "name": "Propanoate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0132",
+        "BLA_0300",
+        "BLA_0301",
+        "BLA_0305",
+        "BLA_0712",
+        "BLA_0792",
+        "BLA_0967",
+        "BLA_1228",
+        "BLA_1337",
+        "BLA_1338",
+        "BLA_1484",
+        "BLA_1485"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00650": {
+      "pathway_id": "bla00650",
+      "name": "Butanoate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0263",
+        "BLA_0264",
+        "BLA_0358",
+        "BLA_0967",
+        "BLA_0979",
+        "BLA_0980",
+        "BLA_1253"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00660": {
+      "pathway_id": "bla00660",
+      "name": "C5-Branched dibasic acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0229",
+        "BLA_0230",
+        "BLA_0263",
+        "BLA_0264",
+        "BLA_0567",
+        "BLA_1337",
+        "BLA_1338"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00562": {
+      "pathway_id": "bla00562",
+      "name": "Inositol phosphate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0209",
+        "BLA_1167",
+        "BLA_1347",
+        "BLA_1365"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00190": {
+      "pathway_id": "bla00190",
+      "name": "Oxidative phosphorylation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0192",
+        "BLA_0629",
+        "BLA_0630",
+        "BLA_0631",
+        "BLA_0632",
+        "BLA_0633",
+        "BLA_0634",
+        "BLA_0635",
+        "BLA_0636",
+        "BLA_0655",
+        "BLA_0979",
+        "BLA_0980"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00710": {
+      "pathway_id": "bla00710",
+      "name": "Carbon fixation by Calvin cycle - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0060",
+        "BLA_0119",
+        "BLA_0399",
+        "BLA_0740",
+        "BLA_1313",
+        "BLA_1357",
+        "BLA_1358",
+        "BLA_1365",
+        "BLA_1366"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00720": {
+      "pathway_id": "bla00720",
+      "name": "Other carbon fixation pathways - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0060",
+        "BLA_0218",
+        "BLA_0712",
+        "BLA_0979",
+        "BLA_0980",
+        "BLA_1290",
+        "BLA_1337",
+        "BLA_1338",
+        "BLA_1399",
+        "BLA_1484",
+        "BLA_1485",
+        "BLA_1499"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00680": {
+      "pathway_id": "bla00680",
+      "name": "Methane metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0060",
+        "BLA_0119",
+        "BLA_0423",
+        "BLA_0429",
+        "BLA_0787",
+        "BLA_1030",
+        "BLA_1163",
+        "BLA_1274",
+        "BLA_1484",
+        "BLA_1485"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00910": {
+      "pathway_id": "bla00910",
+      "name": "Nitrogen metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0010",
+        "BLA_0049",
+        "BLA_0796",
+        "BLA_1226",
+        "BLA_1407",
+        "BLA_1408"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00920": {
+      "pathway_id": "bla00920",
+      "name": "Sulfur metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0637",
+        "BLA_1027",
+        "BLA_1028",
+        "BLA_1029",
+        "BLA_1095"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00061": {
+      "pathway_id": "bla00061",
+      "name": "Fatty acid biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0132",
+        "BLA_0300",
+        "BLA_0302",
+        "BLA_1206",
+        "BLA_1293",
+        "BLA_1419"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00071": {
+      "pathway_id": "bla00071",
+      "name": "Fatty acid degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0358",
+        "BLA_1206",
+        "BLA_1293",
+        "BLA_1419"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00074": {
+      "pathway_id": "bla00074",
+      "name": "Mycolic acid biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0132",
+        "BLA_0300",
+        "BLA_0302",
+        "BLA_0303"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00121": {
+      "pathway_id": "bla00121",
+      "name": "Secondary bile acid biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_1379"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00561": {
+      "pathway_id": "bla00561",
+      "name": "Glycerolipid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0881",
+        "BLA_0940",
+        "BLA_1257",
+        "BLA_1524"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00564": {
+      "pathway_id": "bla00564",
+      "name": "Glycerophospholipid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0084",
+        "BLA_0235",
+        "BLA_0930",
+        "BLA_0940",
+        "BLA_1299",
+        "BLA_1316"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00600": {
+      "pathway_id": "bla00600",
+      "name": "Sphingolipid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0043",
+        "BLA_0256",
+        "BLA_0454",
+        "BLA_0619",
+        "BLA_0881",
+        "BLA_1524"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00230": {
+      "pathway_id": "bla00230",
+      "name": "Purine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0120",
+        "BLA_0275",
+        "BLA_0310",
+        "BLA_0311",
+        "BLA_0316",
+        "BLA_0383",
+        "BLA_0403",
+        "BLA_0440",
+        "BLA_0473",
+        "BLA_0521",
+        "BLA_0639",
+        "BLA_0693",
+        "BLA_0926",
+        "BLA_0958",
+        "BLA_1033",
+        "BLA_1059",
+        "BLA_1121",
+        "BLA_1122",
+        "BLA_1126",
+        "BLA_1127",
+        "BLA_1128",
+        "BLA_1140",
+        "BLA_1141",
+        "BLA_1142",
+        "BLA_1156",
+        "BLA_1172",
+        "BLA_1268",
+        "BLA_1291",
+        "BLA_1335",
+        "BLA_1339",
+        "BLA_1460",
+        "BLA_1473",
+        "BLA_1482",
+        "BLA_1493"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00240": {
+      "pathway_id": "bla00240",
+      "name": "Pyrimidine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0188",
+        "BLA_0212",
+        "BLA_0310",
+        "BLA_0311",
+        "BLA_0434",
+        "BLA_0440",
+        "BLA_0521",
+        "BLA_0559",
+        "BLA_0639",
+        "BLA_0674",
+        "BLA_0957",
+        "BLA_1153",
+        "BLA_1154",
+        "BLA_1155",
+        "BLA_1297",
+        "BLA_1390",
+        "BLA_1391",
+        "BLA_1392",
+        "BLA_1393",
+        "BLA_1394",
+        "BLA_1395",
+        "BLA_1396",
+        "BLA_1436",
+        "BLA_1529"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00250": {
+      "pathway_id": "bla00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0010",
+        "BLA_0120",
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0796",
+        "BLA_1013",
+        "BLA_1086",
+        "BLA_1128",
+        "BLA_1153",
+        "BLA_1154",
+        "BLA_1172",
+        "BLA_1226",
+        "BLA_1251",
+        "BLA_1252",
+        "BLA_1362",
+        "BLA_1395",
+        "BLA_1396",
+        "BLA_1407",
+        "BLA_1408"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00260": {
+      "pathway_id": "bla00260",
+      "name": "Glycine, serine and threonine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0203",
+        "BLA_0205",
+        "BLA_0423",
+        "BLA_0429",
+        "BLA_0570",
+        "BLA_0615",
+        "BLA_0616",
+        "BLA_0787",
+        "BLA_1035",
+        "BLA_1096",
+        "BLA_1144",
+        "BLA_1163",
+        "BLA_1228",
+        "BLA_1264",
+        "BLA_1274",
+        "BLA_1310",
+        "BLA_1311",
+        "BLA_1516"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00270": {
+      "pathway_id": "bla00270",
+      "name": "Cysteine and methionine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0028",
+        "BLA_0203",
+        "BLA_0205",
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0305",
+        "BLA_0316",
+        "BLA_0324",
+        "BLA_0411",
+        "BLA_0412",
+        "BLA_0429",
+        "BLA_0480",
+        "BLA_0515",
+        "BLA_0615",
+        "BLA_0616",
+        "BLA_0637",
+        "BLA_0787",
+        "BLA_0792",
+        "BLA_0847",
+        "BLA_0975",
+        "BLA_0985",
+        "BLA_1035",
+        "BLA_1095",
+        "BLA_1096",
+        "BLA_1115",
+        "BLA_1159",
+        "BLA_1400",
+        "BLA_1413"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00280": {
+      "pathway_id": "bla00280",
+      "name": "Valine, leucine and isoleucine degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0132",
+        "BLA_0300",
+        "BLA_0301",
+        "BLA_1228",
+        "BLA_1413"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00290": {
+      "pathway_id": "bla00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0138",
+        "BLA_0207",
+        "BLA_0229",
+        "BLA_0230",
+        "BLA_0263",
+        "BLA_0264",
+        "BLA_0567",
+        "BLA_1157",
+        "BLA_1362",
+        "BLA_1413",
+        "BLA_1516"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00300": {
+      "pathway_id": "bla00300",
+      "name": "Lysine biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0203",
+        "BLA_0205",
+        "BLA_0286",
+        "BLA_0534",
+        "BLA_0535",
+        "BLA_0616",
+        "BLA_0617",
+        "BLA_0746",
+        "BLA_0780",
+        "BLA_0839",
+        "BLA_1073",
+        "BLA_1248"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00220": {
+      "pathway_id": "bla00220",
+      "name": "Arginine biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0010",
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0796",
+        "BLA_1153",
+        "BLA_1154",
+        "BLA_1226",
+        "BLA_1245",
+        "BLA_1246",
+        "BLA_1247",
+        "BLA_1248",
+        "BLA_1249",
+        "BLA_1251",
+        "BLA_1252",
+        "BLA_1362",
+        "BLA_1389"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00330": {
+      "pathway_id": "bla00330",
+      "name": "Arginine and proline metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0243",
+        "BLA_0291",
+        "BLA_0292",
+        "BLA_0993",
+        "BLA_1265"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00340": {
+      "pathway_id": "bla00340",
+      "name": "Histidine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0798",
+        "BLA_0799",
+        "BLA_0801",
+        "BLA_0802",
+        "BLA_0803",
+        "BLA_0878",
+        "BLA_1304",
+        "BLA_1305",
+        "BLA_1314",
+        "BLA_1315"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00350": {
+      "pathway_id": "bla00350",
+      "name": "Tyrosine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0358",
+        "BLA_0802"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00360": {
+      "pathway_id": "bla00360",
+      "name": "Phenylalanine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0802"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00400": {
+      "pathway_id": "bla00400",
+      "name": "Phenylalanine, tyrosine and tryptophan biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0321",
+        "BLA_0323",
+        "BLA_0662",
+        "BLA_0728",
+        "BLA_0729",
+        "BLA_0798",
+        "BLA_0802",
+        "BLA_0938",
+        "BLA_1306",
+        "BLA_1310",
+        "BLA_1311",
+        "BLA_1447",
+        "BLA_1448",
+        "BLA_1449",
+        "BLA_1486"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00430": {
+      "pathway_id": "bla00430",
+      "name": "Taurine and hypotaurine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_1484",
+        "BLA_1485"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00450": {
+      "pathway_id": "bla00450",
+      "name": "Selenocompound metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0411",
+        "BLA_0885",
+        "BLA_0975",
+        "BLA_1095",
+        "BLA_1382",
+        "BLA_1400",
+        "BLA_1431",
+        "BLA_1545"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00460": {
+      "pathway_id": "bla00460",
+      "name": "Cyanoamino acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0039",
+        "BLA_0141",
+        "BLA_0893"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00470": {
+      "pathway_id": "bla00470",
+      "name": "D-Amino acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0133",
+        "BLA_0236",
+        "BLA_0617",
+        "BLA_0778",
+        "BLA_0839",
+        "BLA_0840",
+        "BLA_1117"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00480": {
+      "pathway_id": "bla00480",
+      "name": "Glutathione metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0515",
+        "BLA_0532",
+        "BLA_1007",
+        "BLA_1010",
+        "BLA_1290"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00520": {
+      "pathway_id": "bla00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0055",
+        "BLA_0233",
+        "BLA_0278",
+        "BLA_0279",
+        "BLA_0345",
+        "BLA_0403",
+        "BLA_0426",
+        "BLA_0437",
+        "BLA_0486",
+        "BLA_0531",
+        "BLA_0555",
+        "BLA_0556",
+        "BLA_0581",
+        "BLA_0593",
+        "BLA_0602",
+        "BLA_0756",
+        "BLA_0854",
+        "BLA_1021",
+        "BLA_1048",
+        "BLA_1086",
+        "BLA_1218",
+        "BLA_1269",
+        "BLA_1330",
+        "BLA_1428"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00541": {
+      "pathway_id": "bla00541",
+      "name": "Biosynthesis of various nucleotide sugars - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0278",
+        "BLA_0581",
+        "BLA_0582",
+        "BLA_0583",
+        "BLA_0593",
+        "BLA_1269",
+        "BLA_1330"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00515": {
+      "pathway_id": "bla00515",
+      "name": "Mannose type O-glycan biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0889"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00514": {
+      "pathway_id": "bla00514",
+      "name": "Other types of O-glycan biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0889"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00511": {
+      "pathway_id": "bla00511",
+      "name": "Other glycan degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0043",
+        "BLA_0256",
+        "BLA_0454",
+        "BLA_0619"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00542": {
+      "pathway_id": "bla00542",
+      "name": "O-Antigen repeat unit biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_1058"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00550": {
+      "pathway_id": "bla00550",
+      "name": "Peptidoglycan biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0077",
+        "BLA_0078",
+        "BLA_0183",
+        "BLA_0184",
+        "BLA_0233",
+        "BLA_0236",
+        "BLA_0276",
+        "BLA_0345",
+        "BLA_0471",
+        "BLA_0746",
+        "BLA_0775",
+        "BLA_0776",
+        "BLA_0777",
+        "BLA_0778",
+        "BLA_0779",
+        "BLA_0780",
+        "BLA_0782",
+        "BLA_0824",
+        "BLA_1353"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00552": {
+      "pathway_id": "bla00552",
+      "name": "Teichoic acid biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_1058",
+        "BLA_1353"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00572": {
+      "pathway_id": "bla00572",
+      "name": "Arabinogalactan biosynthesis - Mycobacterium - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0856",
+        "BLA_0860",
+        "BLA_1058"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00543": {
+      "pathway_id": "bla00543",
+      "name": "Exopolysaccharide biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_1058"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00730": {
+      "pathway_id": "bla00730",
+      "name": "Thiamine metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0383",
+        "BLA_0739",
+        "BLA_0814",
+        "BLA_0815",
+        "BLA_1120",
+        "BLA_1213"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00740": {
+      "pathway_id": "bla00740",
+      "name": "Riboflavin metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0395",
+        "BLA_0703",
+        "BLA_0814",
+        "BLA_1493"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00750": {
+      "pathway_id": "bla00750",
+      "name": "Vitamin B6 metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0429",
+        "BLA_0600",
+        "BLA_0601",
+        "BLA_0984",
+        "BLA_1264"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00760": {
+      "pathway_id": "bla00760",
+      "name": "Nicotinate and nicotinamide metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0272",
+        "BLA_0440",
+        "BLA_0571",
+        "BLA_0699",
+        "BLA_0931",
+        "BLA_0965",
+        "BLA_1261",
+        "BLA_1267",
+        "BLA_1416",
+        "BLA_1417",
+        "BLA_1418",
+        "BLA_1515"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00770": {
+      "pathway_id": "bla00770",
+      "name": "Pantothenate and CoA biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0138",
+        "BLA_0263",
+        "BLA_0264",
+        "BLA_0269",
+        "BLA_0303",
+        "BLA_0851",
+        "BLA_1089",
+        "BLA_1157",
+        "BLA_1413",
+        "BLA_1497"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00780": {
+      "pathway_id": "bla00780",
+      "name": "Biotin metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0298"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00785": {
+      "pathway_id": "bla00785",
+      "name": "Lipoic acid metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0564",
+        "BLA_0570",
+        "BLA_1228"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00790": {
+      "pathway_id": "bla00790",
+      "name": "Folate biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0074",
+        "BLA_0435",
+        "BLA_0475",
+        "BLA_0748"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00670": {
+      "pathway_id": "bla00670",
+      "name": "One carbon pool by folate - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0218",
+        "BLA_0340",
+        "BLA_0434",
+        "BLA_0435",
+        "BLA_0570",
+        "BLA_1096",
+        "BLA_1159",
+        "BLA_1228",
+        "BLA_1335",
+        "BLA_1399",
+        "BLA_1499"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00900": {
+      "pathway_id": "bla00900",
+      "name": "Terpenoid backbone biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0317",
+        "BLA_0742",
+        "BLA_0824",
+        "BLA_0827",
+        "BLA_0828",
+        "BLA_0942",
+        "BLA_1120",
+        "BLA_1503",
+        "BLA_1539"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00523": {
+      "pathway_id": "bla00523",
+      "name": "Polyketide sugar unit biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0581",
+        "BLA_0582",
+        "BLA_0583"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00946": {
+      "pathway_id": "bla00946",
+      "name": "Degradation of flavonoids - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0039",
+        "BLA_0141",
+        "BLA_0893"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00332": {
+      "pathway_id": "bla00332",
+      "name": "Carbapenem biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0291",
+        "BLA_1265"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00261": {
+      "pathway_id": "bla00261",
+      "name": "Monobactam biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0203",
+        "BLA_0205",
+        "BLA_0534",
+        "BLA_0535"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00521": {
+      "pathway_id": "bla00521",
+      "name": "Streptomycin biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0209",
+        "BLA_0403",
+        "BLA_0581",
+        "BLA_0582",
+        "BLA_0583",
+        "BLA_1167"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00525": {
+      "pathway_id": "bla00525",
+      "name": "Acarbose and validamycin biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0581",
+        "BLA_0583"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00401": {
+      "pathway_id": "bla00401",
+      "name": "Novobiocin biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0243",
+        "BLA_0292",
+        "BLA_0728",
+        "BLA_0802"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00999": {
+      "pathway_id": "bla00999",
+      "name": "Biosynthesis of various plant secondary metabolites",
+      "genes": [
+        "BLA_0039",
+        "BLA_0141",
+        "BLA_0893",
+        "BLA_1159"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00625": {
+      "pathway_id": "bla00625",
+      "name": "Chloroalkane and chloroalkene degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0092",
+        "BLA_0358",
+        "BLA_0456",
+        "BLA_1384"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00626": {
+      "pathway_id": "bla00626",
+      "name": "Naphthalene degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0358"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03020": {
+      "pathway_id": "bla03020",
+      "name": "RNA polymerase - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0387",
+        "BLA_0547",
+        "BLA_0548",
+        "BLA_1158"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03010": {
+      "pathway_id": "bla03010",
+      "name": "Ribosome - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0247",
+        "BLA_0255",
+        "BLA_0266",
+        "BLA_0280",
+        "BLA_0288",
+        "BLA_0289",
+        "BLA_0295",
+        "BLA_0296",
+        "BLA_0306",
+        "BLA_0333",
+        "BLA_0334",
+        "BLA_0344",
+        "BLA_0354",
+        "BLA_0355",
+        "BLA_0361",
+        "BLA_0362",
+        "BLA_0363",
+        "BLA_0364",
+        "BLA_0365",
+        "BLA_0366",
+        "BLA_0367",
+        "BLA_0368",
+        "BLA_0369",
+        "BLA_0370",
+        "BLA_0371",
+        "BLA_0372",
+        "BLA_0373",
+        "BLA_0374",
+        "BLA_0375",
+        "BLA_0376",
+        "BLA_0377",
+        "BLA_0378",
+        "BLA_0379",
+        "BLA_0380",
+        "BLA_0381",
+        "BLA_0385",
+        "BLA_0386",
+        "BLA_0388",
+        "BLA_0484",
+        "BLA_0689",
+        "BLA_0690",
+        "BLA_0692",
+        "BLA_0736",
+        "BLA_0737",
+        "BLA_1054",
+        "BLA_1145",
+        "BLA_1146",
+        "BLA_1295",
+        "BLA_1411",
+        "BLA_1414",
+        "BLA_1458",
+        "BLA_1498",
+        "BLA_1552",
+        "BLA_r0001",
+        "BLA_r0002",
+        "BLA_r0003",
+        "BLA_r0004",
+        "BLA_r0005",
+        "BLA_r0006",
+        "BLA_r0007"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla00970": {
+      "pathway_id": "bla00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0063",
+        "BLA_0226",
+        "BLA_0260",
+        "BLA_0401",
+        "BLA_0414",
+        "BLA_0497",
+        "BLA_0618",
+        "BLA_0660",
+        "BLA_0668",
+        "BLA_0669",
+        "BLA_0670",
+        "BLA_0813",
+        "BLA_0885",
+        "BLA_0916",
+        "BLA_1064",
+        "BLA_1162",
+        "BLA_1194",
+        "BLA_1195",
+        "BLA_1242",
+        "BLA_1243",
+        "BLA_1255",
+        "BLA_1277",
+        "BLA_1348",
+        "BLA_t0001",
+        "BLA_t0002",
+        "BLA_t0003",
+        "BLA_t0004",
+        "BLA_t0005",
+        "BLA_t0006",
+        "BLA_t0007",
+        "BLA_t0008",
+        "BLA_t0009",
+        "BLA_t0010",
+        "BLA_t0011",
+        "BLA_t0012",
+        "BLA_t0013",
+        "BLA_t0014",
+        "BLA_t0015",
+        "BLA_t0016",
+        "BLA_t0017",
+        "BLA_t0018",
+        "BLA_t0019",
+        "BLA_t0020",
+        "BLA_t0021",
+        "BLA_t0022",
+        "BLA_t0023",
+        "BLA_t0024",
+        "BLA_t0025",
+        "BLA_t0026",
+        "BLA_t0027",
+        "BLA_t0028",
+        "BLA_t0029",
+        "BLA_t0030",
+        "BLA_t0031",
+        "BLA_t0032",
+        "BLA_t0033",
+        "BLA_t0034",
+        "BLA_t0035",
+        "BLA_t0036",
+        "BLA_t0037",
+        "BLA_t0038",
+        "BLA_t0039",
+        "BLA_t0040",
+        "BLA_t0041",
+        "BLA_t0042",
+        "BLA_t0043",
+        "BLA_t0044",
+        "BLA_t0045",
+        "BLA_t0046",
+        "BLA_t0047",
+        "BLA_t0048",
+        "BLA_t0049",
+        "BLA_t0050",
+        "BLA_t0051",
+        "BLA_t0052"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03008": {
+      "pathway_id": "bla03008",
+      "name": "Ribosome biogenesis in eukaryotes - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0265",
+        "BLA_1060"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03060": {
+      "pathway_id": "bla03060",
+      "name": "Protein export - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0177",
+        "BLA_0259",
+        "BLA_0281",
+        "BLA_0293",
+        "BLA_0382",
+        "BLA_0807",
+        "BLA_0937",
+        "BLA_1340",
+        "BLA_1364",
+        "BLA_1550"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03018": {
+      "pathway_id": "bla03018",
+      "name": "RNA degradation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0192",
+        "BLA_0287",
+        "BLA_0307",
+        "BLA_0533",
+        "BLA_0664",
+        "BLA_0899",
+        "BLA_1030",
+        "BLA_1097",
+        "BLA_1183",
+        "BLA_1541"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03030": {
+      "pathway_id": "bla03030",
+      "name": "DNA replication - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0002",
+        "BLA_0182",
+        "BLA_0201",
+        "BLA_0213",
+        "BLA_0282",
+        "BLA_0400",
+        "BLA_0691",
+        "BLA_0804",
+        "BLA_0853",
+        "BLA_1065",
+        "BLA_1118",
+        "BLA_1223",
+        "BLA_1280"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03410": {
+      "pathway_id": "bla03410",
+      "name": "Base excision repair - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0550",
+        "BLA_0658",
+        "BLA_0718",
+        "BLA_1181",
+        "BLA_1223"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03420": {
+      "pathway_id": "bla03420",
+      "name": "Nucleotide excision repair - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0019",
+        "BLA_0538",
+        "BLA_0834",
+        "BLA_1223",
+        "BLA_1370",
+        "BLA_1372",
+        "BLA_1459",
+        "BLA_1496"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03430": {
+      "pathway_id": "bla03430",
+      "name": "Mismatch repair - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0002",
+        "BLA_0201",
+        "BLA_0213",
+        "BLA_0522",
+        "BLA_0523",
+        "BLA_0538",
+        "BLA_0691",
+        "BLA_0804",
+        "BLA_0834",
+        "BLA_0853",
+        "BLA_1065",
+        "BLA_1223",
+        "BLA_1280",
+        "BLA_1459"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03440": {
+      "pathway_id": "bla03440",
+      "name": "Homologous recombination - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0002",
+        "BLA_0003",
+        "BLA_0017",
+        "BLA_0201",
+        "BLA_0202",
+        "BLA_0213",
+        "BLA_0248",
+        "BLA_0691",
+        "BLA_0804",
+        "BLA_0825",
+        "BLA_0853",
+        "BLA_0934",
+        "BLA_1065",
+        "BLA_1161",
+        "BLA_1280",
+        "BLA_1341",
+        "BLA_1342",
+        "BLA_1343"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03250": {
+      "pathway_id": "bla03250",
+      "name": "Viral life cycle - HIV-1 - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0960"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla02010": {
+      "pathway_id": "bla02010",
+      "name": "ABC transporters - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0123",
+        "BLA_0124",
+        "BLA_0125",
+        "BLA_0126",
+        "BLA_0127",
+        "BLA_0157",
+        "BLA_0158",
+        "BLA_0164",
+        "BLA_0169",
+        "BLA_0171",
+        "BLA_0299",
+        "BLA_0327",
+        "BLA_0328",
+        "BLA_0329",
+        "BLA_0330",
+        "BLA_0492",
+        "BLA_0502",
+        "BLA_0503",
+        "BLA_0605",
+        "BLA_0622",
+        "BLA_0720",
+        "BLA_0721",
+        "BLA_0722",
+        "BLA_0723",
+        "BLA_0848",
+        "BLA_0849",
+        "BLA_0850",
+        "BLA_0883",
+        "BLA_0884",
+        "BLA_0904",
+        "BLA_0905",
+        "BLA_0906",
+        "BLA_0961",
+        "BLA_0962",
+        "BLA_0963",
+        "BLA_0987",
+        "BLA_1027",
+        "BLA_1028",
+        "BLA_1029",
+        "BLA_1046",
+        "BLA_1047",
+        "BLA_1076",
+        "BLA_1077",
+        "BLA_1198",
+        "BLA_1199",
+        "BLA_1200",
+        "BLA_1201",
+        "BLA_1220",
+        "BLA_1276",
+        "BLA_1520",
+        "BLA_1521",
+        "BLA_1522",
+        "BLA_1533"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla03070": {
+      "pathway_id": "bla03070",
+      "name": "Bacterial secretion system - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0177",
+        "BLA_0259",
+        "BLA_0293",
+        "BLA_0382",
+        "BLA_0937",
+        "BLA_1340",
+        "BLA_1364",
+        "BLA_1550"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla02020": {
+      "pathway_id": "bla02020",
+      "name": "Two-component system - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0001",
+        "BLA_0091",
+        "BLA_0179",
+        "BLA_0180",
+        "BLA_0195",
+        "BLA_0196",
+        "BLA_0197",
+        "BLA_0325",
+        "BLA_0326",
+        "BLA_0327",
+        "BLA_0427",
+        "BLA_0436",
+        "BLA_0563",
+        "BLA_0610",
+        "BLA_0749",
+        "BLA_0796",
+        "BLA_1085",
+        "BLA_1226"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla04146": {
+      "pathway_id": "bla04146",
+      "name": "Peroxisome - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0571",
+        "BLA_1206",
+        "BLA_1290",
+        "BLA_1293",
+        "BLA_1419"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla02024": {
+      "pathway_id": "bla02024",
+      "name": "Quorum sensing - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0123",
+        "BLA_0124",
+        "BLA_0125",
+        "BLA_0126",
+        "BLA_0127",
+        "BLA_0164",
+        "BLA_0177",
+        "BLA_0259",
+        "BLA_0293",
+        "BLA_0321",
+        "BLA_0323",
+        "BLA_0382",
+        "BLA_0419",
+        "BLA_0492",
+        "BLA_0563",
+        "BLA_0589",
+        "BLA_0648",
+        "BLA_0659",
+        "BLA_0720",
+        "BLA_0721",
+        "BLA_0722",
+        "BLA_0723",
+        "BLA_0770",
+        "BLA_0771",
+        "BLA_0772",
+        "BLA_0937",
+        "BLA_1090",
+        "BLA_1091",
+        "BLA_1092",
+        "BLA_1093",
+        "BLA_1094",
+        "BLA_1115",
+        "BLA_1206",
+        "BLA_1293",
+        "BLA_1306",
+        "BLA_1340",
+        "BLA_1364",
+        "BLA_1419",
+        "BLA_1550"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla04981": {
+      "pathway_id": "bla04981",
+      "name": "Folate transport and metabolism - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0340",
+        "BLA_0434",
+        "BLA_0435"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla04382": {
+      "pathway_id": "bla04382",
+      "name": "Cornified envelope formation - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [
+        "BLA_0043",
+        "BLA_0320",
+        "BLA_0418",
+        "BLA_0619"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bla01501": {
+      "pathway_id": "bla01501",
+      "name": "beta-Lactam resistance - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bla01502": {
+      "pathway_id": "bla01502",
+      "name": "Vancomycin resistance - Bifidobacterium animalis subsp. lactis AD011",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}

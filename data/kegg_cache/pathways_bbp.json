@@ -1,0 +1,1983 @@
+{
+  "organism_code": "bbp",
+  "organism_name": "bbp",
+  "retrieved_at": "2026-01-22T09:52:46.431287",
+  "pathways": {
+    "bbp01100": {
+      "pathway_id": "bbp01100",
+      "name": "Metabolic pathways - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01110": {
+      "pathway_id": "bbp01110",
+      "name": "Biosynthesis of secondary metabolites - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01120": {
+      "pathway_id": "bbp01120",
+      "name": "Microbial metabolism in diverse environments - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01200": {
+      "pathway_id": "bbp01200",
+      "name": "Carbon metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01210": {
+      "pathway_id": "bbp01210",
+      "name": "2-Oxocarboxylic acid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01212": {
+      "pathway_id": "bbp01212",
+      "name": "Fatty acid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01230": {
+      "pathway_id": "bbp01230",
+      "name": "Biosynthesis of amino acids - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01232": {
+      "pathway_id": "bbp01232",
+      "name": "Nucleotide metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01250": {
+      "pathway_id": "bbp01250",
+      "name": "Biosynthesis of nucleotide sugars - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01240": {
+      "pathway_id": "bbp01240",
+      "name": "Biosynthesis of cofactors - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01220": {
+      "pathway_id": "bbp01220",
+      "name": "Degradation of aromatic compounds - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp00010": {
+      "pathway_id": "bbp00010",
+      "name": "Glycolysis / Gluconeogenesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0139",
+        "BBPR_0354",
+        "BBPR_0539",
+        "BBPR_0584",
+        "BBPR_0587",
+        "BBPR_0679",
+        "BBPR_0690",
+        "BBPR_0711",
+        "BBPR_0747",
+        "BBPR_1035",
+        "BBPR_1037",
+        "BBPR_1038",
+        "BBPR_1054",
+        "BBPR_1088",
+        "BBPR_1364",
+        "BBPR_1403",
+        "BBPR_1416",
+        "BBPR_1487",
+        "BBPR_1512",
+        "BBPR_1563",
+        "BBPR_1714"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00020": {
+      "pathway_id": "bbp00020",
+      "name": "Citrate cycle (TCA cycle) - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0620",
+        "BBPR_0690",
+        "BBPR_1008",
+        "BBPR_1009",
+        "BBPR_1073",
+        "BBPR_1217",
+        "BBPR_1222",
+        "BBPR_1376"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00030": {
+      "pathway_id": "bbp00030",
+      "name": "Pentose phosphate pathway - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0139",
+        "BBPR_0265",
+        "BBPR_0354",
+        "BBPR_0768",
+        "BBPR_0998",
+        "BBPR_1028",
+        "BBPR_1029",
+        "BBPR_1126",
+        "BBPR_1497",
+        "BBPR_1498",
+        "BBPR_1500",
+        "BBPR_1512",
+        "BBPR_1516"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00040": {
+      "pathway_id": "bbp00040",
+      "name": "Pentose and glucuronate interconversions - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0367",
+        "BBPR_0368",
+        "BBPR_0369",
+        "BBPR_0976",
+        "BBPR_0998"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00051": {
+      "pathway_id": "bbp00051",
+      "name": "Fructose and mannose metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0139",
+        "BBPR_0562",
+        "BBPR_1037"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00052": {
+      "pathway_id": "bbp00052",
+      "name": "Galactose metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0150",
+        "BBPR_0164",
+        "BBPR_0366",
+        "BBPR_0406",
+        "BBPR_0407",
+        "BBPR_0482",
+        "BBPR_0584",
+        "BBPR_0976",
+        "BBPR_1050",
+        "BBPR_1051",
+        "BBPR_1054",
+        "BBPR_1355",
+        "BBPR_1390",
+        "BBPR_1416",
+        "BBPR_1456",
+        "BBPR_1460",
+        "BBPR_1512",
+        "BBPR_1742",
+        "BBPR_1815"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00053": {
+      "pathway_id": "bbp00053",
+      "name": "Ascorbate and aldarate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0030",
+        "BBPR_0031",
+        "BBPR_0032",
+        "BBPR_0367",
+        "BBPR_0368",
+        "BBPR_0369",
+        "BBPR_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00500": {
+      "pathway_id": "bbp00500",
+      "name": "Starch and sucrose metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0092",
+        "BBPR_0239",
+        "BBPR_0354",
+        "BBPR_0562",
+        "BBPR_0735",
+        "BBPR_0753",
+        "BBPR_0818",
+        "BBPR_0846",
+        "BBPR_0976",
+        "BBPR_1054",
+        "BBPR_1121",
+        "BBPR_1390",
+        "BBPR_1416",
+        "BBPR_1512",
+        "BBPR_1565",
+        "BBPR_1566",
+        "BBPR_1571",
+        "BBPR_1658",
+        "BBPR_1714",
+        "BBPR_1715",
+        "BBPR_1716",
+        "BBPR_1717"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00620": {
+      "pathway_id": "bbp00620",
+      "name": "Pyruvate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0042",
+        "BBPR_0281",
+        "BBPR_0539",
+        "BBPR_0690",
+        "BBPR_0747",
+        "BBPR_0758",
+        "BBPR_0759",
+        "BBPR_1035",
+        "BBPR_1235",
+        "BBPR_1364",
+        "BBPR_1563",
+        "BBPR_1640",
+        "BBPR_1744"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00630": {
+      "pathway_id": "bbp00630",
+      "name": "Glyoxylate and dicarboxylate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0393",
+        "BBPR_0531",
+        "BBPR_0620",
+        "BBPR_0688",
+        "BBPR_0690",
+        "BBPR_0982",
+        "BBPR_1369",
+        "BBPR_1376",
+        "BBPR_1454",
+        "BBPR_1639",
+        "BBPR_1640"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00640": {
+      "pathway_id": "bbp00640",
+      "name": "Propanoate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0539",
+        "BBPR_0620",
+        "BBPR_0690",
+        "BBPR_0758",
+        "BBPR_0759",
+        "BBPR_1008",
+        "BBPR_1009",
+        "BBPR_1035",
+        "BBPR_1235",
+        "BBPR_1454",
+        "BBPR_1639",
+        "BBPR_1640"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00650": {
+      "pathway_id": "bbp00650",
+      "name": "Butanoate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0347",
+        "BBPR_0348",
+        "BBPR_1217",
+        "BBPR_1222",
+        "BBPR_1235",
+        "BBPR_1562",
+        "BBPR_1563"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00660": {
+      "pathway_id": "bbp00660",
+      "name": "C5-Branched dibasic acid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0210",
+        "BBPR_0211",
+        "BBPR_0347",
+        "BBPR_0348",
+        "BBPR_0397",
+        "BBPR_1008",
+        "BBPR_1009",
+        "BBPR_1562"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00562": {
+      "pathway_id": "bbp00562",
+      "name": "Inositol phosphate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0632",
+        "BBPR_1037",
+        "BBPR_1400"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00190": {
+      "pathway_id": "bbp00190",
+      "name": "Oxidative phosphorylation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1217",
+        "BBPR_1222",
+        "BBPR_1646",
+        "BBPR_1647",
+        "BBPR_1648",
+        "BBPR_1649",
+        "BBPR_1650",
+        "BBPR_1651",
+        "BBPR_1652",
+        "BBPR_1653",
+        "BBPR_1659",
+        "BBPR_1763"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00710": {
+      "pathway_id": "bbp00710",
+      "name": "Carbon fixation by Calvin cycle - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0042",
+        "BBPR_0139",
+        "BBPR_0587",
+        "BBPR_0998",
+        "BBPR_1028",
+        "BBPR_1029",
+        "BBPR_1037",
+        "BBPR_1038",
+        "BBPR_1516"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00720": {
+      "pathway_id": "bbp00720",
+      "name": "Other carbon fixation pathways - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0042",
+        "BBPR_0196",
+        "BBPR_0620",
+        "BBPR_0741",
+        "BBPR_0758",
+        "BBPR_0759",
+        "BBPR_0934",
+        "BBPR_1008",
+        "BBPR_1009",
+        "BBPR_1073",
+        "BBPR_1217",
+        "BBPR_1222"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00680": {
+      "pathway_id": "bbp00680",
+      "name": "Methane metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0042",
+        "BBPR_0139",
+        "BBPR_0545",
+        "BBPR_0629",
+        "BBPR_0711",
+        "BBPR_0758",
+        "BBPR_0759",
+        "BBPR_1088",
+        "BBPR_1482",
+        "BBPR_1487"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00910": {
+      "pathway_id": "bbp00910",
+      "name": "Nitrogen metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0021",
+        "BBPR_0038",
+        "BBPR_0531",
+        "BBPR_0688",
+        "BBPR_0842",
+        "BBPR_0844"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00920": {
+      "pathway_id": "bbp00920",
+      "name": "Sulfur metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1343",
+        "BBPR_1654"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00061": {
+      "pathway_id": "bbp00061",
+      "name": "Fatty acid biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0231",
+        "BBPR_0297",
+        "BBPR_0374",
+        "BBPR_0826",
+        "BBPR_1070",
+        "BBPR_1075",
+        "BBPR_1638",
+        "BBPR_1640"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00071": {
+      "pathway_id": "bbp00071",
+      "name": "Fatty acid degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0297",
+        "BBPR_0374",
+        "BBPR_0826",
+        "BBPR_1070",
+        "BBPR_1075",
+        "BBPR_1364",
+        "BBPR_1563"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00074": {
+      "pathway_id": "bbp00074",
+      "name": "Mycolic acid biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1637",
+        "BBPR_1638",
+        "BBPR_1640"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00121": {
+      "pathway_id": "bbp00121",
+      "name": "Secondary bile acid biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0850"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00561": {
+      "pathway_id": "bbp00561",
+      "name": "Glycerolipid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1143",
+        "BBPR_1263",
+        "BBPR_1364",
+        "BBPR_1369",
+        "BBPR_1815"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00564": {
+      "pathway_id": "bbp00564",
+      "name": "Glycerophospholipid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0112",
+        "BBPR_0235",
+        "BBPR_0261",
+        "BBPR_0995",
+        "BBPR_1063",
+        "BBPR_1263",
+        "BBPR_1274"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00600": {
+      "pathway_id": "bbp00600",
+      "name": "Sphingolipid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0150",
+        "BBPR_0482",
+        "BBPR_1018",
+        "BBPR_1460",
+        "BBPR_1529",
+        "BBPR_1793",
+        "BBPR_1794",
+        "BBPR_1815"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00230": {
+      "pathway_id": "bbp00230",
+      "name": "Purine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0140",
+        "BBPR_0227",
+        "BBPR_0265",
+        "BBPR_0339",
+        "BBPR_0352",
+        "BBPR_0455",
+        "BBPR_0637",
+        "BBPR_0714",
+        "BBPR_0748",
+        "BBPR_0752",
+        "BBPR_0767",
+        "BBPR_0790",
+        "BBPR_1006",
+        "BBPR_1010",
+        "BBPR_1072",
+        "BBPR_1126",
+        "BBPR_1247",
+        "BBPR_1279",
+        "BBPR_1301",
+        "BBPR_1302",
+        "BBPR_1303",
+        "BBPR_1311",
+        "BBPR_1312",
+        "BBPR_1313",
+        "BBPR_1329",
+        "BBPR_1330",
+        "BBPR_1337",
+        "BBPR_1391",
+        "BBPR_1446",
+        "BBPR_1505",
+        "BBPR_1512",
+        "BBPR_1536",
+        "BBPR_1617",
+        "BBPR_1624",
+        "BBPR_1625"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00240": {
+      "pathway_id": "bbp00240",
+      "name": "Pyrimidine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0156",
+        "BBPR_0215",
+        "BBPR_0243",
+        "BBPR_0404",
+        "BBPR_0455",
+        "BBPR_0811",
+        "BBPR_0937",
+        "BBPR_0938",
+        "BBPR_0939",
+        "BBPR_0940",
+        "BBPR_0941",
+        "BBPR_0942",
+        "BBPR_0943",
+        "BBPR_1065",
+        "BBPR_1248",
+        "BBPR_1286",
+        "BBPR_1287",
+        "BBPR_1288",
+        "BBPR_1477",
+        "BBPR_1505",
+        "BBPR_1624",
+        "BBPR_1625",
+        "BBPR_1736",
+        "BBPR_1814"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00250": {
+      "pathway_id": "bbp00250",
+      "name": "Alanine, aspartate and glutamate metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0021",
+        "BBPR_0140",
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0531",
+        "BBPR_0577",
+        "BBPR_0600",
+        "BBPR_0637",
+        "BBPR_0688",
+        "BBPR_0840",
+        "BBPR_0842",
+        "BBPR_0844",
+        "BBPR_0937",
+        "BBPR_0938",
+        "BBPR_1148",
+        "BBPR_1155",
+        "BBPR_1204",
+        "BBPR_1257",
+        "BBPR_1287",
+        "BBPR_1288",
+        "BBPR_1311"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00260": {
+      "pathway_id": "bbp00260",
+      "name": "Glycine, serine and threonine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0241",
+        "BBPR_0242",
+        "BBPR_0393",
+        "BBPR_0545",
+        "BBPR_0629",
+        "BBPR_0690",
+        "BBPR_0716",
+        "BBPR_1000",
+        "BBPR_1001",
+        "BBPR_1088",
+        "BBPR_1130",
+        "BBPR_1298",
+        "BBPR_1344",
+        "BBPR_1369",
+        "BBPR_1482",
+        "BBPR_1487",
+        "BBPR_1749",
+        "BBPR_1751",
+        "BBPR_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00270": {
+      "pathway_id": "bbp00270",
+      "name": "Cysteine and methionine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0241",
+        "BBPR_0242",
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0459",
+        "BBPR_0539",
+        "BBPR_0545",
+        "BBPR_0625",
+        "BBPR_0716",
+        "BBPR_0832",
+        "BBPR_0933",
+        "BBPR_0968",
+        "BBPR_1035",
+        "BBPR_1213",
+        "BBPR_1226",
+        "BBPR_1341",
+        "BBPR_1343",
+        "BBPR_1344",
+        "BBPR_1366",
+        "BBPR_1367",
+        "BBPR_1411",
+        "BBPR_1482",
+        "BBPR_1606",
+        "BBPR_1617",
+        "BBPR_1654",
+        "BBPR_1749",
+        "BBPR_1751"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00280": {
+      "pathway_id": "bbp00280",
+      "name": "Valine, leucine and isoleucine degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0690",
+        "BBPR_0832",
+        "BBPR_1364",
+        "BBPR_1639",
+        "BBPR_1640"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00290": {
+      "pathway_id": "bbp00290",
+      "name": "Valine, leucine and isoleucine biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0147",
+        "BBPR_0148",
+        "BBPR_0210",
+        "BBPR_0211",
+        "BBPR_0347",
+        "BBPR_0348",
+        "BBPR_0397",
+        "BBPR_0623",
+        "BBPR_0832",
+        "BBPR_0840",
+        "BBPR_1744",
+        "BBPR_1810"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00300": {
+      "pathway_id": "bbp00300",
+      "name": "Lysine biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0238",
+        "BBPR_0241",
+        "BBPR_0249",
+        "BBPR_0435",
+        "BBPR_0436",
+        "BBPR_0466",
+        "BBPR_0493",
+        "BBPR_0552",
+        "BBPR_0581",
+        "BBPR_1158",
+        "BBPR_1749",
+        "BBPR_1751"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00310": {
+      "pathway_id": "bbp00310",
+      "name": "Lysine degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0690",
+        "BBPR_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00220": {
+      "pathway_id": "bbp00220",
+      "name": "Arginine biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0021",
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0531",
+        "BBPR_0688",
+        "BBPR_0840",
+        "BBPR_1148",
+        "BBPR_1155",
+        "BBPR_1157",
+        "BBPR_1158",
+        "BBPR_1159",
+        "BBPR_1160",
+        "BBPR_1161",
+        "BBPR_1287",
+        "BBPR_1288"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00330": {
+      "pathway_id": "bbp00330",
+      "name": "Arginine and proline metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0256",
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_1129",
+        "BBPR_1205",
+        "BBPR_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00340": {
+      "pathway_id": "bbp00340",
+      "name": "Histidine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0524",
+        "BBPR_0525",
+        "BBPR_0526",
+        "BBPR_0528",
+        "BBPR_0529",
+        "BBPR_0996",
+        "BBPR_0997",
+        "BBPR_1060",
+        "BBPR_1061",
+        "BBPR_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00350": {
+      "pathway_id": "bbp00350",
+      "name": "Tyrosine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0525",
+        "BBPR_1563"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00360": {
+      "pathway_id": "bbp00360",
+      "name": "Phenylalanine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0525"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00380": {
+      "pathway_id": "bbp00380",
+      "name": "Tryptophan metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0690",
+        "BBPR_1364"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00400": {
+      "pathway_id": "bbp00400",
+      "name": "Phenylalanine, tyrosine and tryptophan biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0525",
+        "BBPR_0529",
+        "BBPR_0605",
+        "BBPR_0606",
+        "BBPR_0757",
+        "BBPR_0805",
+        "BBPR_0806",
+        "BBPR_0807",
+        "BBPR_1000",
+        "BBPR_1001",
+        "BBPR_1059",
+        "BBPR_1265",
+        "BBPR_1607",
+        "BBPR_1610",
+        "BBPR_1667"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00430": {
+      "pathway_id": "bbp00430",
+      "name": "Taurine and hypotaurine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0758",
+        "BBPR_0759"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00450": {
+      "pathway_id": "bbp00450",
+      "name": "Selenocompound metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0040",
+        "BBPR_0815",
+        "BBPR_0933",
+        "BBPR_1226",
+        "BBPR_1343",
+        "BBPR_1367",
+        "BBPR_1786",
+        "BBPR_1836"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00470": {
+      "pathway_id": "bbp00470",
+      "name": "D-Amino acid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0238",
+        "BBPR_0262",
+        "BBPR_0465",
+        "BBPR_0466",
+        "BBPR_0554",
+        "BBPR_0577",
+        "BBPR_1338"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00480": {
+      "pathway_id": "bbp00480",
+      "name": "Glutathione metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0438",
+        "BBPR_0459",
+        "BBPR_1073",
+        "BBPR_1497",
+        "BBPR_1500"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00520": {
+      "pathway_id": "bbp00520",
+      "name": "Amino sugar and nucleotide sugar metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0078",
+        "BBPR_0217",
+        "BBPR_0240",
+        "BBPR_0354",
+        "BBPR_0406",
+        "BBPR_0407",
+        "BBPR_0441",
+        "BBPR_0562",
+        "BBPR_0566",
+        "BBPR_0567",
+        "BBPR_0679",
+        "BBPR_0696",
+        "BBPR_0818",
+        "BBPR_0976",
+        "BBPR_1018",
+        "BBPR_1050",
+        "BBPR_1051",
+        "BBPR_1054",
+        "BBPR_1125",
+        "BBPR_1416",
+        "BBPR_1456",
+        "BBPR_1512",
+        "BBPR_1529",
+        "BBPR_1578",
+        "BBPR_1742"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00541": {
+      "pathway_id": "bbp00541",
+      "name": "Biosynthesis of various nucleotide sugars - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0050",
+        "BBPR_0078",
+        "BBPR_0079",
+        "BBPR_0080",
+        "BBPR_0976",
+        "BBPR_1125"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00511": {
+      "pathway_id": "bbp00511",
+      "name": "Other glycan degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0150",
+        "BBPR_0193",
+        "BBPR_0482",
+        "BBPR_1018",
+        "BBPR_1360",
+        "BBPR_1460",
+        "BBPR_1529",
+        "BBPR_1793",
+        "BBPR_1794"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00542": {
+      "pathway_id": "bbp00542",
+      "name": "O-Antigen repeat unit biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1392"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00550": {
+      "pathway_id": "bbp00550",
+      "name": "Peptidoglycan biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0104",
+        "BBPR_0105",
+        "BBPR_0217",
+        "BBPR_0262",
+        "BBPR_0510",
+        "BBPR_0550",
+        "BBPR_0552",
+        "BBPR_0553",
+        "BBPR_0554",
+        "BBPR_0555",
+        "BBPR_0556",
+        "BBPR_0557",
+        "BBPR_0581",
+        "BBPR_1024",
+        "BBPR_1048",
+        "BBPR_1448",
+        "BBPR_1578",
+        "BBPR_1687",
+        "BBPR_1688"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00552": {
+      "pathway_id": "bbp00552",
+      "name": "Teichoic acid biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0698",
+        "BBPR_0699",
+        "BBPR_1024",
+        "BBPR_1392"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00572": {
+      "pathway_id": "bbp00572",
+      "name": "Arabinogalactan biosynthesis - Mycobacterium - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1392",
+        "BBPR_1768"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00543": {
+      "pathway_id": "bbp00543",
+      "name": "Exopolysaccharide biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1392"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00730": {
+      "pathway_id": "bbp00730",
+      "name": "Thiamine metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0477",
+        "BBPR_0480",
+        "BBPR_0481",
+        "BBPR_0588",
+        "BBPR_0602",
+        "BBPR_1332",
+        "BBPR_1536",
+        "BBPR_1771",
+        "BBPR_1800"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00740": {
+      "pathway_id": "bbp00740",
+      "name": "Riboflavin metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0481",
+        "BBPR_0748",
+        "BBPR_0752",
+        "BBPR_1519",
+        "BBPR_1806"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00750": {
+      "pathway_id": "bbp00750",
+      "name": "Vitamin B6 metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0375",
+        "BBPR_0376",
+        "BBPR_1130",
+        "BBPR_1216",
+        "BBPR_1482"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00760": {
+      "pathway_id": "bbp00760",
+      "name": "Nicotinate and nicotinamide metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0350",
+        "BBPR_0391",
+        "BBPR_0599",
+        "BBPR_0600",
+        "BBPR_0601",
+        "BBPR_0785",
+        "BBPR_0827",
+        "BBPR_0828",
+        "BBPR_0829",
+        "BBPR_1127",
+        "BBPR_1137",
+        "BBPR_1237",
+        "BBPR_1273",
+        "BBPR_1505",
+        "BBPR_1809"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00770": {
+      "pathway_id": "bbp00770",
+      "name": "Pantothenate and CoA biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0147",
+        "BBPR_0148",
+        "BBPR_0342",
+        "BBPR_0347",
+        "BBPR_0348",
+        "BBPR_0623",
+        "BBPR_0744",
+        "BBPR_0832",
+        "BBPR_1352",
+        "BBPR_1364",
+        "BBPR_1637"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00780": {
+      "pathway_id": "bbp00780",
+      "name": "Biotin metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0231",
+        "BBPR_1636",
+        "BBPR_1642"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00785": {
+      "pathway_id": "bbp00785",
+      "name": "Lipoic acid metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0393",
+        "BBPR_0399",
+        "BBPR_0690"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00790": {
+      "pathway_id": "bbp00790",
+      "name": "Folate biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0100",
+        "BBPR_0575",
+        "BBPR_0709",
+        "BBPR_1442",
+        "BBPR_1443",
+        "BBPR_1444",
+        "BBPR_1476",
+        "BBPR_1800"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00670": {
+      "pathway_id": "bbp00670",
+      "name": "One carbon pool by folate - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0196",
+        "BBPR_0393",
+        "BBPR_0625",
+        "BBPR_0690",
+        "BBPR_0741",
+        "BBPR_0934",
+        "BBPR_1006",
+        "BBPR_1344",
+        "BBPR_1476",
+        "BBPR_1477",
+        "BBPR_1587"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00130": {
+      "pathway_id": "bbp00130",
+      "name": "Ubiquinone and other terpenoid-quinone biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1114",
+        "BBPR_1488"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00900": {
+      "pathway_id": "bbp00900",
+      "name": "Terpenoid backbone biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0505",
+        "BBPR_0507",
+        "BBPR_0510",
+        "BBPR_0585",
+        "BBPR_0737",
+        "BBPR_1261",
+        "BBPR_1332",
+        "BBPR_1616",
+        "BBPR_1830"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00523": {
+      "pathway_id": "bbp00523",
+      "name": "Polyketide sugar unit biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0050",
+        "BBPR_0078",
+        "BBPR_0079",
+        "BBPR_0080"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp01054": {
+      "pathway_id": "bbp01054",
+      "name": "Nonribosomal peptide structures - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0577"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00332": {
+      "pathway_id": "bbp00332",
+      "name": "Carbapenem biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0256",
+        "BBPR_1129"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00261": {
+      "pathway_id": "bbp00261",
+      "name": "Monobactam biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0435",
+        "BBPR_0436",
+        "BBPR_1749",
+        "BBPR_1751"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00521": {
+      "pathway_id": "bbp00521",
+      "name": "Streptomycin biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0050",
+        "BBPR_0078",
+        "BBPR_0079",
+        "BBPR_0080",
+        "BBPR_0632",
+        "BBPR_1054",
+        "BBPR_1400",
+        "BBPR_1416",
+        "BBPR_1512"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00525": {
+      "pathway_id": "bbp00525",
+      "name": "Acarbose and validamycin biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0050",
+        "BBPR_0078",
+        "BBPR_0080"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00401": {
+      "pathway_id": "bbp00401",
+      "name": "Novobiocin biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0257",
+        "BBPR_0291",
+        "BBPR_0525",
+        "BBPR_0606"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00625": {
+      "pathway_id": "bbp00625",
+      "name": "Chloroalkane and chloroalkene degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0627",
+        "BBPR_1364",
+        "BBPR_1563"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00626": {
+      "pathway_id": "bbp00626",
+      "name": "Naphthalene degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1563"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03020": {
+      "pathway_id": "bbp03020",
+      "name": "RNA polymerase - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0418",
+        "BBPR_0419",
+        "BBPR_0624",
+        "BBPR_1531"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03010": {
+      "pathway_id": "bbp03010",
+      "name": "Ribosome - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0221",
+        "BBPR_0222",
+        "BBPR_0252",
+        "BBPR_0253",
+        "BBPR_0271",
+        "BBPR_0273",
+        "BBPR_0274",
+        "BBPR_0319",
+        "BBPR_0331",
+        "BBPR_0345",
+        "BBPR_0370",
+        "BBPR_0592",
+        "BBPR_0593",
+        "BBPR_0742",
+        "BBPR_0796",
+        "BBPR_0831",
+        "BBPR_0837",
+        "BBPR_1068",
+        "BBPR_1296",
+        "BBPR_1297",
+        "BBPR_1320",
+        "BBPR_1321",
+        "BBPR_1322",
+        "BBPR_1323",
+        "BBPR_1324",
+        "BBPR_1397",
+        "BBPR_1530",
+        "BBPR_1532",
+        "BBPR_1533",
+        "BBPR_1534",
+        "BBPR_1538",
+        "BBPR_1539",
+        "BBPR_1540",
+        "BBPR_1541",
+        "BBPR_1542",
+        "BBPR_1543",
+        "BBPR_1544",
+        "BBPR_1545",
+        "BBPR_1546",
+        "BBPR_1547",
+        "BBPR_1548",
+        "BBPR_1549",
+        "BBPR_1550",
+        "BBPR_1551",
+        "BBPR_1552",
+        "BBPR_1553",
+        "BBPR_1554",
+        "BBPR_1555",
+        "BBPR_1556",
+        "BBPR_1557",
+        "BBPR_1558",
+        "BBPR_1568",
+        "BBPR_1569",
+        "BBPR_1579",
+        "BBPR_1593",
+        "BBPR_1594",
+        "BBPR_1633",
+        "BBPR_1843",
+        "BBPR_1rRNA16S",
+        "BBPR_1rRNA23S",
+        "BBPR_1rRNA5S",
+        "BBPR_2rRNA16S",
+        "BBPR_2rRNA23S",
+        "BBPR_2rRNA5S",
+        "BBPR_3rRNA16S",
+        "BBPR_3rRNA23S",
+        "BBPR_3rRNA5S"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp00970": {
+      "pathway_id": "bbp00970",
+      "name": "Aminoacyl-tRNA biosynthesis - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0046",
+        "BBPR_0205",
+        "BBPR_0236",
+        "BBPR_0338",
+        "BBPR_0483",
+        "BBPR_0628",
+        "BBPR_0664",
+        "BBPR_0665",
+        "BBPR_0801",
+        "BBPR_1020",
+        "BBPR_1085",
+        "BBPR_1145",
+        "BBPR_1163",
+        "BBPR_1164",
+        "BBPR_1362",
+        "BBPR_1382",
+        "BBPR_1489",
+        "BBPR_1504",
+        "BBPR_1665",
+        "BBPR_1675",
+        "BBPR_1676",
+        "BBPR_1677",
+        "BBPR_1786",
+        "BBPR_tRNA1",
+        "BBPR_tRNA10",
+        "BBPR_tRNA11",
+        "BBPR_tRNA12",
+        "BBPR_tRNA13",
+        "BBPR_tRNA14",
+        "BBPR_tRNA15",
+        "BBPR_tRNA16",
+        "BBPR_tRNA17",
+        "BBPR_tRNA18",
+        "BBPR_tRNA19",
+        "BBPR_tRNA2",
+        "BBPR_tRNA20",
+        "BBPR_tRNA21",
+        "BBPR_tRNA22",
+        "BBPR_tRNA23",
+        "BBPR_tRNA24",
+        "BBPR_tRNA25",
+        "BBPR_tRNA26",
+        "BBPR_tRNA27",
+        "BBPR_tRNA28",
+        "BBPR_tRNA29",
+        "BBPR_tRNA3",
+        "BBPR_tRNA30",
+        "BBPR_tRNA31",
+        "BBPR_tRNA32",
+        "BBPR_tRNA33",
+        "BBPR_tRNA34",
+        "BBPR_tRNA35",
+        "BBPR_tRNA37",
+        "BBPR_tRNA38",
+        "BBPR_tRNA39",
+        "BBPR_tRNA4",
+        "BBPR_tRNA40",
+        "BBPR_tRNA41",
+        "BBPR_tRNA42",
+        "BBPR_tRNA43",
+        "BBPR_tRNA44",
+        "BBPR_tRNA45",
+        "BBPR_tRNA46",
+        "BBPR_tRNA47",
+        "BBPR_tRNA48",
+        "BBPR_tRNA49",
+        "BBPR_tRNA5",
+        "BBPR_tRNA50",
+        "BBPR_tRNA51",
+        "BBPR_tRNA52",
+        "BBPR_tRNA53",
+        "BBPR_tRNA6",
+        "BBPR_tRNA7",
+        "BBPR_tRNA8",
+        "BBPR_tRNA9"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03008": {
+      "pathway_id": "bbp03008",
+      "name": "Ribosome biogenesis in eukaryotes - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0346",
+        "BBPR_0895",
+        "BBPR_1388"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03060": {
+      "pathway_id": "bbp03060",
+      "name": "Protein export - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0258",
+        "BBPR_0335",
+        "BBPR_0371",
+        "BBPR_0489",
+        "BBPR_1011",
+        "BBPR_1036",
+        "BBPR_1266",
+        "BBPR_1537",
+        "BBPR_1694",
+        "BBPR_1841"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp04122": {
+      "pathway_id": "bbp04122",
+      "name": "Sulfur relay system - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0602",
+        "BBPR_1770"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03018": {
+      "pathway_id": "bbp03018",
+      "name": "RNA degradation - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0251",
+        "BBPR_0437",
+        "BBPR_0650",
+        "BBPR_0711",
+        "BBPR_1342",
+        "BBPR_1631",
+        "BBPR_1670",
+        "BBPR_1763",
+        "BBPR_1798",
+        "BBPR_1832"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03030": {
+      "pathway_id": "bbp03030",
+      "name": "DNA replication - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0002",
+        "BBPR_0272",
+        "BBPR_0372",
+        "BBPR_0514",
+        "BBPR_0685",
+        "BBPR_0890",
+        "BBPR_1082",
+        "BBPR_1336",
+        "BBPR_1375",
+        "BBPR_1380",
+        "BBPR_1515",
+        "BBPR_1689",
+        "BBPR_1735",
+        "BBPR_1753"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03410": {
+      "pathway_id": "bbp03410",
+      "name": "Base excision repair - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0416",
+        "BBPR_0614",
+        "BBPR_0647",
+        "BBPR_0685",
+        "BBPR_1093",
+        "BBPR_1663"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03420": {
+      "pathway_id": "bbp03420",
+      "name": "Nucleotide excision repair - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0429",
+        "BBPR_0471",
+        "BBPR_0685",
+        "BBPR_0708",
+        "BBPR_0745",
+        "BBPR_0792",
+        "BBPR_0947",
+        "BBPR_1042",
+        "BBPR_1043"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03430": {
+      "pathway_id": "bbp03430",
+      "name": "Mismatch repair - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0002",
+        "BBPR_0272",
+        "BBPR_0429",
+        "BBPR_0453",
+        "BBPR_0454",
+        "BBPR_0471",
+        "BBPR_0514",
+        "BBPR_0685",
+        "BBPR_0792",
+        "BBPR_0890",
+        "BBPR_1082",
+        "BBPR_1375",
+        "BBPR_1380",
+        "BBPR_1735",
+        "BBPR_1753"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03440": {
+      "pathway_id": "bbp03440",
+      "name": "Homologous recombination - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0002",
+        "BBPR_0003",
+        "BBPR_0130",
+        "BBPR_0166",
+        "BBPR_0272",
+        "BBPR_0320",
+        "BBPR_0509",
+        "BBPR_0514",
+        "BBPR_0626",
+        "BBPR_0777",
+        "BBPR_0890",
+        "BBPR_1012",
+        "BBPR_1013",
+        "BBPR_1016",
+        "BBPR_1082",
+        "BBPR_1150",
+        "BBPR_1270",
+        "BBPR_1334",
+        "BBPR_1375",
+        "BBPR_1380",
+        "BBPR_1735",
+        "BBPR_1752",
+        "BBPR_1753"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03250": {
+      "pathway_id": "bbp03250",
+      "name": "Viral life cycle - HIV-1 - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1241"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp02010": {
+      "pathway_id": "bbp02010",
+      "name": "ABC transporters - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0191",
+        "BBPR_0192",
+        "BBPR_0462",
+        "BBPR_0463",
+        "BBPR_0496",
+        "BBPR_0497",
+        "BBPR_0609",
+        "BBPR_0610",
+        "BBPR_0611",
+        "BBPR_0612",
+        "BBPR_0668",
+        "BBPR_0669",
+        "BBPR_0670",
+        "BBPR_0671",
+        "BBPR_0681",
+        "BBPR_0704",
+        "BBPR_0705",
+        "BBPR_1086",
+        "BBPR_1198",
+        "BBPR_1199",
+        "BBPR_1202",
+        "BBPR_1600",
+        "BBPR_1601",
+        "BBPR_1602",
+        "BBPR_1603",
+        "BBPR_1641",
+        "BBPR_1703",
+        "BBPR_1704",
+        "BBPR_1824"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp02060": {
+      "pathway_id": "bbp02060",
+      "name": "Phosphotransferase system (PTS) - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0030",
+        "BBPR_0031",
+        "BBPR_0032",
+        "BBPR_0239",
+        "BBPR_0240",
+        "BBPR_0366",
+        "BBPR_1508",
+        "BBPR_1715",
+        "BBPR_1716",
+        "BBPR_1717",
+        "BBPR_1732",
+        "BBPR_1733"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp03070": {
+      "pathway_id": "bbp03070",
+      "name": "Bacterial secretion system - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0258",
+        "BBPR_0335",
+        "BBPR_1011",
+        "BBPR_1036",
+        "BBPR_1266",
+        "BBPR_1537",
+        "BBPR_1694",
+        "BBPR_1841"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp02020": {
+      "pathway_id": "bbp02020",
+      "name": "Two-component system - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0001",
+        "BBPR_0041",
+        "BBPR_0126",
+        "BBPR_0400",
+        "BBPR_0531",
+        "BBPR_0688",
+        "BBPR_1048",
+        "BBPR_1463",
+        "BBPR_1475",
+        "BBPR_1484",
+        "BBPR_1603",
+        "BBPR_1604",
+        "BBPR_1605",
+        "BBPR_1691",
+        "BBPR_1692",
+        "BBPR_1759",
+        "BBPR_1760",
+        "BBPR_1761",
+        "BBPR_1800"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp04142": {
+      "pathway_id": "bbp04142",
+      "name": "Lysosome - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1018",
+        "BBPR_1360",
+        "BBPR_1529",
+        "BBPR_1635",
+        "BBPR_1793",
+        "BBPR_1794"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp04146": {
+      "pathway_id": "bbp04146",
+      "name": "Peroxisome - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0297",
+        "BBPR_0374",
+        "BBPR_0391",
+        "BBPR_0826",
+        "BBPR_1070",
+        "BBPR_1073",
+        "BBPR_1075"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp02024": {
+      "pathway_id": "bbp02024",
+      "name": "Quorum sensing - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_0258",
+        "BBPR_0297",
+        "BBPR_0335",
+        "BBPR_0374",
+        "BBPR_0400",
+        "BBPR_0568",
+        "BBPR_0569",
+        "BBPR_0570",
+        "BBPR_0571",
+        "BBPR_0826",
+        "BBPR_1011",
+        "BBPR_1036",
+        "BBPR_1059",
+        "BBPR_1070",
+        "BBPR_1075",
+        "BBPR_1266",
+        "BBPR_1341",
+        "BBPR_1347",
+        "BBPR_1348",
+        "BBPR_1349",
+        "BBPR_1350",
+        "BBPR_1351",
+        "BBPR_1537",
+        "BBPR_1607",
+        "BBPR_1610",
+        "BBPR_1664",
+        "BBPR_1694",
+        "BBPR_1841"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp04981": {
+      "pathway_id": "bbp04981",
+      "name": "Folate transport and metabolism - Bifidobacterium bifidum PRL2010",
+      "genes": [
+        "BBPR_1476",
+        "BBPR_1477",
+        "BBPR_1587"
+      ],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 1.0
+    },
+    "bbp01501": {
+      "pathway_id": "bbp01501",
+      "name": "beta-Lactam resistance - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    },
+    "bbp01502": {
+      "pathway_id": "bbp01502",
+      "name": "Vancomycin resistance - Bifidobacterium bifidum PRL2010",
+      "genes": [],
+      "enzymes": [],
+      "compounds": [],
+      "completeness": 0.0
+    }
+  }
+}
